@@ -21,7 +21,18 @@ The guidelines offered to the annotators are available in PDF format.
 
 ## CORPORA
 
-The corpora is available in the CSV format. The fields have the following meaning:
+The corpora is available in the CSV format. 
+
+The document fields have the following meaning:
+
+```
+docno - document id
+doctype - the partition of the document
+text - the content of the document
+```
+
+
+The annotation fields have the following meaning:
 
 ```
 docno - document id
