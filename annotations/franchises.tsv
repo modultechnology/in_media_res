@@ -1,0 +1,374 @@
+doc	surface	type	start	link
+1	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+1	Patrick Stewart	PER		http://dbpedia.org/resource/Patrick_Stewart
+1	Captain Jean-Luc Picard	PER		http://dbpedia.org/resource/Jean-Luc_Picard
+1	Star Trek: The Next Generation	WORK		http://dbpedia.org/resource/Star_Trek:_The_Next_Generation
+2	Star Trek: The Next Generation	WORK		http://dbpedia.org/resource/Star_Trek:_The_Next_Generation
+2	Gene Roddenberry	PER		http://dbpedia.org/resource/Gene_Roddenberry
+2	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+3	Star Trek franchise	WORK		http://dbpedia.org/resource/Star_Trek
+3	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+3	Star Trek: The Original Series	WORK		http://dbpedia.org/resource/Star_Trek
+4	Star Trek: Deep Space Nine	WORK		http://dbpedia.org/resource/Star_Trek:_Deep_Space_Nine
+4	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+4	The Next Generation	WORK		http://dbpedia.org/resource/Star_Trek:_The_Next_Generation
+4	UPN 	ORG		http://dbpedia.org/resource/UPN
+4	Voyager	WORK		http://dbpedia.org/resource/Star_Trek:_Voyager
+5	Star Trek: Voyager	WORK		http://dbpedia.org/resource/Star_Trek
+5	Next Generation	WORK		http://dbpedia.org/resource/Star_Trek:_The_Next_Generation
+5	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+6	Star Trek: Picard	WORK		http://dbpedia.org/resource/Star_Trek:_Picard
+6	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+6	Patrick Stewart	PER		http://dbpedia.org/resource/Saint_Patrick
+6	Jean-Luc Picard	PER		http://dbpedia.org/resource/Jean-Luc_Picard
+6	Star Trek: The Next Generation	WORK		http://dbpedia.org/resource/Star_Trek:_The_Next_Generation
+6	Star Trek: Nemesis	WORK		http://dbpedia.org/resource/Star_Trek:_Nemesis
+6	Picard	PER		http://dbpedia.org/resource/Jean-Luc_Picard
+6	Admiral	ROLE		http://dbpedia.org/resource/Admiral
+6	Romulus	LOC		NIL
+7	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+7	Star Trek film series	WORK		http://dbpedia.org/resource/Star_Trek_(film_series)
+8	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+9	Star Trek: 25th Anniversary	WORK		http://dbpedia.org/resource/Star_Trek:_25th_Anniversary_(computer_game)
+9	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+9	Interplay	ORG		http://dbpedia.org/resource/Interplay_Entertainment
+9	The Original Series	WORK		http://dbpedia.org/resource/Star_Trek
+10	Sherlock Holmes	WORK		http://dbpedia.org/resource/Sherlock_Holmes
+10	The Man from Uncle 	WORK		http://dbpedia.org/resource/The_Man_from_U.N.C.L.E.
+10	Star Trek	WORK		http://dbpedia.org/resource/Star_Trek
+10	Star Trek: The Original Series	WORK		http://dbpedia.org/resource/Star_Trek
+11	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+11	BBC TV	ORG		http://dbpedia.org/resource/BBC
+11	Doctor Who Expanded Universe	WORK		http://dbpedia.org/resource/Doctor_Who
+12	Torchwood	WORK		http://dbpedia.org/resource/Torchwood
+12	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+12	Whoniverse	WORK		http://dbpedia.org/resource/Whoniverse
+13	Class	WORK		http://dbpedia.org/resource/Class_(2016_TV_series)
+13	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+14	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+15	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+15	Whoniverse	WORK		http://dbpedia.org/resource/Whoniverse
+15	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+15	Doctor Who Expanded Universe	WORK		http://dbpedia.org/resource/Doctor_Who
+16	K9	WORK		http://dbpedia.org/resource/Dog
+16	Doctor Who 	WORK		http://dbpedia.org/resource/Doctor_Who
+16	Professor Gryffen's laboratory	LOC		NIL
+16	London	LOC		http://dbpedia.org/resource/London
+17	Big Finish Doctor Who 	WORK		NIL
+17	Big Finish	ORG		NIL
+17	Nicholas Briggs	PER		http://dbpedia.org/resource/Nicholas_Briggs
+17	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+18	Dr. Who and the Daleks	WORK		http://dbpedia.org/resource/Dalek
+18	Dalekmania	OTHER		http://dbpedia.org/resource/Dalekmania
+18	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+19	Doctor Who: Worlds in Time	WORK		http://dbpedia.org/resource/Doctor_Who%3A_Worlds_in_Time
+19	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+19	Three Rings	ORG		http://dbpedia.org/resource/Three_Rings
+19	Puzzle Pirates	WORK		http://dbpedia.org/resource/Puzzle_Pirates
+20	Legacy	WORK		http://dbpedia.org/resource/Doctor_Who:_Legacy
+20	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+20	Facebook	ORG		http://dbpedia.org/resource/Facebook
+20	Tiny Rebel Games	ORG		NIL
+20	Doctor Who Expanded Universe	WORK		http://dbpedia.org/resource/Doctor_Who
+21	Star Wars	WORK		http://dbpedia.org/resource/Star_Wars_(film)
+21	George Lucas	PER		http://dbpedia.org/resource/George_Lucas
+21	Lucasfilm	WORK		http://dbpedia.org/resource/Lucasfilm
+22	Star Wars	WORK		http://dbpedia.org/resource/Star_Wars
+22	Star Wars: Episode IV - A New Hope	WORK		http://dbpedia.org/resource/Star_Wars_(film)
+22	Star Wars	WORK		http://dbpedia.org/resource/Star_Wars
+22	George Lucas	PER		http://dbpedia.org/resource/George_Lucas
+23	Star Wars: Episode I - The Phantom Menace	WORK		http://dbpedia.org/resource/Star_Wars
+23	The Phantom Menace	WORK		http://dbpedia.org/resource/Star_Wars:_Episode_I_–_The_Phantom_Menace
+23	Star Wars prequel trilogy	WORK		http://dbpedia.org/resource/Star_Wars
+24	Star Wars: The Force Awakens	WORK		http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+24	Star Wars Sequel Trilogy	WORK		http://dbpedia.org/resource/Star_Wars_sequel_trilogy
+24	J. J. Abrams	PER		http://dbpedia.org/resource/J._J._Abrams
+25	The Mandalorian	WORK		http://dbpedia.org/resource/Mandalorian
+25	Star Wars	WORK		http://dbpedia.org/resource/Star_Wars
+26	Star Wars: The Clone Wars	WORK		http://dbpedia.org/resource/Star_Wars:_The_Clone_Wars_(film)
+26	Star Wars franchise	WORK		http://dbpedia.org/resource/Star_Wars
+27	Star Wars Rebels	WORK		http://dbpedia.org/resource/Star_Wars_Rebels
+27	Star Wars franchise	WORK		http://dbpedia.org/resource/Star_Wars
+27	Star Wars: The Clone Wars	WORK		http://dbpedia.org/resource/Star_Wars:_The_Clone_Wars_(2008_TV_series)
+27	Star Wars	WORK		http://dbpedia.org/resource/Star_Wars
+27	Disney	ORG		http://dbpedia.org/resource/The_Walt_Disney_Company
+27	Lucasfilm	ORG		http://dbpedia.org/resource/Lucasfilm
+28	Star Wars Jedi: Fallen Order	WORK		http://dbpedia.org/resource/Star_Wars_Jedi:_Fallen_Order
+28	Respawn Entertainment	ORG		http://dbpedia.org/resource/Respawn_Entertainment
+28	Titanfall	WORK		http://dbpedia.org/resource/Titanfall
+28	Apex Legens	WORK		NIL
+28	Electronic Arts	ORG		http://dbpedia.org/resource/Electronic_Arts
+28	Playstation 4	OTHER		http://dbpedia.org/resource/PlayStation_4
+28	Xbox One	OTHER		http://dbpedia.org/resource/Xbox
+28	PC	OTHER		http://dbpedia.org/resource/Personal_computer
+29	Star Wars: The Aftermath Trilogy	WORK		http://dbpedia.org/resource/Star_Wars
+29	Star Wars Expanded Universe	WORK		http://dbpedia.org/resource/Star_Wars_expanded_universe
+29	Chuck Wendig	PER		http://dbpedia.org/resource/Chuck_Wendig
+29	Return of the Jedi	WORK		http://dbpedia.org/resource/Return_of_the_Jedi
+30	Doctor Aphra	WORK		http://dbpedia.org/resource/Doctor_Aphra
+30	Darth Vader	PER		http://dbpedia.org/resource/Darth_Vader
+31	Stargate verse	WORK		http://dbpedia.org/resource/Stargate
+32	Stargate SG-1	WORK		http://dbpedia.org/resource/Stargate_SG-1
+32	Stargate	WORK		http://dbpedia.org/resource/Stargate
+32	U.S. Air Force	ORG		http://dbpedia.org/resource/United_States_Air_Force
+32	SG-1 	ORG		http://dbpedia.org/resource/Stargate_SG-1
+33	The Ark of Truth	WORK		http://dbpedia.org/resource/Stargate:_The_Ark_of_Truth
+33	Ori	OTHER		NIL
+33	Stargate SG-1	WORK		http://dbpedia.org/resource/Stargate_SG-1
+34	Stargate Continuum	WORK		http://dbpedia.org/resource/Stargate:_Continuum
+34	Stargate SG-1	WORK		http://dbpedia.org/resource/Stargate_SG-1
+34	Stargate verse	WORK		http://dbpedia.org/resource/Stargate
+35	Stargate Atlantis	WORK		http://dbpedia.org/resource/Stargate_Atlantis
+35	Stargate SG-1 	WORK		http://dbpedia.org/resource/Stargate_SG-1
+36	Stargate	WORK		http://dbpedia.org/resource/Stargate
+37	Stargate Origins	WORK		http://dbpedia.org/resource/Stargate
+37	Stargate-verse	WORK		NIL
+37	SG-1	WORK		http://dbpedia.org/resource/Stargate_SG-1
+37	Atlantis	WORK		http://dbpedia.org/resource/Stargate_Atlantis
+37	Universe	WORK		http://dbpedia.org/resource/Stargate_Universe
+38	Stargate-verse	WORK		NIL
+38	Stargate Infinity	WORK		http://dbpedia.org/resource/Stargate_Infinity
+38	Stargate	WORK		http://dbpedia.org/resource/Stargate
+38	DiC Entertainment	ORG		http://dbpedia.org/resource/DIC_Entertainment
+38	Fox Box	ORG		http://dbpedia.org/resource/Fox_Broadcasting_Company
+38	Stargate-verse	WORK		NIL
+39	SG-1	WORK		http://dbpedia.org/resource/Stargate_SG-1
+39	Stargate: Revolution	WORK		http://dbpedia.org/resource/Stargate
+39	Stargate Universe	WORK		http://dbpedia.org/resource/Stargate_Universe
+40	James Bond	WORK		http://dbpedia.org/resource/James_Bond
+40	James Bond 007	WORK		http://dbpedia.org/resource/James_Bond
+40	Ian Fleming	PER		http://dbpedia.org/resource/Ian_Fleming
+41	GoldenEye	WORK		http://dbpedia.org/resource/GoldenEye
+41	James Bond	WORK		http://dbpedia.org/resource/James_Bond
+41	Rare	ORG		http://dbpedia.org/resource/Rare_(company)
+41	Nintendo 64	OTHER		http://dbpedia.org/resource/Nintendo
+41	GoldenEye 007	WORK		http://dbpedia.org/resource/GoldenEye_007_(1997_video_game)
+43	Dr. No 	WORK		NIL
+43	James Bond	WORK		http://dbpedia.org/resource/James_Bond
+43	Terence Young	PER		http://dbpedia.org/resource/Terence_Young_(director)
+43	Sean Connery	PER		http://dbpedia.org/resource/Sean_Connery
+44	From Russia with Love 	WORK		http://dbpedia.org/resource/From_Russia_with_Love
+44	Terence Young 	PER		http://dbpedia.org/resource/Terence_Young_(director)
+44	Sean Connery	PER		http://dbpedia.org/resource/Sean_Connery
+45	Live and Let Die	WORK		NIL
+45	James Bond	WORK		http://dbpedia.org/resource/James_Bond
+45	Guy Hamilton	PER		http://dbpedia.org/resource/Guy_Hamilton
+45	Roger Moore	PER		http://dbpedia.org/resource/Roger_Moore
+46	GoldenEye	WORK		http://dbpedia.org/resource/GoldenEye
+46	James Bond	WORK		http://dbpedia.org/resource/James_Bond
+46	Licence To Kill	WORK		NIL
+46	Russia	LOC		http://dbpedia.org/resource/Russia
+46	Cold War 	OTHER		http://dbpedia.org/resource/Cold_War
+46	Martin Campbell	PER		http://dbpedia.org/resource/Martin_Campbell
+46	Pierce Brosnan	PER		http://dbpedia.org/resource/Pierce_Brosnan
+47	Casino Royale	WORK		http://dbpedia.org/resource/Casino_Royale_(2006_film)
+47	EON Productions	ORG		http://dbpedia.org/resource/Eon_Productions
+47	James Bond film franchise	WORK		http://dbpedia.org/resource/James_Bond
+47	James Bond	WORK		http://dbpedia.org/resource/James_Bond
+47	Casino Royale	WORK		http://dbpedia.org/resource/Casino_Royale_(2006_film)
+47	Martin Campbell	PER		http://dbpedia.org/resource/Martin_Campbell
+47	Daniel Craig	PER		http://dbpedia.org/resource/Daniel_Craig
+47	James Bond	PER		http://dbpedia.org/resource/James_Bond
+48	007 Legends	WORK		http://dbpedia.org/resource/007_Legends
+48	Eurocom	ORG		http://dbpedia.org/resource/Eurocom
+48	Activision	ORG		http://dbpedia.org/resource/Activision
+48	Xbox 360	OTHER		http://dbpedia.org/resource/Xbox
+48	PS3	OTHER		http://dbpedia.org/resource/PlayStation_3
+48	Wii U	OTHER		http://dbpedia.org/resource/Wii_U
+48	James Bond	PER		http://dbpedia.org/resource/James_Bond
+48	Daniel Craig	PER		http://dbpedia.org/resource/Daniel_Craig
+49	James Bond Jr.	WORK		http://dbpedia.org/resource/James_Bond_Jr.
+49	James Bond's nephew	PER		http://dbpedia.org/resource/James_Bond
+50	Skyfall	WORK		http://dbpedia.org/resource/Skyfall
+50	James Bond franchise	WORK		http://dbpedia.org/resource/James_Bond
+50	Daniel Craig	PER		http://dbpedia.org/resource/Daniel_Craig
+51	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+51	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+52	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+52	Dick Wolf	PER		http://dbpedia.org/resource/Dick_Wolf
+53	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+54	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+54	Criminal Intent	WORK		http://dbpedia.org/resource//Law_%26_Order:_Criminal_Intent
+55	Law & Order: Trial by Jury	WORK		http://dbpedia.org/resource/Law_%26_Order_(franchise)#Law_&_Order:_Criminal_Intent
+55	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+56	Law & Order: True Crime	WORK		http://dbpedia.org/resource/Law_%26_Order_True_Crime
+56	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+56	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+56	American Crime Story	WORK		http://dbpedia.org/resource/American_Crime_Story
+57	Law & Order: LA	WORK		http://dbpedia.org/resource/Law_%26_Order:_LA
+57	Law & Order: Los Angeles	WORK		http://dbpedia.org/resource/Law_%26_Order:_LA
+57	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+57	Los Angeles	LOC		http://dbpedia.org/resource/Los_Angeles
+58	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+58	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+58	London	LOC		http://dbpedia.org/resource/London
+58	Law & Order: London	WORK		http://dbpedia.org/resource/Law_%26_Order:_UK
+59	Conviction	WORK		http://dbpedia.org/resource/Conviction
+59	Law & Order	WORK		http://dbpedia.org/resource/Law_&_Order
+59	Stephanie March	PER		http://dbpedia.org/resource/Stephanie_March
+59	Alex Cabot	PER		http://dbpedia.org/resource/Alex_Russo
+59	Law & Order: Special Victims Unit	WORK		http://dbpedia.org/resource/Law_%26_Order:_Special_Victims_Unit
+60	Law and Order	WORK		http://dbpedia.org/resource/Law_&_Order
+61	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+61	MCU	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+61	Marvel Entertainment	ORG		http://dbpedia.org/resource/Marvel_Entertainment
+61	Marvel Studios	ORG		http://dbpedia.org/resource/Marvel_Studios
+62	Iron Man	WORK		http://dbpedia.org/resource/Iron_Man
+62	Marvel Comics	WORK		http://dbpedia.org/resource/Marvel_Comics
+62	Iron Man	WORK		http://dbpedia.org/resource/Iron_Man
+62	Robert Downey Jr.	PER		http://dbpedia.org/resource/Robert_Downey_Jr.
+63	Captain America: The First Avenger	WORK		http://dbpedia.org/resource/Captain_America:_The_First_Avenger
+63	Marvel Comics	WORK		http://dbpedia.org/resource/Marvel_Comics
+63	Captain America	WORK		http://dbpedia.org/resource/Captain_America
+63	Marvel Studios	ORG		http://dbpedia.org/resource/Marvel_Studios
+63	Joe Johnston	PER		http://dbpedia.org/resource/Joe_Johnston
+63	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+64	The Avengers	WORK		http://dbpedia.org/resource/Avengers_(comics)
+64	Avengers Assemble	WORK		http://dbpedia.org/resource/Avengers_Assemble_(TV_series)
+64	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+64	Ireland	LOC		http://dbpedia.org/resource/Ireland
+64	Marvel's The Avengers	WORK		http://dbpedia.org/resource/Avengers_(comics)
+64	The Avengers	WORK		http://dbpedia.org/resource/Avengers_(comics)
+64	Joss Whedon	PER		http://dbpedia.org/resource/Joss_Whedon
+64	Marvel Studios	ORG		http://dbpedia.org/resource/Marvel_Studios
+64	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+65	Daredevil	WORK		http://dbpedia.org/resource/Daredevil_(TV_series)
+65	Netflix	ORG		http://dbpedia.org/resource/Netflix
+65	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+65	Defenders	WORK		http://dbpedia.org/resource/Defenders_(comics)
+65	Jessica Jones	WORK		http://dbpedia.org/resource/Jessica_Jones_(TV_series)
+65	Luke Cage	WORK		http://dbpedia.org/resource/Luke_Cage_(TV_series)
+65	Iron Fist	WORK		http://dbpedia.org/resource/Iron_Fist_(TV_series)
+65	The Punisher	WORK		http://dbpedia.org/resource/Punisher_(TV_series)
+66	Jessica Jones	WORK		http://dbpedia.org/resource/Jessica_Jones_(TV_series)
+66	Netflix	ORG		http://dbpedia.org/resource/Netflix
+66	Marvel	ORG		http://dbpedia.org/resource/Marvel_Entertainment
+66	Alias	WORK		http://dbpedia.org/resource/Alias_(comics)
+66	Melissa Rosenberg	PER		http://dbpedia.org/resource/Melissa_Rosenberg
+67	Agent Carter	WORK		http://dbpedia.org/resource/Marvel_One-Shots
+67	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+68	Agent Carter	WORK		http://dbpedia.org/resource/Marvel_One-Shots
+68	Marvel One-Shot: Agent Carter	WORK		http://dbpedia.org/resource/Agent_Carter_(film)
+68	Marvel One-Shots	WORK		http://dbpedia.org/resource/Marvel_One-Shots
+68	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+69	Avengers: Age of Ultron	WORK		http://dbpedia.org/resource/Age_of_Ultron
+69	The Avengers	WORK		http://dbpedia.org/resource/Avengers_(comics)
+69	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+69	Joss Whedon	PER		http://dbpedia.org/resource/Joss_Whedon
+70	LEGO's Marvel Avengers	WORK		http://dbpedia.org/resource/Lego_Marvel%27s_Avengers
+70	LEGO's Marvel Avengers	WORK		http://dbpedia.org/resource/Lego_Marvel%27s_Avengers
+70	The Avengers	WORK		http://dbpedia.org/resource/Avengers_(comics)
+70	Marvel Cinematic Universe	WORK		http://dbpedia.org/resource/Marvel_Cinematic_Universe
+71	Bob Kane	PER		http://dbpedia.org/resource/Bob_Kane
+71	Bill Finger	PER		http://dbpedia.org/resource/Bill_Finger
+71	Batman	WORK		http://dbpedia.org/resource/Batman
+71	Detective Comics #27	WORK		http://dbpedia.org/resource/Detective_Comics
+71	Batman	PER		http://dbpedia.org/resource/Batman
+71	Superman	PER		http://dbpedia.org/resource/Superman
+71	Spider-Man	PER		http://dbpedia.org/resource/Spider-Man
+71	DC Comics	ORG		http://dbpedia.org/resource/DC_Comics
+72	Batman	WORK		http://dbpedia.org/resource/Batman
+72	ABC	ORG		http://dbpedia.org/resource/American_Broadcasting_Company
+73	Batman	WORK		http://dbpedia.org/resource/Batman
+73	FOX	ORG		http://dbpedia.org/resource/Fox_Broadcasting_Company
+73	James Gordon 	PER		http://dbpedia.org/resource/James_Gordon_(comics)
+73	Benjamin McKenzie	PER		http://dbpedia.org/resource/Ben_McKenzie
+73	Gotham City Police Department	ORG		http://dbpedia.org/resource/Gotham_City_Police_Department
+73	Dark Knight	PER		NIL
+74	The Batman	WORK		http://dbpedia.org/resource/The_Batman_(TV_series)
+74	Batman	WORK		http://dbpedia.org/resource/Batman
+74	Columbia Pictures	ORG		http://dbpedia.org/resource/Columbia_Pictures
+75	The Batman	WORK		http://dbpedia.org/resource/The_Batman_(TV_series)
+75	Batman & Robin 	WORK		http://dbpedia.org/resource/Batman_&_Robin_(film)
+75	Columbia Pictures	ORG		http://dbpedia.org/resource/Columbia_Pictures
+76	Batman	WORK		http://dbpedia.org/resource/Batman
+77	Batman	WORK		http://dbpedia.org/resource/Batman
+78	The Dark Knight	WORK		http://dbpedia.org/resource/The_Dark_Knight_(film)
+78	Cristopher Nolan's Batman film trilogy	WORK		http://dbpedia.org/resource/Christopher_Nolan
+78	The Dark Knight Trilogy	WORK		NIL
+79	Batman v Superman: Dawn of Justice	WORK		http://dbpedia.org/resource/Batman_v_Superman:_Dawn_of_Justice
+79	Man of Steel	WORK		http://dbpedia.org/resource/Man_of_Steel_(film)
+79	Zack Snyder	PER		http://dbpedia.org/resource/Zack_Snyder
+79	DC Extended Universe	WORK		http://dbpedia.org/resource/DC_Extended_Universe
+80	Batman: Arkham Asylum	WORK		http://dbpedia.org/resource/Batman
+80	Rocksteady Studios	ORG		http://dbpedia.org/resource/Rocksteady_Studios
+80	Eidos Interactive	ORG		http://dbpedia.org/resource/Square_Enix_Europe
+80	Warner Bros. Interactive Entertainment	ORG		http://dbpedia.org/resource/Warner_Bros.
+81	The Fast and The Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious_(2001_film)
+81	Fast & Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+81	Universal	ORG		http://dbpedia.org/resource/Universal_Studios
+82	The Fast and The Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+82	The Fast and The Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+83	Fast & Furious	WORK		http://dbpedia.org/resource/Fast_%26_Furious_(2009_film)
+83	F&F4	WORK		http://dbpedia.org/resource/Fast_%26_Furious_(2009_film)
+84	Fast Five	WORK		http://dbpedia.org/resource/Fast_Five
+84	The Fast and The Furious: Rio Heist	WORK		http://dbpedia.org/resource/Fast_Five
+84	The Fast and The Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+85	Fast & Furious 6 	WORK		http://dbpedia.org/resource/Fast_&_Furious_6
+85	The Fast and the Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+85	Fast Five	WORK		http://dbpedia.org/resource/Fast_Five
+86	Furious 7	WORK		http://dbpedia.org/resource/Furious_7
+86	The Fast and the Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+87	Fast & Furious Presents: Hobbs & Shaw	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+87	David Leitch	PER		http://dbpedia.org/resource/David_Leitch_(filmmaker)
+87	Deadpool 2	WORK		http://dbpedia.org/resource/Deadpool_(film)
+87	John Wick	WORK		http://dbpedia.org/resource/John_Wick
+87	Chris Morgan	PER		http://dbpedia.org/resource/Chris_Morgan_(writer)
+87	Fast & Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+87	Tokyo Drift	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious:_Tokyo_Drift
+88	The Fast and the Furious: Tokyo Drift 	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious:_Tokyo_Drift
+88	The Fast and the Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+88	Lucas Black	PER		http://dbpedia.org/resource/Lucas_Black
+88	Justin Lin	PER		http://dbpedia.org/resource/Justin_Lin
+89	2 Fast 2 Furious	WORK		http://dbpedia.org/resource/2_Fast_2_Furious
+89	The Fast and the Furious	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+90	The Fast and the Furious 	WORK		http://dbpedia.org/resource/The_Fast_and_the_Furious
+90	John Ireland	PER		http://dbpedia.org/resource/John_Ireland_(composer)
+90	Ireland	PER		http://dbpedia.org/resource/Ireland
+90	Dorothy Malone	PER		http://dbpedia.org/resource/Dorothy_Malone
+91	Saturday Night Live	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+91	NBC	ORG		http://dbpedia.org/resource/NBC
+91	New York City	LOC		http://dbpedia.org/resource/New_York_City
+92	Saturday Night Live	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+93	Wayne's World	WORK		http://dbpedia.org/resource/Wayne%27s_World
+93	Mike Myers	PER		http://dbpedia.org/resource/Mike_Myers
+93	Wayne Campbell	PER		NIL
+93	Dana Carvey	PER		http://dbpedia.org/resource/Dana_Carvey
+93	Garth Algar	PER		NIL
+93	Aurora	WORK		http://dbpedia.org/resource/Aurora
+93	Illinois	LOC		http://dbpedia.org/resource/Illinois
+93	Wayne's World	WORK		http://dbpedia.org/resource/Wayne%27s_World
+94	Steve Barron	PER		http://dbpedia.org/resource/Steve_Barron
+94	Electric Dreams	WORK		http://dbpedia.org/resource/Electric_Dreams_Software
+94	Teenage Mutant Ninja Turtles	WORK		http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles
+94	Saturday Night Live	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+94	Coneheads	OTHER		http://dbpedia.org/resource/Coneheads
+95	MacGruber	WORK		http://dbpedia.org/resource/MacGruber
+95	McGyver	WORK		http://dbpedia.org/resource/MacGyver
+95	Saturday Night Live	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+95	Tina Fey	PER		http://dbpedia.org/resource/Tina_Fey
+96	A Night at The Roxbury 	WORK		http://dbpedia.org/resource/Roxbury,_Boston
+96	Saturday Night Live	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+96	Will Ferrell	PER		http://dbpedia.org/resource/Will_Ferrell
+96	Chris Kattan	PER		http://dbpedia.org/resource/Chris_Kattan
+96	Haddaway	PER		http://dbpedia.org/resource/Haddaway
+96	What Is Love	MUSIC		http://dbpedia.org/resource/What_Is_Love
+97	Superstar	WORK		NIL
+97	Bruce McCullogh	PER		NIL
+97	Molly Shannon	PER		http://dbpedia.org/resource/Molly_Shannon
+97	Saturday Night Live	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+97	Molly Shannon	PER		http://dbpedia.org/resource/Molly_Shannon
+97	Mary Katherine Gallagher	PER		NIL
+98	The Ladies Man	WORK		http://dbpedia.org/resource/The_Ladies_Man
+98	Reginald Hudlin	PER		http://dbpedia.org/resource/Reginald_Hudlin
+98	Tim Meadows	PER		http://dbpedia.org/resource/Tim_Meadows
+98	Karyn Paraons	PER		NIL
+98	Billy Dee Williams	PER		http://dbpedia.org/resource/Billy_Dee_Williams
+98	Tiffani Thiessen	PER		http://dbpedia.org/resource/Tiffani_Thiessen
+98	Lee Evans	PER		http://dbpedia.org/resource/Lee_Evans_(comedian)
+98	Will Ferrell	PER		http://dbpedia.org/resource/Will_Ferrell
+99	The Second City	ORG		http://dbpedia.org/resource/The_Second_City
+99	Chicago	LOC		http://dbpedia.org/resource/Chicago
+99	Toronto	LOC		http://dbpedia.org/resource/Toronto
+100	SNL	WORK		http://dbpedia.org/resource/Saturday_Night_Live
+100	New York City	LOC		http://dbpedia.org/resource/New_York_City

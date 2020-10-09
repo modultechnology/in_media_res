@@ -1,0 +1,164 @@
+doc	surface	type	start	link
+1	Soylent Green	WORK	0	http://dbpedia.org/resource/Soylent_Green
+1	Richard Fleischer	PER	39	http://dbpedia.org/resource/Richard_Fleischer
+1	Charlton Heston	PER	70	http://dbpedia.org/resource/Charlton_Heston
+2	Waterworld	WORK	0	http://dbpedia.org/resource/Waterworld
+2	Kevin Costner	PER	27	http://dbpedia.org/resource/Kevin_Costner
+2	Earth	LOC	132	http://dbpedia.org/resource/Earth
+3	The Arrival	WORK	0	NIL
+3	Charlie Sheen	PER	29	http://dbpedia.org/resource/Charlie_Sheen
+3	Earth	LOC	131	http://dbpedia.org/resource/Earth
+4	A.I. Artificial Intelligence	WORK	0	http://dbpedia.org/resource/Artificial_intelligence
+4	New York City	LOC	88	http://dbpedia.org/resource/New_York_City
+5	The Day After Tomorrow	WORK	0	NIL
+5	Dennis Quaid	PER	39	http://dbpedia.org/resource/Dennis_Quaid
+5	Earth	LOC	149	http://dbpedia.org/resource/Earth
+6	An Inconvenient Truth	WORK	0	http://dbpedia.org/resource/An_Inconvenient_Truth
+6	Davis Guggenheim	PER	79	http://dbpedia.org/resource/Davis_Guggenheim
+6	United States	LOC	116	http://dbpedia.org/resource/United_States
+6	Vice President Al Gore's	PER	130	http://dbpedia.org/resource/Al_Gore
+7	Leonardo DiCaprio	PER	56	http://dbpedia.org/resource/Leonardo_DiCaprio
+8	The Age of Stupid	WORK	0	NIL
+8	Pete Postlethwaite	PER	70	http://dbpedia.org/resource/Pete_Postlethwaite
+9	Earth	LOC	0	http://dbpedia.org/resource/Earth
+10	Carbon Nation	WORK	0	http://dbpedia.org/resource/Carbon_Nation
+11	Snowpiercer	WORK	0	http://dbpedia.org/resource/Snowpiercer
+12	First Reformed	WORK	0	http://dbpedia.org/resource/First_Reformed_Church_of_New_Brunswick
+13	An Inconvenient Truth: The Planetary Emergency of Global Warming and What We Can Do About It	WORK	0	http://dbpedia.org/resource/An_Inconvenient_Truth
+13	Al Gore	PER	111	http://dbpedia.org/resource/Al_Gore
+13	An Inconvenient Truth	WORK	0	http://dbpedia.org/resource/An_Inconvenient_Truth
+13	Gore's	PER	189	http://dbpedia.org/resource/Al_Gore
+14	The Inner Light	WORK	0	NIL
+14	Jean-Luc Picard	PER	25	http://dbpedia.org/resource/Jean-Luc_Picard
+14	Hugo Award	OTHER	212	http://dbpedia.org/resource/Hugo_Award
+14	TNG	WORK	289	 http://dbpedia.org/resource/Star_Trek:_The_Next_Generation
+15	The Teenage Mutant Ninja Turtles	WORK	0	http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles
+16	Transformers	WORK	10	http://dbpedia.org/resource/Transformers
+16	The Revenge of Bruticus	WORK	88	NIL
+17	Utopia	WORK	14	http://dbpedia.org/resource/Utopia_(British_TV_series)
+18	Teenage Mutant Ninja Turtles Adventures	WORK	0	http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles_Adventures
+18	Archie Comics	ORG	45	http://dbpedia.org/resource/Archie_Comics
+18	New York City	LOC	150	http://dbpedia.org/resource/New_York_City
+19	Civilization II	WORK	0	http://dbpedia.org/resource/Civilization_II
+20	TamaTown	ORG	13	NIL
+21	PNAS	WORK	16	http://dbpedia.org/resource/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America
+22	MIT	ORG	0	http://dbpedia.org/resource/Massachusetts_Institute_of_Technology
+22	Kerry Emanuel	PER	18	http://dbpedia.org/resource/Kerry_Emanuel
+24	United States	LOC	44	http://dbpedia.org/resource/United_States
+24	Bush	PER	69	http://dbpedia.org/resource/George_W._Bush
+25	Beck	PER	19	http://dbpedia.org/resource/Beck
+26	Bill McKibben	PER	13	http://dbpedia.org/resource/Bill_McKibben
+27	United States	LOC	53	http://dbpedia.org/resource/United_States
+29	Canada	LOC	34	http://dbpedia.org/resource/Canada
+30	Japan	LOC	3	http://dbpedia.org/resource/Japan
+31	New Zealand	LOC	21	http://dbpedia.org/resource/New_Zealand
+32	IPCC Assessment Reports	WORK	4	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+33	United States	LOC	37	http://dbpedia.org/resource/United_States
+33	Fox News	ORG	52	http://dbpedia.org/resource/Fox_News
+35	Trump	PER	19	http://dbpedia.org/resource/Donald_Trump
+37	Kyoto Protocol	WORK	92	http://dbpedia.org/resource/Kyoto_Protocol
+38	Nature	WORK	81	http://dbpedia.org/resource/Nature
+39	Michael Parenti	PER	10	http://dbpedia.org/resource/Michael_Parenti
+40	Copenhagen	LOC	167	http://dbpedia.org/resource/Copenhagen
+41	Jules Verne's The Purchase	WORK	0	http://dbpedia.org/resource/Jules_Verne
+41	North Pole	LOC	45	http://dbpedia.org/resource/North_Pole
+41	Earth's	LOC	98	http://dbpedia.org/resource/Earth
+42	J. G. Ballard	PER	53	http://dbpedia.org/resource/J._G._Ballard
+42	In The Wind from Nowhere	WORK	112	NIL
+42	The Drowned World	WORK	115	http://dbpedia.org/resource/The_Drowned_World
+43	Michael Chrichton's State of Fear	WORK	0	http://dbpedia.org/resource/Michael_Crichton
+44	Oryx and Cake	WORK	3	http://dbpedia.org/resource/Oryx_and_Cake
+44	Atwood	PER	18	http://dbpedia.org/resource/Margaret_Atwood
+45	Robinson's	PER	0	http://dbpedia.org/resource/Kim_Stanley_Robinson
+45	New York 2140	WORK	40	http://dbpedia.org/resource/New_York_2140
+46	Ian McEwan's Solar	WORK	0	http://dbpedia.org/resource/Ian_McEwan
+47	Barbara Kingsolver's Flight Behaviour	WORK	0	http://dbpedia.org/resource/Barbara_Kingsolver
+48	Devolution of a Species	WORK	0	NIL
+48	M.E. Ellington	PER	27	NIL
+48	Gaia	WORK	57	http://dbpedia.org/resource/Gaia
+48	Earth	LOC	92	http://dbpedia.org/resource/Earth
+49	Mother of Storms	WORK	0	NIL
+49	John Barnes	PER	27	http://dbpedia.org/resource/John_Barnes_(author)
+50	Far North	WORK	0	NIL
+50	Marcel Theroux	PER	20	http://dbpedia.org/resource/Marcel_Theroux
+51	Earth	LOC	0	http://dbpedia.org/resource/Earth
+51	David Brin	PER	57	http://dbpedia.org/resource/David_Brin
+52	Earth	LOC	22	http://dbpedia.org/resource/Earth
+53	Brin	PER	0	http://dbpedia.org/resource/David_Brin
+54	The Ice People	WORK	0	http://dbpedia.org/resource/The_Ice_People_(Gee_novel)
+54	Maggie Gee	PER	65	http://dbpedia.org/resource/Maggie_Gee_(novelist)
+55	A Friend from Earth	WORK	0	NIL
+55	T. Coraghessan Boyle	PER	41	http://dbpedia.org/resource/T._C._Boyle
+56	Floodland	WORK	0	NIL
+56	United Kingdom	LOC	54	 http://dbpedia.org/resource/United_Kingdom
+56	Zoe	PER	135	NIL
+57	Flood	WORK	0	NIL
+57	Stephen Baxter	PER	63	http://dbpedia.org/resource/Stephen_Baxter_(author)
+58	Ship Breaker	WORK	0	http://dbpedia.org/resource/Ship_Breaker
+58	Paolo Bacigalupi	PER	44	http://dbpedia.org/resource/Paolo_Bacigalupi
+59	United States of America	LOC	27	http://dbpedia.org/resource/United_States
+59	Civil War	EVENT	110	http://dbpedia.org/resource/American_Civil_War
+60	The Water Knife	WORK	46	http://dbpedia.org/resource/The_Water_Knife
+61	Greta Tintin Eleonora Ernman Thunberg	PER	0	http://dbpedia.org/resource/Greta_Thunberg
+62	Gore	PER	0	http://dbpedia.org/resource/Al_Gore
+63	Arrhenius	PER	60	http://dbpedia.org/resource/Svante_Arrhenius
+64	Myles R. Allen	PER	0	http://dbpedia.org/resource/Myles_R._Allen
+64	University of Oxford's Atmospheric, Oceanic and Planetary Physics Department	ORG	60	NIL
+65	Roger Graham Barry	PER	0	NIL
+66	Bolin Prize	OTHER	0	NIL
+66	IPCC	ORG	53	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+67	Cahalan	PER	0	NIL
+67	Miamisburg	LOC	19	http://dbpedia.org/resource/Miamisburg
+67	Ohio	LOC	31	http://dbpedia.org/resource/Ohio
+67	Cincinnati	LOC	40	http://dbpedia.org/resource/Cincinnati
+67	Ohio	LOC	52	http://dbpedia.org/resource/Ohio
+67	University of Illinois	ORG	127	http://dbpedia.org/resource/University_of_Illinois_at_Urbana–Champaign
+68	Curry	PER	0	NIL
+69	A. Scott Denning	PER	0	http://dbpedia.org/resource/Scott_Denning
+69	Colorado State University	ORG	80	http://dbpedia.org/resource/Colorado_State_University
+70	Heartland Institute	ORG	4	http://dbpedia.org/resource/The_Heartland_Institute
+70	Arlington Heights	LOC	122	http://dbpedia.org/resource/Arlington_Heights_station
+70	Illinois	LOC	141	http://dbpedia.org/resource/Illinois
+71	International Conference on Climate Change	ORG	4	NIL
+71	Heartland Institute	ORG	101	http://dbpedia.org/resource/The_Heartland_Institute
+72	The Intergovernmental Panel on Climate Change (IPCC)	ORG	0	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+72	United Nations	ORG	89	http://dbpedia.org/resource/United_Nations
+73	IPCC	ORG	4	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+74	IPCC	ORG	4	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+75	IPCC	ORG	36	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+76	IPCC	ORG	10	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+77	IPCC	ORG	162	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+78	IPCC	ORG	34	http://dbpedia.org/resource/Intergovernmental_Panel_on_Climate_Change
+79	NOAA	ORG	0	http://dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration
+80	National Oceanic Service (NOS)	ORG	4	http://dbpedia.org/resource/National_Oceanic_Service
+81	Christopher B. Field	PER	0	NIL
+82	Fourier	PER	0	http://dbpedia.org/resource/Joseph_Fourier
+83	Gleick	PER	0	http://dbpedia.org/resource/James_Gleick
+84	Jean Grove	PER	0	http://dbpedia.org/resource/Jean_Grove
+85	Keith	PER	0	NIL
+86	Shen	PER	0	NIL
+87	Joseph	PER	0	NIL
+87	Bernard	PER	7	NIL
+87	Klemp	PER	15	NIL
+88	Kirill Y. Kondratyev	PER	0	http://dbpedia.org/resource/Kirill_Kondratyev
+89	Lachinov	PER	8	NIL
+89	Russia	LOC	76	http://dbpedia.org/resource/Russia
+90	Lovelock	PER	24	NIL
+91	Lovelock	PER	0	NIL
+91	Gaia	WORK	157	http://dbpedia.org/resource/Gaia
+92	NASA	ORG	41	http://dbpedia.org/resource/NASA
+92	Lovelock	PER	51	NIL
+92	Gaia	WORK	74	http://dbpedia.org/resource/Gaia
+93	Lovelock	PER	0	NIL
+94	Peter Lynch	PER	0	http://dbpedia.org/resource/Peter_Lynch
+95	Christopher P. McKay	PER	0	http://dbpedia.org/resource/Christopher_P._McKay
+95	NASA Ames Research Center	ORG	49	http://dbpedia.org/resource/Ames_Research_Center
+96	Fyodor Nikolayevich Panayev	PER	0	NIL
+97	Revelle	PER	0	NIL
+97	United States	LOC	65	http://dbpedia.org/resource/United_States
+97	World War II	EVENT	105	http://dbpedia.org/resource/World_War_II
+98	Revelle	PER	14	NIL
+99	Stephen E. Schwartz	PER	0	NIL
+99	Brookhaven National Laboratory	ORG	72	http://dbpedia.org/resource/Brookhaven_National_Laboratory
+100	Siegfried Fred Singer	PER	0	NIL
+100	University of Virginia	ORG	154	http://dbpedia.org/resource/University_of_Virginia

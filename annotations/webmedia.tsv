@@ -1,0 +1,299 @@
+doc	surface	type	start	link
+1	Stuart Brown	PER		http://dbpedia.org/resource/House_of_Stuart
+1	Ahoy	PER		http://dbpedia.org/resource/Ahoy_Rotterdam
+1	XobxAhoy	PER		NIL
+2	Alex T. Corea	PER		http://dbpedia.org/resource/Alex_Russo
+2	The Attack	WORK		NIL
+3	Alex Day	PER		http://dbpedia.org/resource/Alex_Day
+3	England	LOC		http://dbpedia.org/resource/England
+4	Anna Akana	PER		http://dbpedia.org/resource/Anna_Akana
+5	The Lorerunner	PER		NIL
+5	Achengeia	PER		NIL
+5	Twitch	WORK		http://dbpedia.org/resource/Twitch.tv
+6	Barats and Bereta	ORG		NIL
+7	US	LOC		http://dbpedia.org/resource/United_States
+7	Benjamin Richard "Yahtzee" Croshaw	PER		http://dbpedia.org/resource/Benjamin
+7	Zero Punctuation	WORK		http://dbpedia.org/resource/Zero_Punctuation
+8	Bill Wurtz	PER		NIL
+9	Blender	WORK		http://dbpedia.org/resource/Blender
+9	Blender Foundation	ORG		http://dbpedia.org/resource/Blender_Foundation
+10	YouTube	ORG		http://dbpedia.org/resource/YouTube
+11	Bradican Jones	PER		NIL
+11	The Cinema Snob	PER		http://dbpedia.org/resource/The_Cinema_Snob
+11	Kung Tai Ted	PER		http://dbpedia.org/resource/Tai_peoples
+11	80's Dan	PER		NIL
+11	Brad Jones	PER		http://dbpedia.org/resource/The_Cinema_Snob
+11	Jack Nicholson	PER		http://dbpedia.org/resource/Jack_Nicholson
+12	Brendan Blaber	PER		http://dbpedia.org/resource/Brendan
+12	Jello Apocalypse	PER		http://dbpedia.org/resource/Apocalypse
+12	YouTube	ORG		http://dbpedia.org/resource/YouTube
+13	BroFilms	PER		NIL
+13	YouTube	ORG		http://dbpedia.org/resource/YouTube
+14	The Brother Chaps	WORK		NIL
+14	Mike Chapman	PER		http://dbpedia.org/resource/Mike_Chapman
+14	Matt Chapman	PER		http://dbpedia.org/resource/Matt_Hardy
+14	Homestar Runner	WORK		http://dbpedia.org/resource/Homestar_Runner
+14	Mike	PER		NIL
+14	Matt	PER		http://dbpedia.org/resource/Matt_Hardy
+15	Caillou Pettis	PER		http://dbpedia.org/resource/Caillou
+15	YouTube	ORG		http://dbpedia.org/resource/YouTube
+16	Cinema Sins	WORK		NIL
+16	Jeremy Scott	PER		http://dbpedia.org/resource/Jeremy_Scott
+16	Chris Atkinson	PER		http://dbpedia.org/resource/Chris_Atkinson
+17	CLW Entertainment	ORG		http://dbpedia.org/resource/Chittaranjan_Locomotive_Works
+17	Collin Weiler	PER		http://dbpedia.org/resource/James_Edward_Collin
+18	Kathrin Fricke	PER		NIL
+18	coldmirror	PER		NIL
+18	Kaddi	PER		NIL
+18	Kreatur im Spiegel	PER		NIL
+18	Harry Potter 	PER		http://dbpedia.org/resource/Harry_Potter
+19	ComicTropes	WORK		NIL
+19	YouTube	ORG		http://dbpedia.org/resource/YouTube
+19	DC Comics 	ORG		http://dbpedia.org/resource/DC_Comics
+19	Marvel Comics	ORG		http://dbpedia.org/resource/Marvel_Comics
+20	Counter Arguments	WORK		NIL
+20	YouTube	ORG		http://dbpedia.org/resource/YouTube
+21	Marzia Bisognin	PER		http://dbpedia.org/resource/Marzia
+21	Marzia	PER		http://dbpedia.org/resource/Marzia
+21	CutePieMarzia	WORK		NIL
+22	John Peter Bain	PER		http://dbpedia.org/resource/John_Peter_(critic)
+22	Total Biscuit	WORK		NIL
+22	YouTube	ORG		http://dbpedia.org/resource/YouTube
+23	Cyriak Harris	PER		NIL
+23	cyriak	PER		NIL
+23	U.K.	LOC		http://dbpedia.org/resource/United_Kingdom
+24	Will Alex Ryan	PER		http://dbpedia.org/resource/Alex_Russo
+24	DAGames	PER		NIL
+24	DA	PER		NIL
+24	Diamond Armada	PER		http://dbpedia.org/resource/Spanish_Armada
+24	YouTube	ORG		http://dbpedia.org/resource/YouTube
+25	Daniel L.G. Bull	PER		NIL
+25	Dan Bull	PER		NIL
+25	Douglby 	PER		NIL
+25	Internet	ORG		http://dbpedia.org/resource/Internet
+26	Charly Guzman	PER		http://dbpedia.org/resource/Charly_Records
+26	Dashie	WORK		NIL
+26	DashieXP	WORK		NIL
+26	DashieGames 	WORK		NIL
+27	Dario Russo	PER		NIL
+27	Italian Spiderman	WORK		NIL
+27	SBS 	ORG		http://dbpedia.org/resource/Seoul_Broadcasting_System
+27	Danger5	WORK		NIL
+28	Sean "Day9" Plott	PER		http://dbpedia.org/resource/Sean_Lennon
+28	StarCraft: Brood War	WORK		http://dbpedia.org/resource/StarCraft
+28	Starcrat II	WORK		http://dbpedia.org/resource/World_War_II
+28	Internet	ORG		http://dbpedia.org/resource/Internet
+28	Day9	WORK		NIL
+29	Digibro	PER		NIL
+29	Digibrony	PER		NIL
+29	Conrad Collins	PER		http://dbpedia.org/resource/Joseph_Conrad
+30	Dom Fera	PER		http://dbpedia.org/resource/Duomo
+30	YouTube	ORG		http://dbpedia.org/resource/YouTube
+31	Satine	ORG		NIL
+31	All-American Rejects	ORG		http://dbpedia.org/resource/All-America
+31	Tyson Ritter	PER		http://dbpedia.org/resource/Tyson_Ritter
+32	Erin Steeby	PER		http://dbpedia.org/resource/Erin
+32	The Attack	ORG		NIL
+33	Evan Crose	PER		NIL
+33	Internet	ORG		http://dbpedia.org/resource/Internet
+33	YouTube	ORG		http://dbpedia.org/resource/YouTube
+34	Evanne Elizabeth Friedman	PER		http://dbpedia.org/resource/Elizabeth_I_of_England
+34	Awkward	WORK		http://dbpedia.org/resource/Awkward_(TV_series)
+35	Kathryn Felicia Day	PER		http://dbpedia.org/resource/Felicia_Day
+36	The Fine Brothers	ORG		http://dbpedia.org/resource/Fine_Brothers
+36	Benny	PER		NIL
+36	Rafi Fine	PER		http://dbpedia.org/resource/Fine_Brothers
+36	YouTube	ORG		http://dbpedia.org/resource/YouTube
+37	Fram Perfection	ORG		http://dbpedia.org/resource/Fram
+37	totallyuninteresting	PER		NIL
+37	Bavaria, Germany	LOC		http://dbpedia.org/resource/Bavaria
+37	Super Mario 64	WORK		http://dbpedia.org/resource/Super_Mario_64
+37	Star Revenge 2: Night of Doom	WORK		http://dbpedia.org/resource/Revenge
+37	Super Mario 74: Extreme Edition	WORK		NIL
+38	Geek & Sundry	WORK		http://dbpedia.org/resource/Geek_&_Sundry
+38	Felicia Day	PER		http://dbpedia.org/resource/Felicia_Day
+38	Kim Evey	PER		http://dbpedia.org/resource/Kim_Kardashian
+38	YouTube	ORG		http://dbpedia.org/resource/YouTube
+39	Grace Helbig	PER		http://dbpedia.org/resource/Grace_Helbig
+39	YouTube	ORG		http://dbpedia.org/resource/YouTube
+39	Daily Grace	WORK		http://dbpedia.org/resource/Grace_Adler
+39	It'sGrace	WORK		NIL
+40	Gregory Austrin McConnell	PER		http://dbpedia.org/resource/Page_McConnell
+40	YouTube	ORG		http://dbpedia.org/resource/YouTube
+41	Hank and Jed Movie Pictures	ORG		http://dbpedia.org/resource/Jed_Whedon
+41	YouTube	ORG		http://dbpedia.org/resource/YouTube
+42	hbik 	WORK		NIL
+43	iDubbzTV	ORG		NIL
+43	YouTube	ORG		http://dbpedia.org/resource/YouTube
+43	Ian Carter	PER		NIL
+44	New Jersey	LOC		http://dbpedia.org/resource/New_Jersey
+44	Philly	LOC		NIL
+44	James Duncan Rolfe	PER		http://dbpedia.org/resource/LeBron_James
+44	YouTube	ORG		http://dbpedia.org/resource/YouTube
+44	The Angry Nintendo Nerd	PER		http://dbpedia.org/resource/Nintendo
+44	The Angry Video Game Nerd	PER		http://dbpedia.org/resource/Angry_Video_Game_Nerd
+45	Jaxon Hibler	PER		http://dbpedia.org/resource/Jaxon
+45	Jaxon HH	PER		http://dbpedia.org/resource/Jaxon
+45	Twitch	ORG		http://dbpedia.org/resource/Twitch.tv
+45	The Fine Brothers React	ORG		http://dbpedia.org/resource/Fine_Brothers
+46	Jenna Marbles	PER		http://dbpedia.org/resource/Jenna_Marbles
+46	YouTube	ORG		http://dbpedia.org/resource/YouTube
+46	Jenna Mourey	PER		http://dbpedia.org/resource/Jenna_Marbles
+47	Jeremy Jahns	PER		NIL
+48	Jacob Hope Chapman	PER		http://dbpedia.org/resource/Bob_Hope
+48	JesuOtaku	PER		NIL
+48	DesuDesBrigade	ORG		NIL
+48	That Guy with the Glasses	PER		NIL
+49	JK! Studios 	ORG		http://dbpedia.org/resource/Jeep_Wrangler
+49	Studio C	ORG		http://dbpedia.org/resource/Studio_C
+50	Jon Christopher James Graham	PER		http://dbpedia.org/resource/LeBron_James
+50	Jon CJG	PER		NIL
+50	DigitalPh33r	PER		NIL
+51	JulianSmith.tv	WORK		NIL
+51	Julian Smith	PER		http://dbpedia.org/resource/Julian_calendar
+52	Loan "Kelly Marie" Tran	PER		http://dbpedia.org/resource/Kelly_Marie
+52	The Vientnam War	OTHER		NIL
+53	Kevin Elder Pereira	PER		http://dbpedia.org/resource/Kevin_Pereira
+54	Phil Burnell	PER		NIL
+54	DarksydePhil	PER		NIL
+54	The King of Hate	PER		http://dbpedia.org/resource/Monarch
+54	DSP	WORK		http://dbpedia.org/resource/Digital_signal_processor
+54	YouTube	ORG		http://dbpedia.org/resource/YouTube
+55	RavenAlegria13	PER		NIL
+55	LadySpaz	PER		NIL
+55	Lady Jess	PER		NIL
+55	Fool's Gold	WORK		NIL
+55	Golden Age of Hollywood	OTHER		http://dbpedia.org/resource/Golden_Age_of_Comic_Books
+56	Lia Marie Johnson	PER		http://dbpedia.org/resource/Lia_Marie_Johnson
+56	YouTube	ORG		http://dbpedia.org/resource/YouTube
+56	Ave Maria	MUSIC		http://dbpedia.org/resource/Hail_Mary
+57	Liana Kerzner	PER		http://dbpedia.org/resource/Liana_K
+57	Liana K	PER		http://dbpedia.org/resource/Liana_K
+57	Ed's Night Party	WORK		NIL
+57	Ed & Red's Night Party	WORK		NIL
+57	Steven	PER		NIL
+58	LinksTheSun	WORK		NIL
+58	Alexis Breut	PER		http://dbpedia.org/resource/Alexis_Colby
+58	YouTube 	ORG		http://dbpedia.org/resource/YouTube
+59	Logan Alexander Paul	PER		http://dbpedia.org/resource/Charles_Paul_Alexander
+59	internet 	ORG		NIL
+59	Paul	PER		NIL
+59	Vine	ORG		http://dbpedia.org/resource/Vine
+60	Luis Garcia	PER		http://dbpedia.org/resource/Jerry_Garcia
+60	Luisjefe	PER		NIL
+60	Ensenada, Mexico 	LOC		http://dbpedia.org/resource/Ensenada,_Baja_California
+60	Spongebob Squarepants	WORK		http://dbpedia.org/resource/SpongeBob_SquarePants
+61	Madame Macabre	PER		http://dbpedia.org/resource/Macabre
+61	The Seer	WORK		http://dbpedia.org/resource/List_of_Sliders_episodes
+62	MaStar media	ORG		NIL
+62	Dragon Ball Z	WORK		http://dbpedia.org/resource/Dragon_Ball
+63	TheMidnightFrogs	ORG		NIL
+63	YouTube	ORG		http://dbpedia.org/resource/YouTube
+63	Sgt. Frog Abridged	WORK		NIL
+64	MissShadowLovely	PER		NIL
+65	The Most Ever Company	ORG		NIL
+65	Tulsa, Oklahoma	LOC		http://dbpedia.org/resource/Oklahoma
+66	Ryan Higa	PER		http://dbpedia.org/resource/Ryan_Higa
+66	Nigahiga	PER		http://dbpedia.org/resource/Ryan_Higa
+66	YouTube	ORG		http://dbpedia.org/resource/YouTube
+67	Noah Antwiler	PER		NIL
+67	Illinois	LOC		http://dbpedia.org/resource/Illinois
+67	Arizona	LOC		http://dbpedia.org/resource/Arizona
+67	The Spoony Experiment 	WORK		NIL
+68	PeaTea64	PER		NIL
+68	PurpleTriforce64	PER		NIL
+68	PuffyTrousers	PER		NIL
+68	PootyTooty	PER		NIL
+68	Kirby and Mega Man (Classic)	WORK		http://dbpedia.org/resource/Jack_Kirby
+69	Felix Arvid Ulf Kjellberg	PER		http://dbpedia.org/resource/Felix_Mendelssohn
+69	PewDiePie	PER		http://dbpedia.org/resource/PewDiePie
+69	Marzia Bisognin	PER		http://dbpedia.org/resource/Marzia
+70	pocket.watch	OTHER		NIL
+70	PocketWatch, Inc.	ORG		NIL
+70	YouTube	ORG		http://dbpedia.org/resource/YouTube
+71	Polaris	ORG		http://dbpedia.org/resource/Polaris
+71	YouTube	ORG		http://dbpedia.org/resource/YouTube
+71	Disney Digital Network	ORG		http://dbpedia.org/resource/The_Walt_Disney_Company
+71	Maker Studios	ORG		http://dbpedia.org/resource/Disney_Digital_Network
+72	SungWon Cho	PER		http://dbpedia.org/resource/Cho_Ramaswamy
+72	ProZD	PER		NIL
+73	ralphthemoviemaker	PER		NIL
+73	YouTube	ORG		http://dbpedia.org/resource/YouTube
+73	Ralph Sepe	PER		NIL
+74	Rob Ager	PER		NIL
+75	Joel "Roomie" Berghult	PER		http://dbpedia.org/resource/Roommate
+76	Samgladiator	PER		NIL
+76	Minecraft	WORK		http://dbpedia.org/resource/Minecraft
+77	James Wooldridge	PER		http://dbpedia.org/resource/LeBron_James
+77	Señor Wooly	PER		NIL
+78	Sceneable	WORK		NIL
+79	Team Four Star	ORG		http://dbpedia.org/resource/Four_Star_Television
+79	Dragon Ball Z Abridged	WORK		http://dbpedia.org/resource/Dragon_Ball
+80	TomSka	PER		http://dbpedia.org/resource/TomSka
+80	Thomas Ridgewell	PER		http://dbpedia.org/resource/TomSka
+80	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+81	TwoSet Violin	WORK		http://dbpedia.org/resource/Violin
+81	Brett Yang	PER		NIL
+81	Eddy Chen	PER		http://dbpedia.org/resource/Chen_dynasty
+82	Wil Wheaton	PER		http://dbpedia.org/resource/Wil
+82	Willie Mack Wheaton Jr.	PER		http://dbpedia.org/resource/Wheaton_station
+82	Star Trek: The Next Generation	WORK		http://dbpedia.org/resource/Star_Trek
+82	Table Top	WORK		NIL
+82	Geek & Sundry	WORK		http://dbpedia.org/resource/Geek_&_Sundry
+82	YouTube	PER		http://dbpedia.org/resource/YouTube
+83	University of California at San Diego	ORG		http://dbpedia.org/resource/California
+83	Wesley Chan	PER		http://dbpedia.org/resource/Wong_Fu_Productions
+83	Ted Fu	PER		NIL
+83	Philip Wang	PER		http://dbpedia.org/resource/Wong_Fu_Productions
+84	Crendor	WORK		NIL
+84	Wowcrendor	WORK		NIL
+84	World of Warcraft	WORK		NIL
+85	The Yogscast	ORG		http://dbpedia.org/resource/The_Yogscast
+85	YouTube	ORG		http://dbpedia.org/resource/YouTube
+85	Twitch	ORG		http://dbpedia.org/resource/Twitch.tv
+85	United Kingdom	LOC		http://dbpedia.org/resource/United_Kingdom
+86	Area 11	LOC		http://dbpedia.org/resource/Brodmann_area_11
+86	Bristol, England	LOC		http://dbpedia.org/resource/Bristol
+87	Duncan Jones	PER		http://dbpedia.org/resource/Duncan_Jones
+87	Duncan	PER		http://dbpedia.org/resource/Tim_Duncan
+87	Lalna	PER		NIL
+87	Yogscast	ORG		http://dbpedia.org/resource/The_Yogscast
+88	Kim Richards	PER		http://dbpedia.org/resource/Kim_Richards
+88	Yogscast	ORG		http://dbpedia.org/resource/The_Yogscast
+89	Hannah Rutherford	PER		http://dbpedia.org/resource/Hannah_Ashworth
+89	Yogscast	ORG		http://dbpedia.org/resource/The_Yogscast
+90	Sjin 	PER		NIL
+90	Paul Sykes	PER		http://dbpedia.org/resource/Paul_Sykes_(rugby_league)
+90	Yogscast	ORG		http://dbpedia.org/resource/The_Yogscast
+91	Austin Watson	PER		NIL
+91	WWE	ORG		http://dbpedia.org/resource/WWE
+91	Xavier Woods	PER		http://dbpedia.org/resource/Xavier_Woods
+91	The New Day	ORG		http://dbpedia.org/resource/The_New_Day_(wrestling)
+92	Marty Jannetty	PER		http://dbpedia.org/resource/Marty_Jannetty
+92	Ron Rivera	PER		http://dbpedia.org/resource/Ron_Rivera
+92	The Young Bucks	ORG		http://dbpedia.org/resource/The_Young_Bucks
+92	Matt	PER		http://dbpedia.org/resource/Matt_Hardy
+92	Nick Jackson	PER		http://dbpedia.org/resource/The_Young_Bucks
+92	Massie	WORK		NIL
+92	southern California	LOC		http://dbpedia.org/resource/California
+93	Yungtown	PER		NIL
+93	Luke Sizemore	PER		http://dbpedia.org/resource/Gospel_of_Luke
+93	Hidden Block	PER		NIL
+94	Yusha Thomas	PER		http://dbpedia.org/resource/Thomas_the_Tank_Engine
+94	United States Army	ORG		http://dbpedia.org/resource/United_States_Army
+95	Matthew Brett Cardona	PER		http://dbpedia.org/resource/Mark_Cardona
+95	WWE	ORG		http://dbpedia.org/resource/WWE
+95	Zack Ryder	PER		http://dbpedia.org/resource/Zack_Ryder
+96	Zombie Orpheus Entertainment	ORG		http://dbpedia.org/resource/Orpheus
+96	Journey Quest	WORK		http://dbpedia.org/resource/Journey_(band)
+96	The Gamers	WORK		http://dbpedia.org/resource/The_Gamers
+96	Rude Mechanical	WORK		http://dbpedia.org/resource/Rudeness
+96	Masters of the Metaverse	WORK		http://dbpedia.org/resource/Metaverse
+96	Attacking the Darkness	WORK		NIL
+97	That Long-Haired Creepy Guy	PER		http://dbpedia.org/resource/Creepiness
+97	The Creepy One	PER		http://dbpedia.org/resource/Creepiness
+98	Todd Nathanson	PER		http://dbpedia.org/resource/Todd_Manning
+98	Channel Awesome	WORK		http://dbpedia.org/resource/Channel_Awesome
+99	Tom Scott	PER		http://dbpedia.org/resource/Tom_Scott_(musician)
+99	Citation Needed	WORK		NIL
+100	Trinimmortal	PER		NIL

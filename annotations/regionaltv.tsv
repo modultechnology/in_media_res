@@ -1,0 +1,358 @@
+doc	surface	type	start	link
+1	Babylon Berlin	WORK		NIL
+1	Weimar Republic	LOC		http://dbpedia.org/resource/Weimar_Republic
+2	Netflix	ORG		http://dbpedia.org/resource/Netflix
+2	Dark	WORK		NIL
+2	Twin Peaks	WORK		http://dbpedia.org/resource/Twin_Peaks
+2	Stranger Things	WORK		NIL
+3	Deutschland 83	WORK		http://dbpedia.org/resource/Deutschland_83
+3	Martin Rauch	PER		http://dbpedia.org/resource/List_of_Redwall_characters
+3	West Germany	LOC		http://dbpedia.org/resource/West_Germany
+3	Moritz Stamm	PER		NIL
+3	Sundance TV	ORG		http://dbpedia.org/resource/Sundance_Film_Festival
+3	U.S.	LOC		http://dbpedia.org/resource/United_States
+4	The Heute Show	WORK		NIL
+4	The Daily Show	WORK		http://dbpedia.org/resource/The_Daily_Show
+4	Die Wochenshow	WORK		NIL
+5	How To Sell Drugs Online (fast)	WORK		NIL
+5	Netflix	ORG		http://dbpedia.org/resource/Netflix
+5	Philipp Käßbohrer	PER		NIL
+5	Matthias Murmann	PER		NIL
+6	Schloss Einstein	WORK		http://dbpedia.org/resource/Schloss_Einstein
+6	Albert-Einstein-Gymnasium	LOC		NIL
+6	Schloss Einstein	LOC		http://dbpedia.org/resource/Schloss_Einstein
+7	Tatort	WORK		http://dbpedia.org/resource/Tatort
+7	Crime Scene	WORK		NIL
+8	Der Tatortreiniger	WORK		NIL
+8	The Crime Scene Cleaner	WORK		NIL
+8	Heiko 'Schotty' Schotte	PER		NIL
+8	Bjarne Mädel	PER		NIL
+9	Unsere Mütter, unsere Väter	WORK		http://dbpedia.org/resource/Generation_War
+9	Our Mothers, Our Fathers	WORK		http://dbpedia.org/resource/Lord's_Prayer
+9	Generation War	WORK		http://dbpedia.org/resource/Generation_War
+9	US	LOC		http://dbpedia.org/resource/United_States
+9	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+9	France	LOC		http://dbpedia.org/resource/France
+9	Band of Brothers	WORK		NIL
+10	Switch!	WORK		http://dbpedia.org/resource/Switch
+10	Switch Reloaded	WORK		NIL
+10	Germany	LOC		http://dbpedia.org/resource/Germany
+10	United States	LOC		http://dbpedia.org/resource/United_States
+11	Anna und die Liebe	WORK		NIL
+11	Anna and Love	WORK		http://dbpedia.org/resource/Anna_Windass
+11	Germany	LOC		http://dbpedia.org/resource/Germany
+12	Javier Mariscal	PER		http://dbpedia.org/resource/Javier_Mariscal
+12	Hannover	LOC		http://dbpedia.org/resource/Hanover
+13	Stromberg	WORK		NIL
+13	Stromberg 	WORK		NIL
+13	Gervais	PER		http://dbpedia.org/resource/Ricky_Gervais
+13	Merchant	PER		NIL
+13	The Office	WORK		http://dbpedia.org/resource/The_Office_(U.S._TV_series)
+13	Ein Herz und eine Seele	WORK		NIL
+14	Au Service de la France	WORK		http://dbpedia.org/resource/France
+14	A very Secret Service	WORK		http://dbpedia.org/resource/United_States_Secret_Service
+14	Jean-Francois Halin	PER		NIL
+14	Arte	ORG		http://dbpedia.org/resource/Arte
+14	Netflix	ORG		http://dbpedia.org/resource/Netflix
+15	Higlander: The Series	WORK		NIL
+15	Higlander	WORK		NIL
+15	Adrian Paul	WORK		http://dbpedia.org/resource/Adrian_Paul
+15	Duncan MacLeod	PER		http://dbpedia.org/resource/Duncan_MacLeod
+15	Connor MacLeod	PER		http://dbpedia.org/resource/Connor_MacLeod
+16	Hélène et les Garçons	PER		NIL
+16	AB Productions	WORK		http://dbpedia.org/resource/AB_Groupe
+16	Club Dorothée 	WORK		http://dbpedia.org/resource/Dorothée
+16	TF1	ORG		http://dbpedia.org/resource/TF1
+17	Ad Vitam	WORK		NIL
+17	Netflix	ORG		http://dbpedia.org/resource/Netflix
+17	France	LOC		http://dbpedia.org/resource/France
+18	Osmosis	WORK		http://dbpedia.org/resource/Osmosis
+18	Netflix	ORG		http://dbpedia.org/resource/Netflix
+18	Audrey Fouché	PER		http://dbpedia.org/resource/Audrey_Roberts
+19	Fort Boyard	WORK		http://dbpedia.org/resource/Fort_Boyard_(TV_series)
+19	France	LOC		http://dbpedia.org/resource/France
+19	United States	LOC		http://dbpedia.org/resource/United_States
+19	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+20	The Tunnel	WORK		http://dbpedia.org/resource/The_Tunnel_(TV_series)
+20	Bron|Broen	WORK		http://dbpedia.org/resource/Bron
+20	The Bridge	WORK		http://dbpedia.org/resource/The_Bridge_(2011_TV_series)
+20	Eurotunnel	LOC		http://dbpedia.org/resource/Getlink
+20	France 	LOC		http://dbpedia.org/resource/France
+20	England	LOC		http://dbpedia.org/resource/England
+21	Versailles	WORK		http://dbpedia.org/resource/Palace_of_Versailles
+21	King Louis XIV	PER		http://dbpedia.org/resource/Louis_XIV_of_France
+21	Canada	LOC		http://dbpedia.org/resource/Canada
+21	Incendo	ORG		NIL
+21	Castle of Versailles	LOC		http://dbpedia.org/resource/Palace_of_Versailles
+22	Hero Corp	WORK		NIL
+22	Simon Astier	PER		NIL
+22	Alban Lenoir	PER		http://dbpedia.org/resource/J._B._Lenoir
+22	Comédie+	ORG		NIL
+23	Jo Saint-Clair	PER		NIL
+24	Kaamelott	WORK		http://dbpedia.org/resource/Kaamelott
+24	Caméra Café	WORK		http://dbpedia.org/resource/Caméra_Café
+24	Alexandre Astier	PER		http://dbpedia.org/resource/Alexandre_Astier
+24	M6	ORG		http://dbpedia.org/resource/M6_motorway
+25	Club Dorothée	WORK		http://dbpedia.org/resource/Dorothée
+25	TF1	ORG		http://dbpedia.org/resource/TF1
+26	Time Jam: Valerian & Laureline	WORK		http://dbpedia.org/resource/Time
+26	Valérian and Laureline	WORK		NIL
+26	Pierre Christin	PER		http://dbpedia.org/resource/Pierre_Christin
+26	Jean-Claude Mézières	PER		http://dbpedia.org/resource/Jean-Claude_Mézières
+27	Chris Colorado	WORK		http://dbpedia.org/resource/Colorado
+27	Toonami	ORG		http://dbpedia.org/resource/Toonami
+27	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+28	Black Mirror	WORK		http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+28	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+28	Dead Set	WORK		http://dbpedia.org/resource/Dead_Set
+28	Charlie Booker	PER		http://dbpedia.org/resource/Man_Booker_Prize
+28	The Twilight Zone	WORK		http://dbpedia.org/resource/The_Twilight_Zone
+29	DCI Banks	WORK		http://dbpedia.org/resource/DCI_Banks
+29	Left Bank Pictures	ORG		http://dbpedia.org/resource/Left_Bank_Pictures
+29	ITV	ORG		http://dbpedia.org/resource/ITV_(TV_network)
+29	Peter Robinson's Inspector Alan Banks	WORK		http://dbpedia.org/resource/J._Peter_Robinson
+29	Stephen Tompkinson	PER		http://dbpedia.org/resource/Stephen_Tompkinson
+29	Detective Chieft Inspector Alan Banks	PER		http://dbpedia.org/resource/Inspector_Alan_Banks
+30	Doctor Who	WORK		http://dbpedia.org/resource/Doctor_Who
+30	BBC TV	ORG		http://dbpedia.org/resource/BBC
+30	Doctor Who Expanded Universe	WORK		http://dbpedia.org/resource/Doctor_Who
+31	Endeavour	WORK		http://dbpedia.org/resource/Space_Shuttle_Endeavour
+31	Inspector Morse	WORK		http://dbpedia.org/resource/Inspector_Morse
+31	Detective Constable Morse	PER		http://dbpedia.org/resource/Constable
+31	Oxford CID	ORG		http://dbpedia.org/resource/Oxford
+32	Sky Atlantic	ORG		http://dbpedia.org/resource/Sky_Atlantic
+32	Pivot	ORG		http://dbpedia.org/resource/Futsal_positions
+32	Amazon Studios	ORG		http://dbpedia.org/resource/Amazon_Studios
+32	Fortitude	WORK		NIL
+32	Stanley Tucci	PER		http://dbpedia.org/resource/Stanley_Tucci
+33	Life on Mars	WORK		http://dbpedia.org/resource/Mars
+33	La Chica de Ayer	WORK		http://dbpedia.org/resource/A._J._Ayer
+33	The Dark Side of the Moon	WORK		http://dbpedia.org/resource/Moon
+33	USSR	LOC		http://dbpedia.org/resource/Soviet_Union
+34	BBC TV	ORG		http://dbpedia.org/resource/BBC
+34	Idris Elba	PER		http://dbpedia.org/resource/Idris_Elba
+34	DCI John Luther	PER		http://dbpedia.org/resource/Martin_Luther
+34	London	LOC		http://dbpedia.org/resource/London
+34	Serious Crime Unit	ORG		NIL
+35	Midsomer 	LOC		NIL
+35	Midomer Parva	LOC		http://dbpedia.org/resource/Mahabharata
+35	Midsomer Mallow	LOC		NIL
+35	Midsomer Worthy	LOC		http://dbpedia.org/resource/James_Worthy
+36	Humans	WORK		NIL
+36	Channel 4	ORG		http://dbpedia.org/resource/Channel_4
+36	AMC	ORG		http://dbpedia.org/resource/American_Motors
+37	Work Com	WORK		NIL
+37	Ricky Gervais 	PER		http://dbpedia.org/resource/Ricky_Gervais
+37	Stephen Merchant	PER		http://dbpedia.org/resource/Stephen_Merchant
+38	Outlander	WORK		NIL
+38	Diana Gabaldon	PER		http://dbpedia.org/resource/Diana_Gabaldon
+38	Starz 	ORG		http://dbpedia.org/resource/Starz
+39	Sherlock Holmes	PER		http://dbpedia.org/resource/Sherlock_Holmes
+39	BBC TV	ORG		http://dbpedia.org/resource/BBC
+40	Tinker, Tailor, Soldier, Spy 	WORK		http://dbpedia.org/resource/Tinker_Tailor_Soldier_Spy
+40	John le Carré's The Quest for Karla trilogy	WORK		http://dbpedia.org/resource/Trilogy
+40	Alec Guinness	PER		http://dbpedia.org/resource/Guinness
+40	George Smiley	PER		http://dbpedia.org/resource/George_Smiley
+41	Yes, Minister	WORK		http://dbpedia.org/resource/Yes_Minister
+41	Jim Hacker	PER		http://dbpedia.org/resource/Jim_Hacker
+41	Paul Eddington	PER		http://dbpedia.org/resource/Paul_Eddington
+41	Sir Humpreby Appleby	PER		http://dbpedia.org/resource/Appleby-in-Westmorland
+41	Nigel Hawthorne	PER		http://dbpedia.org/resource/Nigel_Hawthorne
+42	ITV	ORG		http://dbpedia.org/resource/ITV_(TV_network)
+42	PBS	ORG		http://dbpedia.org/resource/PBS
+42	U.S. 	LOC		http://dbpedia.org/resource/United_States
+42	Victoria	WORK		http://dbpedia.org/resource/Victoria_(Australia)
+42	Queen Victoria	PER		http://dbpedia.org/resource/Victoria_(Australia)
+43	Red Dwarf	WORK		http://dbpedia.org/resource/Red_Dwarf
+43	Rob Grant	PER		http://dbpedia.org/resource/Rob_Grant
+43	Doug Naylor 	PER		http://dbpedia.org/resource/Doug_Willis
+44	John le Carré 	PER		NIL
+44	The Little Drummer Girl	WORK		http://dbpedia.org/resource/The_Little_Drummer_Girl
+44	Park Chan-wook	PER		http://dbpedia.org/resource/Park_Chan-wook
+44	Alexander Skarsgård	PER		http://dbpedia.org/resource/Charles_Paul_Alexander
+44	Michael Shannon	PER		http://dbpedia.org/resource/Michael_Shannon
+44	Florence Pugh	PER		http://dbpedia.org/resource/Florence_Pugh
+45	Sex Education	WORK		NIL
+45	Netflix	ORG		http://dbpedia.org/resource/Netflix
+45	Laurie Nunn	PER		NIL
+46	Bodyguard	WORK		http://dbpedia.org/resource/Bodyguard
+46	BBC One	ORG		http://dbpedia.org/resource/BBC_One
+46	ITV	ORG		http://dbpedia.org/resource/ITV_(TV_network)
+46	Jed Mercurio	PER		NIL
+46	BBC	ORG		http://dbpedia.org/resource/BBC
+46	Line of Duty 	WORK		NIL
+47	Episodes	WORK		NIL
+47	David Crane	PER		http://dbpedia.org/resource/David_Crane_(producer)
+47	Jeffrey Klarik	PER		NIL
+47	Stephen Mangan	PER		http://dbpedia.org/resource/Stephen_Mangan
+47	Green Wing	WORK		http://dbpedia.org/resource/Green_Wing
+47	Tamsin Greig	PER		http://dbpedia.org/resource/Tamsin_Greig
+47	Black Books	WORK		http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+47	Matt LeBlanc	PER		http://dbpedia.org/resource/Matt_Hardy
+48	Asfour	WORK		NIL
+48	Khanan Savyon	PER		http://dbpedia.org/resource/Savyon
+48	Gai Amir	PER		http://dbpedia.org/resource/Emir
+48	Rani Sa'ar	PER		http://dbpedia.org/resource/Rani_Kapoor
+48	Sumayoko productions	ORG		NIL
+49	Fauda	WORK		http://dbpedia.org/resource/Fauda
+49	Chaos	WORK		NIL
+49	Yes Oh	ORG		NIL
+49	Lior Raz	PER		http://dbpedia.org/resource/Lior
+49	Hisham Suliman	PER		http://dbpedia.org/resource/Hisham_ibn_Abd_al-Malik
+49	Raz	ORG		NIL
+49	Avi Issacharoff	PER		NIL
+49	Tel-Aviv	LOC		http://dbpedia.org/resource/Tel_Aviv
+49	Hasamba	WORK		NIL
+49	Electric Cave	LOC		NIL
+49	Haifa's Carmel mountain range	LOC		http://dbpedia.org/resource/Haifa
+49	Israel	LOC		http://dbpedia.org/resource/Israel
+51	Israel	LOC		http://dbpedia.org/resource/Israel
+52	Hatufim	WORK		http://dbpedia.org/resource/Prisoners_of_War_(TV_series)
+52	Abductees	WORK		NIL
+52	IDF	ORG		http://dbpedia.org/resource/Israel_Defense_Forces
+52	Lebanon	LOC		http://dbpedia.org/resource/Lebanon
+53	Hamidrasha	WORK		http://dbpedia.org/resource/HaMidrasha_–_Faculty_of_the_Arts
+53	Mossad	ORG		http://dbpedia.org/resource/Mossad
+54	Borgen	WORK		http://dbpedia.org/resource/Johan_Borgen
+54	The Fortress	WORK		http://dbpedia.org/resource/Fort_Boyard_(TV_series)
+54	Christiansborg Palace	LOC		http://dbpedia.org/resource/Christiansborg_Palace
+54	DR	ORG		NIL
+54	Government	WORK		NIL
+54	BBC	ORG		http://dbpedia.org/resource/BBC
+54	Link TV	ORG		http://dbpedia.org/resource/Link_TV
+55	Forbrydelsen	WORK		http://dbpedia.org/resource/The_Killing_(Danish_TV_series)
+55	The Crime Scene Cleaner	WORK		NIL
+55	The Killing	WORK		NIL
+55	DR	ORG		NIL
+56	Arvingerne	WORK		http://dbpedia.org/resource/The_Legacy_(TV_series)
+56	The Heirs	WORK		NIL
+56	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+56	The Legacy	WORK		http://dbpedia.org/resource/The_Legacy_(professional_wrestling)
+56	Veronika Grannegaard	PER		NIL
+57	Bron|Broen	WORK		http://dbpedia.org/resource/Bron
+57	The Bridge	WORK		http://dbpedia.org/resource/The_Bridge_(2011_TV_series)
+57	Denmark	LOC		http://dbpedia.org/resource/Denmark
+57	Sweden	LOC		http://dbpedia.org/resource/Sweden
+58	Riget	WORK		http://dbpedia.org/resource/The_Kingdom_(miniseries)
+58	The Realm	WORK		NIL
+58	Lars von Trier	LOC		http://dbpedia.org/resource/Lars_von_Trier
+59	Rejseholdet	WORK		http://dbpedia.org/resource/Rejseholdet
+59	Unit One	ORG		NIL
+60	Greyzone	WORK		NIL
+60	Gråzon	WORK		NIL
+60	SÄPO	ORG		http://dbpedia.org/resource/Swedish_Security_Service
+60	PET	ORG		http://dbpedia.org/resource/Positron_emission_tomography
+60	Eva Forsberg	PER		NIL
+60	SÄPO	ORG		http://dbpedia.org/resource/Swedish_Security_Service
+60	Jasper Lassen	PER		http://dbpedia.org/resource/Jasper
+61	Pagten	WORK		NIL
+61	The Pact	WORK		NIL
+61	DR	ORG		NIL
+62	The Rain	WORK		NIL
+62	Netflix	ORG		http://dbpedia.org/resource/Netflix
+63	Il Commissario Montalbano	WORK		http://dbpedia.org/resource/Inspector_Montalbano_(TV_series)
+63	Inspector Montalbano	WORK		http://dbpedia.org/resource/Salvo_Montalbano
+63	Andrea Camileri	PER		NIL
+64	L'Allieva	WORK		NIL
+64	The Pupil	WORK		NIL
+64	The Student	WORK		NIL
+64	Alessia Gazzola	PER		NIL
+64	Alice Allevi	PER		http://dbpedia.org/resource/Alice_and_Bob
+65	Rome	LOC		http://dbpedia.org/resource/Rome
+65	Aurora	PER		http://dbpedia.org/resource/Aurora
+65	Valerio	PER		NIL
+65	Aurora's mother 	PER		http://dbpedia.org/resource/Aurora
+65	Valerio	PER		NIL
+65	Irene 	PER		http://dbpedia.org/resource/Irene_of_Athens
+66	Medici: Masters of Florence	WORK		http://dbpedia.org/resource/House_of_Medici
+66	Cosimo de' Medici "the Elder"	PER		http://dbpedia.org/resource/Cosimo_de'_Medici
+66	Lorenzo the Magnificent	PER		http://dbpedia.org/resource/Lorenzo_de'_Medici
+66	Medici family	OTHER		http://dbpedia.org/resource/House_of_Medici
+66	Giovanni 	PER		NIL
+67	Italy	LOC		http://dbpedia.org/resource/Italy
+67	Libanese	PER		NIL
+67	Rome	LOC		http://dbpedia.org/resource/Rome
+68	Adrian	WORK		NIL
+69	World of Winx	WORK		NIL
+69	Winx Club	WORK		http://dbpedia.org/resource/Winx_Club
+69	Ranibow SpA	ORG		NIL
+70	Dinofroz	WORK		NIL
+70	Orlando Corradi	PER		http://dbpedia.org/resource/Orlando_Magic
+70	Giochi Preziosi	PER		http://dbpedia.org/resource/List_of_companies_of_Italy
+70	Mondo TV	ORG		http://dbpedia.org/resource/Mondo_TV
+71	Intercrime	WORK		NIL
+71	Jan Arnald	PER		NIL
+71	Arne Dahl	PER		NIL
+71	A-Unit	ORG		NIL
+71	A-Gruppen	ORG		NIL
+72	Before we Die	WORK		NIL
+72	Innan vi Dör	WORK		NIL
+73	Hitmen	WORK		NIL
+73	Torpederna	WORK		NIL
+73	Sonny	PER		NIL
+73	Nima	PER		http://dbpedia.org/resource/Nima_Yooshij
+73	Goran Stankovic	PER		http://dbpedia.org/resource/Milos_Stankovic
+74	Jordskott	WORK		http://dbpedia.org/resource/Jordskott
+74	Earth Slot	WORK		http://dbpedia.org/resource/Earth
+75	The Last Reality Show	WORK		NIL
+75	TV6	ORG		http://dbpedia.org/resource/CCN_TV6
+76	Midnight Sun	WORK		http://dbpedia.org/resource/Midnight
+76	Midnattssol	WORK		NIL
+76	Jour Polaire	WORK		http://dbpedia.org/resource/Polaire
+76	Kiruna, Sweden	LOC		http://dbpedia.org/resource/Kiruna
+77	Mosquito	WORK		http://dbpedia.org/resource/Mosquito
+79	Äkta Människor	WORK		http://dbpedia.org/resource/Real_Humans
+79	Real Humans	WORK		http://dbpedia.org/resource/Real_Humans
+79	STV	ORG		http://dbpedia.org/resource/Single_transferable_vote
+80	Varan-TV	WORK		NIL
+80	Varanteatern	ORG		NIL
+81	Welcome to Sweden	WORK		http://dbpedia.org/resource/Sweden
+81	Bruce	PER		NIL
+81	New York 	LOC		http://dbpedia.org/resource/New_York
+81	Emma	PER		http://dbpedia.org/resource/Emma_(novel)
+81	Stockholm	LOC		http://dbpedia.org/resource/Stockholm
+82	Hem Till Midgård	WORK		NIL
+82	Home/Back To Midgard	WORK		http://dbpedia.org/resource/Midgard
+83	Cordon	WORK		NIL
+84	Hopla 	WORK		NIL
+84	Bert Smerts	PER		NIL
+86	Hotel Beau Séjour	WORK		NIL
+86	Beau Séjour	WORK		http://dbpedia.org/resource/Beau_Bridges
+86	Bert Van Dael	PER		http://dbpedia.org/resource/Van
+86	Sanne Nuyens	PER		NIL
+86	Benjamin Sprengers	PER		http://dbpedia.org/resource/Benjamin
+86	Nathalie Basteyns	PER		http://dbpedia.org/resource/Nathalie_Brandner
+86	Kaat Beels	PER		NIL
+87	Kabouter Plop	WORK		http://dbpedia.org/resource/Kabouter
+87	Lutin Plop	WORK		http://dbpedia.org/resource/Lutin
+88	Belgium 	LOC		http://dbpedia.org/resource/Belgium
+88	VRT	ORG		http://dbpedia.org/resource/Vlaamse_Radio-_en_Televisieomroeporganisatie
+88	Michiel Devlieger	PER		NIL
+88	ABC	ORG		http://dbpedia.org/resource/American_Broadcasting_Company
+89	Salamander	WORK		http://dbpedia.org/resource/Salamander
+89	VRT 	ORG		http://dbpedia.org/resource/Vlaamse_Radio-_en_Televisieomroeporganisatie
+90	A Town Called Panic	WORK		NIL
+90	Panique au Village	WORK		NIL
+90	Belgium 	LOC		http://dbpedia.org/resource/Belgium
+90	La Parti & Pic Pic André	ORG		http://dbpedia.org/resource/André_3000
+91	Undercover	WORK		NIL
+91	Belgium 	LOC		http://dbpedia.org/resource/Belgium
+92	Big Brother	WORK		http://dbpedia.org/resource/Big_Brother_(franchise)
+92	Netherlands	LOC		http://dbpedia.org/resource/Netherlands
+93	Netherlands'	LOC		http://dbpedia.org/resource/Netherlands
+93	Miljoenenjacht	WORK		NIL
+93	Hunt for Millions	WORK		NIL
+93	Deal or No Deal	WORK		NIL
+94	Fort Alpha	WORK		NIL
+95	Hunter Street 	WORK		http://dbpedia.org/resource/Hunter_Street_(Hamilton,_Ontario)
+95	Nickelodeon	ORG		http://dbpedia.org/resource/Nickelodeon
+96	Sesamstraat	WORK		http://dbpedia.org/resource/Sesamstraat
+96	Sesame Street	WORK		http://dbpedia.org/resource/Sesame_Street
+96	Netherlands	LOC		http://dbpedia.org/resource/Netherlands
+97	De Vloek van Manege Pegasus	WORK		http://dbpedia.org/resource/Moscow_Manege
+97	The Curse of Pegasus Hall	WORK		http://dbpedia.org/resource/Pegasus
+98	Vrienden voor het leven	WORK		NIL
+98	Friends for Life	WORK		http://dbpedia.org/resource/Friends
+99	William of Orange	WORK		http://dbpedia.org/resource/Orange_S.A.
+100	Het Zonnetje in Huis	WORK		NIL
+100	RTL 4	ORG		http://dbpedia.org/resource/RTL_4

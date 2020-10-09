@@ -1,0 +1,206 @@
+doc	surface	type	start	link
+1	Golden Globe Awards	EVENT	9	http://dbpedia.org/resource/Golden_Globe_Awards
+1	NBC	ORG	37	http://dbpedia.org/resource/NBC
+1	Ricky Gervais	PER	52	http://dbpedia.org/resource/Ricky_Gervais
+2	Nexstar Media Group	ORG	0	http://dbpedia.org/resource/Nexstar_Media_Group
+2	WGN America	ORG	127	http://dbpedia.org/resource/WGN_America
+3	Hank Azaria	PER	16	http://dbpedia.org/resource/Hank_Azaria
+3	The Simpsons	WORK	62	http://dbpedia.org/resource/The_Simpsons
+3	Apu Nahasapeemapetilon	PER	85	http://dbpedia.org/resource/Apu_Nahasapeemapetilon
+4	CMT	ORG	0	http://dbpedia.org/resource/CMT_Music_Awards
+5	Grammy Awards	OTHER	9	http://dbpedia.org/resource/Grammy_Award
+5	Staples Center	LOC	35	http://dbpedia.org/resource/Staples_Center
+5	Los Angeles	LOC	53	http://dbpedia.org/resource/Los_Angeles
+5	CBS	ORG	74	http://dbpedia.org/resource/CBS
+5	Alicia Keys	PER	83	http://dbpedia.org/resource/Alicia_Keys
+6	Vue's	ORG	100	NIL
+7	Jennifer Lopez	PER	8	http://dbpedia.org/resource/Jennifer_Lopez
+7	Shakira	PER	27	http://dbpedia.org/resource/Shakira
+8	Academy Awards	EVENT	9	http://dbpedia.org/resource/Academy_Awards
+8	Dolby Theatre	LOC	44	http://dbpedia.org/resource/Dolby_Theatre
+8	Hollywood	LOC	61	http://dbpedia.org/resource/Hollywood
+8	ABC	ORG	80	http://dbpedia.org/resource/American_Broadcasting_Company
+9	Busy Philipps	PER	59	http://dbpedia.org/resource/Busy_Philipps
+9	Instagram	ORG	108	http://dbpedia.org/resource/Instagram
+10	Veritas'	ORG	58	http://dbpedia.org/resource/Veritas
+11	United Kingdom	LOC	102	http://dbpedia.org/resource/United_Kingdom
+12	ESPN	ORG	0	http://dbpedia.org/resource/ESPN
+12	Romo	PER	21	http://dbpedia.org/resource/Tony_Romo
+12	NFL	ORG	108	http://dbpedia.org/resource/NFL
+13	AT&T's	ORG	48	http://dbpedia.org/resource/AT&T
+13	AT&T's	ORG	48	http://dbpedia.org/resource/AT&T
+14	Chris Matthews	PER	0	http://dbpedia.org/resource/Chris_Matthews
+14	MSNBC's	ORG	103	http://dbpedia.org/resource/MSNBC
+14	Hardball	WORK	111	http://dbpedia.org/resource/Hardball_with_Chris_Matthews
+15	Almost Family	WORK	0	http://dbpedia.org/resource/Almost_Family
+17	Riverdale	WORK	0	http://dbpedia.org/resource/Riverdale_(2017_TV_series)
+17	Vancouver	LOC	144	http://dbpedia.org/resource/Vancouver
+17	CW	ORG	160	http://dbpedia.org/resource/The_CW
+17	COVID-19	OTHER	189	http://dbpedia.org/resource/Coronavirus_disease_2019
+18	NBA's	ORG	14	http://dbpedia.org/resource/National_Basketball_Association
+18	United States	LOC	83	http://dbpedia.org/resource/United_States
+20	CBS Television Studios	ORG	0	http://dbpedia.org/resource/CBS
+21	Universal	ORG	0	http://dbpedia.org/resource/Universal
+22	General Hospital's	WORK	150	http://dbpedia.org/resource/General_Hospital
+24	Last Man Standing	WORK	68	NIL
+24	The Orville	WORK	126	http://dbpedia.org/resource/The_Orville
+24	Hulu	ORG	202	http://dbpedia.org/resource/Hulu
+25	Fremantle	ORG	0	http://dbpedia.org/resource/Fremantle
+25	ABC's	ORG	96	http://dbpedia.org/resource/American_Broadcasting_Company
+25	American Idol	WORK	102	http://dbpedia.org/resource/American_Idol
+26	ABC	ORG	18	http://dbpedia.org/resource/American_Broadcasting_Company
+27	Fox's	ORG	169	http://dbpedia.org/resource/Fox_Broadcasting_Company
+28	Stern	PER	21	http://dbpedia.org/resource/David_Stern
+28	NBA	ORG	58	http://dbpedia.org/resource/National_Basketball_Association
+28	O'Brien	PER	74	NIL
+29	Stern's	PER	0	http://dbpedia.org/resource/David_Stern
+29	NBA	ORG	39	http://dbpedia.org/resource/National_Basketball_Association
+30	Christopher John Reuel Tolkien	PER	0	http://dbpedia.org/resource/Christopher_Tolkien
+31	Middle-earth	LOC	59	http://dbpedia.org/resource/Middle-earth
+32	Tolkien	PER	0	http://dbpedia.org/resource/J._R._R._Tolkien
+32	Tolkien Estate, Ltd.	ORG	0	http://dbpedia.org/resource/Tolkien_Estate
+32	Tolkien Charitable Trust	ORG	0	http://dbpedia.org/resource/J._R._R._Tolkien
+33	Urs Egger	PER	0	http://dbpedia.org/resource/Urs_Egger
+33	Bern	LOC	32	http://dbpedia.org/resource/Bern
+33	Berlin	LOC	63	http://dbpedia.org/resource/Berlin
+34	Kirk	PER	0	http://dbpedia.org/resource/Kirk_Douglas
+34	Douglas	PER	5	http://dbpedia.org/resource/Kirk_Douglas
+34	Issur	PER	19	http://dbpedia.org/resource/Kirk_Douglas
+34	Danielovitch	PER	25	http://dbpedia.org/resource/Kirk_Douglas
+35	Douglas	PER	0	http://dbpedia.org/resource/Kirk_Douglas
+36	Douglas	PER	0	http://dbpedia.org/resource/Kirk_Douglas
+36	Academy	ORG	27	http://dbpedia.org/resource/Academy_Awards
+36	Award	EVENT	35	http://dbpedia.org/resource/Academy_Awards
+37	Kirk Douglas	PER	0	http://dbpedia.org/resource/Kirk_Douglas
+37	Beverly hills	LOC	33	http://dbpedia.org/resource/Beverly_Hills
+37	California	LOC	48	http://dbpedia.org/resource/California
+38	Venice Boulevard	LOC	40	http://dbpedia.org/resource/Venice_Boulevard
+38	Shell Avenue	LOC	61	NIL
+38	Venice	LOC	40	http://dbpedia.org/resource/Venice
+38	Los Angeles	LOC	99	http://dbpedia.org/resource/Los_Angeles
+38	Bean	PER	112	NIL
+39	Lipton	OTHER	0	http://dbpedia.org/resource/Lipton
+39	Manhattan	LOC	45	http://dbpedia.org/resource/Manhattan
+40	Nicholas Whitney Tucci	PER	0	http://dbpedia.org/resource/Nicholas_Whitney_Tucci
+41	Sydow	PER	127	http://dbpedia.org/resource/Max_von_Sydow
+41	Antonius Block	PER	184	NIL
+41	Ingmar Bergman's The Seventh Seal	WORK	202	http://dbpedia.org/resource/Ingmar_Bergman
+41	Death	PER	302	NIL
+42	Von Sydow	PER	0	http://dbpedia.org/resource/Max_von_Sydow
+42	Provence	LOC	56	http://dbpedia.org/resource/Provence
+42	France	LOC	66	http://dbpedia.org/resource/France
+43	CNN	PER	8	http://dbpedia.org/resource/CNN
+43	Brooke Baldwin	PER	20	http://dbpedia.org/resource/Brooke_Baldwin
+44	Baldwin	PER	0	http://dbpedia.org/resource/Brooke_Baldwin
+44	CNN	ORG	21	http://dbpedia.org/resource/CNN
+44	Chris Cuomo	PER	32	http://dbpedia.org/resource/Chris_Cuomo
+44	COVID-19	OTHER	65	http://dbpedia.org/resource/Coronavirus_disease_2019
+44	Cuomo	PER	98	http://dbpedia.org/resource/Chris_Cuomo
+45	Saturday Night Live	WORK	0	http://dbpedia.org/resource/Saturday_Night_Live
+45	Tom Hanks	PER	63	http://dbpedia.org/resource/Tom_Hanks
+46	Brad Pitt	PER	55	http://dbpedia.org/resource/Brad_Pitt
+46	Dr. Anthony Fauci	PER	73	http://dbpedia.org/resource/Anthony_S._Fauci
+47	Dr. Fauci	PER	9	http://dbpedia.org/resource/Anthony_S._Fauci
+47	Pitt	PER	33	http://dbpedia.org/resource/Brad_Pitt
+47	CNN	ORG	74	http://dbpedia.org/resource/CNN
+48	Good Morning America	WORK	0	http://dbpedia.org/resource/Good_Morning_America
+48	George Stephanopoulos	PER	28	http://dbpedia.org/resource/George_Stephanopoulos
+48	Ali Wentworth	PER	172	http://dbpedia.org/resource/Ali_Wentworth
+49	NFL Draft	WORK	9	http://dbpedia.org/resource/National_Football_League
+49	ABC	ORG	33	http://dbpedia.org/resource/American_Broadcasting_Company
+49	ESPN	ORG	38	http://dbpedia.org/resource/ESPN
+51	Supreme Court	ORG	79	http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+52	CBS	ORG	31	http://dbpedia.org/resource/CBS
+52	Paramount Pictures	ORG	111	http://dbpedia.org/resource/Paramount_Pictures
+53	Supreme Court	ORG	24	http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+54	MGM	ORG	0	http://dbpedia.org/resource/Metro-Goldwyn-Mayer
+54	Orin Snyder	PER	47	NIL
+54	Starz	ORG	75	http://dbpedia.org/resource/Starz
+55	VFX	ORG	93	NIL
+56	Los Angeles	LOC	192	http://dbpedia.org/resource/Los_Angeles
+58	ESPN	ORG	0	http://dbpedia.org/resource/ESPN
+58	KBO League	ORG	43	http://dbpedia.org/resource/KBO_League
+58	South Korea	LOC	97	http://dbpedia.org/resource/South_Korea
+59	KBO League	ORG	4	http://dbpedia.org/resource/KBO_League
+59	South Korea	LOC	72	http://dbpedia.org/resource/South_Korea
+60	KBO	ORG	0	http://dbpedia.org/resource/KBO_League
+60	United States	LOC	75	http://dbpedia.org/resource/United_States
+61	Univision Communications	ORG	79	http://dbpedia.org/resource/Univision_Communications
+61	FCC	ORG	263	http://dbpedia.org/resource/Federal_Communications_Commission
+62	CBS All Access	ORG	109	http://dbpedia.org/resource/CBS_All_Access
+63	Winners at War	WORK	83	NIL
+63	Survivor	WORK	102	NIL
+63	COVID-19	OTHER	244	http://dbpedia.org/resource/Coronavirus_disease_2019
+64	Just Sam	WORK	0	NIL
+64	American Idol	WORK	53	http://dbpedia.org/resource/American_Idol
+64	COVID-19	OTHER	284	http://dbpedia.org/resource/Coronavirus_disease_2019
+65	Ruby Rose	PER	0	http://dbpedia.org/resource/Ruby_Rose
+65	Kate Kane	PER	64	http://dbpedia.org/resource/Batwoman
+65	CW	ORG	81	http://dbpedia.org/resource/The_CW
+65	Batwoman	WORK	100	http://dbpedia.org/resource/Batwoman
+65	Rose	PER	5	http://dbpedia.org/resource/Ruby_Rose
+66	Rose	PER	16	http://dbpedia.org/resource/Ruby_Rose
+66	Viola	PER	31	NIL
+66	Twelfth Night	WORK	69	http://dbpedia.org/resource/Twelfth_Night
+66	COVID-19	OTHER	123	http://dbpedia.org/resource/Coronavirus_disease_2019
+67	Todd Tilghman	PER	0	NIL
+67	The Voice	WORK	61	http://dbpedia.org/resource/The_Voice_UK
+69	Disney	ORG	43	http://dbpedia.org/resource/The_Walt_Disney_Company
+69	Disneyland	LOC	143	http://dbpedia.org/resource/Disneyland
+70	Jimenez	PER	0	NIL
+70	CNN	ORG	54	http://dbpedia.org/resource/CNN
+71	Atlanta	LOC	0	http://dbpedia.org/resource/Atlanta
+71	Mayor Keisha Lance Bottoms	PER	8	http://dbpedia.org/resource/Keisha_Lance_Bottoms
+72	Protests of Floyd's death	EVENT	0	NIL
+73	Jimenez	PER	5	NIL
+73	Rust	PER	14	NIL
+74	WAVE	ORG	0	NIL
+74	LMPD	ORG	96	http://dbpedia.org/resource/Louisville_Metro_Police_Department
+75	Guardian	ORG	4	http://dbpedia.org/resource/The_Guardian
+76	Rock	OTHER	0	http://dbpedia.org/resource/Rock
+76	Ozzy Osbourne	PER	14	http://dbpedia.org/resource/Ozzy_Osbourne
+76	Parkinson's	OTHER	70	http://dbpedia.org/resource/Parkinson's_disease
+77	Aimee Anne Duffy	PER	0	NIL
+78	Les Misérables	WORK	0	http://dbpedia.org/resource/Les_Mis%C3%A9rables_(musical)
+78	Césars	EVENT	25	http://dbpedia.org/resource/C%C3%A9sar_Award
+79	Roman Polanski	PER	0	http://dbpedia.org/resource/Roman_Polanski
+79	César Awards	EVENT	26	http://dbpedia.org/resource/C%C3%A9sar_Award
+79	An Officer and A Spy	WORK	78	NIL
+79	J'accuse	WORK	108	NIL
+80	Italy	LOC	44	http://dbpedia.org/resource/Italy
+81	California	LOC	3	http://dbpedia.org/resource/California
+81	San Francisco	LOC	15	http://dbpedia.org/resource/San_Francisco
+82	Tom Hanks	PER	6	http://dbpedia.org/resource/Tom_Hanks
+82	Rita Wilson	PER	45	http://dbpedia.org/resource/Rita_Wilson
+82	COVID-19	OTHER	82	http://dbpedia.org/resource/Coronavirus_disease_2019
+82	Australia	LOC	106	http://dbpedia.org/resource/Australia
+82	Elvis	PER	137	http://dbpedia.org/resource/Elvis_Presley
+83	Broadway	LOC	25	http://dbpedia.org/resource/Broadway_theatre
+83	New York	LOC	96	http://dbpedia.org/resource/New_York_City
+83	Governor Andrew Cuomo	PER	105	http://dbpedia.org/resource/Andrew_Cuomo
+84	New York City	LOC	80	http://dbpedia.org/resource/New_York_City
+85	Idris Elba	PER	7	http://dbpedia.org/resource/Idris_Elba
+85	Kristofer Hivju	PER	22	http://dbpedia.org/resource/Kristofer_Hivju
+85	COVID-19	OTHER	80	http://dbpedia.org/resource/Coronavirus_disease_2019
+86	Daniel Dae Kim	PER	6	http://dbpedia.org/resource/Daniel_Dae_Kim
+86	COVID-19	OTHER	40	http://dbpedia.org/resource/Coronavirus_disease_2019
+87	California Governor Gavin Newsom	PER	0	http://dbpedia.org/resource/Gavin_Newsom
+88	Los Angeles	LOC	52	http://dbpedia.org/resource/Los_Angeles
+89	Olympics	EVENT	17	NIL
+89	Tokyo	LOC	44	http://dbpedia.org/resource/Tokyo
+89	Olympic	EVENT	17	NIL
+89	Games	EVENT	124	NIL
+90	Canadian Prime Minister Justin Trudeau	PER	0	http://dbpedia.org/resource/Justin_Trudeau
+90	COVID-19	OTHER	115	http://dbpedia.org/resource/Coronavirus_disease_2019
+92	Prime Minister Boris Johnson	PER	0	http://dbpedia.org/resource/Boris_Johnson
+92	COVID-19	OTHER	89	http://dbpedia.org/resource/Coronavirus_disease_2019
+93	YouTube	ORG	0	http://dbpedia.org/resource/YouTube
+94	UK	LOC	129	http://dbpedia.org/resource/United_Kingdom
+95	New York Governor Andrew Cuomo	PER	0	http://dbpedia.org/resource/Andrew_Cuomo
+96	Final Fantasy VII Remake	WORK	0	http://dbpedia.org/resource/Final_Fantasy_VII_Remake
+97	Paul McCartney's	PER	0	http://dbpedia.org/resource/Paul_McCartney
+97	The Beatles	ORG	38	http://dbpedia.org/resource/The_Beatles
+97	Hey Jude	WORK	52	http://dbpedia.org/resource/Hey_Jude
+98	The 2020 Tour de France	EVENT	0	http://dbpedia.org/resource/Tour_de_France
+99	Reuters	ORG	0	http://dbpedia.org/resource/Reuters
+100	Shanghai Disneyland	LOC	0	http://dbpedia.org/resource/Shanghai_Disneyland_Park

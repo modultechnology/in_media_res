@@ -1,0 +1,210 @@
+doc	surface	type	start	link
+1	Berkshire Hathaway	ORG	0	http://dbpedia.org/resource/Berkshire_Hathaway
+1	Omaha	LOC	108	http://dbpedia.org/resource/Omaha
+1	Nebraska	LOC	115	http://dbpedia.org/resource/Nebraska
+1	United States	LOC	125	http://dbpedia.org/resource/United_States
+2	JPMorgan Chase	ORG	0	http://dbpedia.org/resource/JPMorgan_Chase
+2	S&P Global	OTHER	28	http://dbpedia.org/resource/S&P_Global
+2	United States	LOC	66	http://dbpedia.org/resource/United_States
+3	Alphabet Inc.	ORG	0	http://dbpedia.org/resource/Alphabet_Inc.
+3	Mountain View	LOC	73	http://dbpedia.org/resource/Downtown_Mountain_View_station
+3	California	LOC	88	http://dbpedia.org/resource/California
+4	San Francisco	LOC	11	http://dbpedia.org/resource/San_Francisco
+4	Bank of America	ORG	26	NIL
+4	NationsBank's	ORG	61	http://dbpedia.org/resource/NationsBank
+4	BankAmerica	ORG	90	http://dbpedia.org/resource/Bank_of_America
+5	Intel Corporation	ORG	0	http://dbpedia.org/resource/Intel
+5	Santa Clara	LOC	99	http://dbpedia.org/resource/Santa_Clara
+5	California	LOC	112	 http://dbpedia.org/resource/California
+5	Silicon Valley	LOC	127	http://dbpedia.org/resource/Silicon_Valley
+6	Wells Fargo & Company	ORG	0	http://dbpedia.org/resource/Wells_Fargo
+6	San Francisco	LOC	95	http://dbpedia.org/resource/San_Francisco
+6	California	LOC	110	http://dbpedia.org/resource/California
+6	United States	LOC	161	http://dbpedia.org/resource/United_States
+7	Citigroup Inc.	ORG	0	http://dbpedia.org/resource/Citigroup
+7	Citi	ORG	0	http://dbpedia.org/resource/Citigroup
+7	New York City	LOC	139	http://dbpedia.org/resource/New_York_City
+8	Verizon Communications Inc.	ORG	0	http://dbpedia.org/resource/Verizon_Communications
+8	Dow Jones Industrial Average	OTHER	122	http://dbpedia.org/resource/Dow_Jones_Industrial_Average
+9	Pfizer Inc.	ORG	0	http://dbpedia.org/resource/Pfizer
+9	New York City	LOC	97	http://dbpedia.org/resource/New_York_City
+9	Fortune	WORK	206	http://dbpedia.org/resource/Fortuna
+9	United States	LOC	238	http://dbpedia.org/resource/United_States
+10	Johnson & Johnson	ORG	0	http://dbpedia.org/resource/Johnson_&_Johnson
+11	Walmart Inc.	ORG	0	http://dbpedia.org/resource/Walmart
+11	Wal-Mart Stores, Inc.	ORG	38	http://dbpedia.org/resource/Walmart
+11	Bentonville	LOC	213	http://dbpedia.org/resource/Bentonville
+11	Arkansas	LOC	226	http://dbpedia.org/resource/Arkansas
+12	Exxon Mobil Corporation	ORG	0	http://dbpedia.org/resource/ExxonMobil
+12	ExxonMobil	ORG	43	http://dbpedia.org/resource/ExxonMobil
+12	Irving	LOC	125	NIL
+12	Texas	LOC	133	http://dbpedia.org/resource/Texas
+13	Federal National Mortgage Association	ORG	4	http://dbpedia.org/resource/Fannie_Mae
+13	Fannie Mae	ORG	68	http://dbpedia.org/resource/Fannie_Mae
+13	United States	LOC	85	http://dbpedia.org/resource/United_States
+14	AT&T Inc.	ORG	0	http://dbpedia.org/resource/AT&T
+14	Delaware	LOC	69	http://dbpedia.org/resource/Delaware
+14	Whitacre Tower	LOC	113	http://dbpedia.org/resource/Whitacre_Tower
+14	Downtown Dallas	LOC	131	http://dbpedia.org/resource/Dallas
+14	Texas	LOC	148	http://dbpedia.org/resource/Texas
+15	UnitedHealth Group Incorporated	ORG	0	http://dbpedia.org/resource/UnitedHealth_Group
+15	Minnetonka	LOC	95	http://dbpedia.org/resource/Lake_Minnetonka
+15	Minnesota	LOC	107	http://dbpedia.org/resource/Minnesota
+16	Comcast Corporation	ORG	0	http://dbpedia.org/resource/Comcast
+16	Comcast Holdings	ORG	0	http://dbpedia.org/resource/Comcast
+16	Philadelphia	LOC	126	http://dbpedia.org/resource/Philadelphia
+16	Pennsylvania	LOC	140	http://dbpedia.org/resource/Pennsylvania
+17	Visa Inc.	ORG	0	http://dbpedia.org/resource/Visa_Inc.
+17	Visa	ORG	48	http://dbpedia.org/resource/Visa_Inc.
+17	VISA	ORG	66	http://dbpedia.org/resource/Visa_Inc.
+17	Foster City	LOC	149	http://dbpedia.org/resource/Foster_City,_California
+17	California	LOC	162	http://dbpedia.org/resource/California
+17	United States	LOC	174	http://dbpedia.org/resource/United_States
+17	Visa	ORG	275	http://dbpedia.org/resource/Visa_Inc.
+18	BOX Options Exchange, LLC	ORG	0	NIL
+18	TMX Group	ORG	73	http://dbpedia.org/resource/TMX_Group
+18	TMX	ORG	73	http://dbpedia.org/resource/TMX_Group
+19	Chicago Board Options Exchange	ORG	4	http://dbpedia.org/resource/Chicago_Board_Options_Exchange
+19	South LaSalle Street	LOC	58	http://dbpedia.org/resource/LaSalle_Street
+19	Chicago	LOC	82	http://dbpedia.org/resource/Chicago
+19	U.S.	LOC	106	http://dbpedia.org/resource/United_States
+20	NYSE	ORG	0	http://dbpedia.org/resource/New_York_Stock_Exchange
+20	Arca	ORG	5	NIL
+20	ArcaEx	ORG	31	http://dbpedia.org/resource/NYSE_Arca
+20	Archipelago Exchange	ORG	58	http://dbpedia.org/resource/NYSE_Arca
+21	London Stock Exchange	ORG	0	http://dbpedia.org/resource/London_Stock_Exchange
+21	City	LOC	49	http://dbpedia.org/resource/City_of_London
+21	London	LOC	57	http://dbpedia.org/resource/London
+21	England	LOC	65	http://dbpedia.org/resource/England
+22	Euronext	ORG	0	http://dbpedia.org/resource/Euronext
+23	Toronto Stock Exchange	ORG	4	http://dbpedia.org/resource/Toronto_Stock_Exchange
+23	Association of Brokers	ORG	53	NIL
+23	Toronto	LOC	4	http://dbpedia.org/resource/Toronto
+24	Shenzhen Stock Exchange	ORG	4	http://dbpedia.org/resource/Shenzhen_Stock_Exchange
+24	Shenzhen	LOC	94	http://dbpedia.org/resource/Shenzhen
+24	People's Republic of China	LOC	111	http://dbpedia.org/resource/China
+25	BSE Ltd	ORG	6	http://dbpedia.org/resource/Bombay_Stock_Exchange
+25	Dalal Street	LOC	37	http://dbpedia.org/resource/Dalal_Street
+26	London Stock Exchange	ORG	40	http://dbpedia.org/resource/London_Stock_Exchange
+26	Deutsche Börse	ORG	79	http://dbpedia.org/resource/Deutsche_B%C3%B6rse
+27	Coinbase	ORG	0	http://dbpedia.org/resource/Coinbase
+27	San Francisco	LOC	57	http://dbpedia.org/resource/San_Francisco
+27	California	LOC	72	http://dbpedia.org/resource/California
+27	United States	LOC	84	http://dbpedia.org/resource/United_States
+28	Bitstamp	ORG	0	http://dbpedia.org/resource/Bitstamp
+28	Luxembourg	LOC	40	http://dbpedia.org/resource/Luxembourg
+29	Bitfinex Inc.	ORG	0	http://dbpedia.org/resource/Bitfinex
+29	Hong Kong	LOC	99	http://dbpedia.org/resource/Hong_Kong
+29	British Virgin Islands	LOC	131	http://dbpedia.org/resource/British_Virgin_Islands
+30	Kraken	ORG	12	http://dbpedia.org/resource/Kraken
+30	U.S.	LOC	51	http://dbpedia.org/resource/United_States
+31	Merck	ORG	33	http://dbpedia.org/resource/Merck_Group
+31	Theodore Weicker	PER	49	NIL
+31	United States	LOC	79	http://dbpedia.org/resource/United_States
+31	Darmstadt	LOC	110	 http://dbpedia.org/resource/Darmstadt
+32	Roche	ORG	0	http://dbpedia.org/resource/Hoffmann-La_Roche
+33	Sinopharm	ORG	0	http://dbpedia.org/resource/China_National_Pharmaceutical_Group
+33	Fortune	ORG	35	http://dbpedia.org/resource/Fortune
+33	Global 500	WORK	43	NIL
+34	Bayer AG	ORG	0	http://dbpedia.org/resource/Bayer
+35	Novartis International AG	ORG	0	http://dbpedia.org/resource/Novartis
+35	Basel	LOC	83	http://dbpedia.org/resource/Basel
+35	Switzerland	LOC	90	http://dbpedia.org/resource/Switzerland
+36	GlaxoSmithKline	ORG	56	http://dbpedia.org/resource/GlaxoSmithKline
+37	Sanofi	ORG	0	http://dbpedia.org/resource/Sanofi
+37	Warp Drive	ORG	105	http://dbpedia.org/resource/Warp_Drive
+38	Bristol Myers Squibb	ORG	0	http://dbpedia.org/resource/Bristol-Myers_Squibb
+38	New York City	LOC	83	http://dbpedia.org/resource/New_York_City
+39	AstraZeneca	ORG	0	http://dbpedia.org/resource/AstraZeneca
+40	Gilead	ORG	17	http://dbpedia.org/resource/Gilead_Sciences
+40	Foster City	LOC	113	http://dbpedia.org/resource/Foster_City,_California
+41	Ford	ORG	0	http://dbpedia.org/resource/Ford_Motor_Company
+42	Chevron Corporation	ORG	0	http://dbpedia.org/resource/Chevron_Corporation
+43	General Motors	ORG	0	http://dbpedia.org/resource/General_Motors
+44	GE	ORG	0	http://dbpedia.org/resource/General_Electric
+44	World War I	EVENT	52	http://dbpedia.org/resource/World_War_I
+45	Dell Technologies	ORG	0	http://dbpedia.org/resource/Dell_Technologies
+46	Target Corporation	ORG	0	http://dbpedia.org/resource/Target_Corporation
+47	International Business Machines	ORG	73	http://dbpedia.org/resource/IBM
+48	IBM	ORG	67	http://dbpedia.org/resource/IBM
+49	Boeing's	ORG	9	http://dbpedia.org/resource/Boeing
+50	United Parcel Service	ORG	0	http://dbpedia.org/resource/United_Parcel_Service
+50	UPS	ORG	48	http://dbpedia.org/resource/United_Parcel_Service
+51	FedEx	ORG	0	http://dbpedia.org/resource/FedEx
+51	US government	ORG	48	NIL
+52	P&G	ORG	0	http://dbpedia.org/resource/Procter_&_Gamble
+52	Ohio	LOC	23	http://dbpedia.org/resource/Ohio
+53	PepsiCo's	ORG	30	http://dbpedia.org/resource/PepsiCo
+54	Prudential Financial	ORG	0	http://dbpedia.org/resource/Prudential_Financial
+54	United States	LOC	61	http://dbpedia.org/resource/United_States
+54	U.S.	LOC	136	http://dbpedia.org/resource/United_States
+55	Lockheed Martin	ORG	0	NIL
+56	Goldman Sachs	ORG	0	http://dbpedia.org/resource/Goldman_Sachs
+56	New York City	LOC	29	http://dbpedia.org/resource/New_York_City
+56	Marcus Goldman	PER	54	http://dbpedia.org/resource/Marcus_Goldman
+57	HP	ORG	0	http://dbpedia.org/resource/Hewlett-Packard
+58	Cisco's	ORG	0	http://dbpedia.org/resource/Cisco_Systems
+58	Stanford University's	ORG	37	http://dbpedia.org/resource/Stanford_University
+59	AIG	ORG	23	http://dbpedia.org/resource/American_International_Group
+60	American Express	ORG	32	http://dbpedia.org/resource/American_Express
+60	United States	LOC	139	http://dbpedia.org/resource/United_States
+61	Liberty Mutual Group	ORG	0	http://dbpedia.org/resource/Liberty_Mutual
+61	United States	LOC	122	http://dbpedia.org/resource/United_States
+62	General Dynamics Corporation	ORG	0	http://dbpedia.org/resource/General_Dynamics
+63	NIKE, Inc.	ORG	0	http://dbpedia.org/resource/Nike,_Inc.
+64	Coca-Cola	ORG	21	http://dbpedia.org/resource/The_Coca-Cola_Company
+64	John Stith Pemberton	PER	63	http://dbpedia.org/resource/John_Stith
+65	Vietnam	LOC	21	http://dbpedia.org/resource/Vietnam
+65	Honeywell's	ORG	34	http://dbpedia.org/resource/Honeywell
+66	Exelon	ORG	26	http://dbpedia.org/resource/Exelon
+67	3M Company	ORG	4	http://dbpedia.org/resource/3M
+67	US	LOC	121	http://dbpedia.org/resource/United_States
+68	U.S.	LOC	15	http://dbpedia.org/resource/United_States
+68	Bancorp	ORG	20	NIL
+68	Deutsche Bank	ORG	113	http://dbpedia.org/resource/Deutsche_Bank
+69	Starbucks Corporation	ORG	0	http://dbpedia.org/resource/Starbucks
+69	Seattle	LOC	112	http://dbpedia.org/resource/Seattle
+69	Washington	LOC	121	http://dbpedia.org/resource/Washington_(state)
+70	Macy's	ORG	74	NIL
+71	Kraft Heinz Company	ORG	8	http://dbpedia.org/resource/Kraft_Heinz
+71	United States	LOC	116	http://dbpedia.org/resource/United_States
+72	Tesla	ORG	30	http://dbpedia.org/resource/Tesla_Motors
+73	Qualcomm	ORG	0	http://dbpedia.org/resource/Qualcomm
+74	AMGen	ORG	9	http://dbpedia.org/resource/Amgen
+74	Applied Molecular Genetics	ORG	64	http://dbpedia.org/resource/Amgen
+75	Halliburton Company	ORG	0	http://dbpedia.org/resource/Halliburton
+76	DuPont	ORG	17	http://dbpedia.org/resource/DuPont
+77	McDonald's	ORG	0	NIL
+78	Marriott International, Inc.	ORG	0	http://dbpedia.org/resource/Marriott_International
+79	BNY Mellon's Investment Management	ORG	0	http://dbpedia.org/resource/The_Bank_of_New_York_Mellon
+80	Salesforce	ORG	0	http://dbpedia.org/resource/Salesforce.com
+81	PayPal	ORG	9	http://dbpedia.org/resource/PayPal
+82	Caviar	OTHER	40	NIL
+82	Western Digital	ORG	66	http://dbpedia.org/resource/Western_Digital
+83	Gap	ORG	9	http://dbpedia.org/resource/Gap_Inc.
+83	San Jose	LOC	40	http://dbpedia.org/resource/San_Jose_Earthquakes
+84	Colgate-Palmolive	ORG	9	http://dbpedia.org/resource/Colgate-Palmolive
+84	PETA	ORG	72	http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals
+85	Estée Lauder	ORG	9	http://dbpedia.org/resource/Est%C3%A9e_Lauder_Companies
+85	Kendall Jenner	PER	35	http://dbpedia.org/resource/Kendall_Jenner
+86	Texas Instruments	ORG	9	http://dbpedia.org/resource/Texas_Instruments
+87	RGA’s	ORG	0	NIL
+88	Las Vegas Sands	ORG	23	http://dbpedia.org/resource/Las_Vegas_Sands
+89	Kellogg's	ORG	26	NIL
+90	Kinder Morgan	ORG	0	http://dbpedia.org/resource/Kinder_Morgan
+91	U.S. Steel	ORG	0	NIL
+92	Edison International	ORG	0	NIL
+92	Rosemead	LOC	66	http://dbpedia.org/resource/Rosemead,_California
+92	California	LOC	76	http://dbpedia.org/resource/California
+93	Expedia Group	ORG	0	http://dbpedia.org/resource/Expedia_Group
+94	Boston Scientific	ORG	0	http://dbpedia.org/resource/Boston_Scientific
+95	Liberty Media	ORG	14	http://dbpedia.org/resource/Liberty_Media
+95	Formula One Group	ORG	46	http://dbpedia.org/resource/Formula_One_Group
+96	O. J. Simpson	PER	23	NIL
+96	Hertz	ORG	67	NIL
+97	JetBlue	ORG	0	http://dbpedia.org/resource/JetBlue
+97	Delaware	LOC	28	http://dbpedia.org/resource/Delaware
+98	Foot Locker	ORG	9	http://dbpedia.org/resource/Foot_Locker
+98	GOAT	ORG	48	NIL
+99	Burlington	LOC	64	http://dbpedia.org/resource/Burlington,_Vermont
+100	Dover	LOC	6	http://dbpedia.org/resource/Dover
