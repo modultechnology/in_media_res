@@ -10,9 +10,10 @@ This project is dedicated to the corpora described in the paper:
   publisher = {ACL},
   language = {English},
   year = {2020},
-  pages = {1-10},
+  pages = {355-364},
   month = {november},
   date = {19-20},
+  url = {https://www.aclweb.org/anthology/2020.conll-1.28}
 }
 ```
 ## ANNOTATION GUIDELINES
