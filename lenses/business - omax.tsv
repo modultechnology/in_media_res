@@ -1,24 +1,24 @@
 doc	surface	type	start	link
 1	Berkshire Hathaway	ORG	0	http://dbpedia.org/resource/Berkshire_Hathaway
-1	Omaha	LOC	108	http://dbpedia.org/resource/Omaha,_Nebraska
+1	Omaha, Nebraska	LOC	108	http://dbpedia.org/resource/Omaha,_Nebraska
 1	Nebraska	LOC	115	http://dbpedia.org/resource/Nebraska
 1	United States	LOC	125	http://dbpedia.org/resource/United_States
 2	JPMorgan Chase	ORG	0	http://dbpedia.org/resource/JPMorgan_Chase
 2	S&P Global	OTHER	28	http://dbpedia.org/resource/S&P_Global
 2	United States	LOC	66	http://dbpedia.org/resource/United_States
 3	Alphabet Inc.	ORG	0	http://dbpedia.org/resource/Alphabet_Inc.
-3	Mountain View	LOC	73	http://dbpedia.org/resource/Downtown_Mountain_View_station
+3	Mountain View, California	LOC	73	http://dbpedia.org/resource/Downtown_Mountain_View_station
 3	California	LOC	88	http://dbpedia.org/resource/California
 4	San Francisco	LOC	11	http://dbpedia.org/resource/San_Francisco
 4	Bank of America	ORG	26	NIL
 4	NationsBank's	ORG	61	http://dbpedia.org/resource/NationsBank
 4	BankAmerica	ORG	90	http://dbpedia.org/resource/Bank_of_America
 5	Intel Corporation	ORG	0	http://dbpedia.org/resource/Intel
-5	Santa Clara	LOC	99	http://dbpedia.org/resource/Santa_Clara
+5	Santa Clara, California	LOC	99	http://dbpedia.org/resource/Santa_Clara
 5	California	LOC	112	 http://dbpedia.org/resource/California
 5	Silicon Valley	LOC	127	http://dbpedia.org/resource/Silicon_Valley
 6	Wells Fargo & Company	ORG	0	http://dbpedia.org/resource/Wells_Fargo
-6	San Francisco	LOC	95	http://dbpedia.org/resource/San_Francisco
+6	San Francisco, California, United States	LOC	95	http://dbpedia.org/resource/San_Francisco
 6	California	LOC	110	http://dbpedia.org/resource/California
 6	United States	LOC	161	http://dbpedia.org/resource/United_States
 7	Citigroup Inc.	ORG	0	http://dbpedia.org/resource/Citigroup
@@ -28,7 +28,7 @@ doc	surface	type	start	link
 8	Dow Jones Industrial Average	OTHER	122	http://dbpedia.org/resource/Dow_Jones_Industrial_Average
 9	Pfizer Inc.	ORG	0	http://dbpedia.org/resource/Pfizer
 9	New York City	LOC	97	http://dbpedia.org/resource/New_York_City
-9	Fortune	WORK	206	http://dbpedia.org/resource/Fortuna
+9	Fortune Global 500	WORK	206	http://dbpedia.org/resource/Fortuna
 9	United States	LOC	238	http://dbpedia.org/resource/United_States
 10	Johnson & Johnson	ORG	0	http://dbpedia.org/resource/Johnson_&_Johnson
 11	Walmart Inc.	ORG	0	http://dbpedia.org/resource/Walmart
@@ -37,27 +37,27 @@ doc	surface	type	start	link
 11	Arkansas	LOC	226	http://dbpedia.org/resource/Arkansas
 12	Exxon Mobil Corporation	ORG	0	http://dbpedia.org/resource/ExxonMobil
 12	ExxonMobil	ORG	43	http://dbpedia.org/resource/ExxonMobil
-12	Irving	LOC	125	http://dbpedia.org/resource/Irving,_Texas
+12	Irving, Texas	LOC	125	http://dbpedia.org/resource/Irving,_Texas
 12	Texas	LOC	133	http://dbpedia.org/resource/Texas
 13	Federal National Mortgage Association	ORG	4	http://dbpedia.org/resource/Fannie_Mae
 13	Fannie Mae	ORG	68	http://dbpedia.org/resource/Fannie_Mae
 13	United States	LOC	85	http://dbpedia.org/resource/United_States
 14	AT&T Inc.	ORG	0	http://dbpedia.org/resource/AT&T
 14	Delaware	LOC	69	http://dbpedia.org/resource/Delaware
-14	Whitacre Tower	LOC	113	http://dbpedia.org/resource/Whitacre_Tower
+14	Whitacre Tower, Downtown Dalla, Texas	LOC	113	http://dbpedia.org/resource/Whitacre_Tower
 14	Downtown Dallas	LOC	131	http://dbpedia.org/resource/Dallas
 14	Texas	LOC	148	http://dbpedia.org/resource/Texas
 15	UnitedHealth Group Incorporated	ORG	0	http://dbpedia.org/resource/UnitedHealth_Group
-15	Minnetonka	LOC	95	http://dbpedia.org/resource/Minnetonka,_Minnesota
+15	Minnetonka, Minnesota	LOC	95	http://dbpedia.org/resource/Minnetonka,_Minnesota
 15	Minnesota	LOC	107	http://dbpedia.org/resource/Minnesota
 16	Comcast Corporation	ORG	0	http://dbpedia.org/resource/Comcast
 16	Comcast Holdings	ORG	0	http://dbpedia.org/resource/Comcast
-16	Philadelphia	LOC	126	http://dbpedia.org/resource/Philadelphia
+16	Philadelphia, Pennsylvania	LOC	126	http://dbpedia.org/resource/Philadelphia
 16	Pennsylvania	LOC	140	http://dbpedia.org/resource/Pennsylvania
 17	Visa Inc.	ORG	0	http://dbpedia.org/resource/Visa_Inc.
 17	Visa	ORG	48	http://dbpedia.org/resource/Visa_Inc.
 17	VISA	ORG	66	http://dbpedia.org/resource/Visa_Inc.
-17	Foster City	LOC	149	http://dbpedia.org/resource/Foster_City,_California
+17	Foster City, California, United States	LOC	149	http://dbpedia.org/resource/Foster_City,_California
 17	California	LOC	162	http://dbpedia.org/resource/California
 17	United States	LOC	174	http://dbpedia.org/resource/United_States
 17	Visa	ORG	275	http://dbpedia.org/resource/Visa_Inc.
@@ -73,7 +73,7 @@ doc	surface	type	start	link
 20	ArcaEx	ORG	31	http://dbpedia.org/resource/NYSE_Arca
 20	Archipelago Exchange	ORG	58	http://dbpedia.org/resource/NYSE_Arca
 21	London Stock Exchange	ORG	0	http://dbpedia.org/resource/London_Stock_Exchange
-21	City	LOC	49	http://dbpedia.org/resource/City_of_London
+21	City of London, England	LOC	49	http://dbpedia.org/resource/City_of_London
 21	London	LOC	57	http://dbpedia.org/resource/London
 21	England	LOC	65	http://dbpedia.org/resource/England
 22	Euronext	ORG	0	http://dbpedia.org/resource/Euronext
@@ -88,7 +88,7 @@ doc	surface	type	start	link
 26	London Stock Exchange	ORG	40	http://dbpedia.org/resource/London_Stock_Exchange
 26	Deutsche Börse	ORG	79	http://dbpedia.org/resource/Deutsche_B%C3%B6rse
 27	Coinbase	ORG	0	http://dbpedia.org/resource/Coinbase
-27	San Francisco	LOC	57	http://dbpedia.org/resource/San_Francisco
+27	San Francisco, California, United States	LOC	57	http://dbpedia.org/resource/San_Francisco
 27	California	LOC	72	http://dbpedia.org/resource/California
 27	United States	LOC	84	http://dbpedia.org/resource/United_States
 28	Bitstamp	ORG	0	http://dbpedia.org/resource/Bitstamp
@@ -104,11 +104,11 @@ doc	surface	type	start	link
 31	Darmstadt	LOC	110	 http://dbpedia.org/resource/Darmstadt
 32	Roche	ORG	0	http://dbpedia.org/resource/Hoffmann-La_Roche
 33	Sinopharm	ORG	0	http://dbpedia.org/resource/China_National_Pharmaceutical_Group
-33	Fortune	ORG	35	http://dbpedia.org/resource/Fortune
+33	Fortune Global 500	ORG	35	http://dbpedia.org/page/Fortune_Global_500
 33	Global 500	WORK	43	http://dbpedia.org/page/Fortune_Global_500
 34	Bayer AG	ORG	0	http://dbpedia.org/resource/Bayer
 35	Novartis International AG	ORG	0	http://dbpedia.org/resource/Novartis
-35	Basel	LOC	83	http://dbpedia.org/resource/Basel
+35	Basel, Switzerland	LOC	83	http://dbpedia.org/resource/Basel
 35	Switzerland	LOC	90	http://dbpedia.org/resource/Switzerland
 36	GlaxoSmithKline	ORG	56	http://dbpedia.org/resource/GlaxoSmithKline
 37	Sanofi	ORG	0	http://dbpedia.org/resource/Sanofi
@@ -125,7 +125,7 @@ doc	surface	type	start	link
 44	World War I	EVENT	52	http://dbpedia.org/resource/World_War_I
 45	Dell Technologies	ORG	0	http://dbpedia.org/resource/Dell_Technologies
 46	Target Corporation	ORG	0	http://dbpedia.org/resource/Target_Corporation
-47	International Business Machines	ORG	73	http://dbpedia.org/resource/IBM
+47	International Business Machines (IBM)	ORG	73	http://dbpedia.org/resource/IBM
 48	IBM	ORG	67	http://dbpedia.org/resource/IBM
 49	Boeing's	ORG	9	http://dbpedia.org/resource/Boeing
 50	United Parcel Service	ORG	0	http://dbpedia.org/resource/United_Parcel_Service
@@ -163,7 +163,7 @@ doc	surface	type	start	link
 68	Bancorp	ORG	20	NIL
 68	Deutsche Bank	ORG	113	http://dbpedia.org/resource/Deutsche_Bank
 69	Starbucks Corporation	ORG	0	http://dbpedia.org/resource/Starbucks
-69	Seattle	LOC	112	http://dbpedia.org/resource/Seattle
+69	Seattle, Washington	LOC	112	http://dbpedia.org/resource/Seattle
 69	Washington	LOC	121	http://dbpedia.org/resource/Washington_(state)
 70	Macy's	ORG	74	http://dbpedia.org/resource/Macy's
 71	Kraft Heinz Company	ORG	8	http://dbpedia.org/resource/Kraft_Heinz
@@ -194,7 +194,7 @@ doc	surface	type	start	link
 90	Kinder Morgan	ORG	0	http://dbpedia.org/resource/Kinder_Morgan
 91	U.S. Steel	ORG	0	NIL
 92	Edison International	ORG	0	NIL
-92	Rosemead	LOC	66	http://dbpedia.org/resource/Rosemead,_California
+92	Rosemead, California	LOC	66	http://dbpedia.org/resource/Rosemead,_California
 92	California	LOC	76	http://dbpedia.org/resource/California
 93	Expedia Group	ORG	0	http://dbpedia.org/resource/Expedia_Group
 94	Boston Scientific	ORG	0	http://dbpedia.org/resource/Boston_Scientific

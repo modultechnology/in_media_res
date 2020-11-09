@@ -72,8 +72,7 @@ doc	surface	type	start	link
 36	Academy	ORG	27	http://dbpedia.org/resource/Academy_Awards
 36	Award	EVENT	35	http://dbpedia.org/resource/Academy_Awards
 37	Kirk Douglas	PER	0	http://dbpedia.org/resource/Kirk_Douglas
-37	Beverly Hills	LOC	33	http://dbpedia.org/resource/Beverly_Hills
-37	California	LOC	48	http://dbpedia.org/resource/California
+37	Beverly Hills, California	LOC	33	http://dbpedia.org/resource/Beverly_Hills
 38	Venice Boulevard	LOC	40	http://dbpedia.org/resource/Venice_Boulevard
 38	Shell Avenue	LOC	61	NIL
 38	Venice	LOC	40	http://dbpedia.org/resource/Venice
@@ -82,7 +81,7 @@ doc	surface	type	start	link
 39	Lipton	OTHER	0	http://dbpedia.org/resource/Lipton
 39	Manhattan	LOC	45	http://dbpedia.org/resource/Manhattan
 40	Nicholas Whitney Tucci	PER	0	http://dbpedia.org/resource/Nicholas_Whitney_Tucci
-41	Sydow	PER	127	http://dbpedia.org/resource/Max_von_Sydow
+41	Sydow	PER	123	http://dbpedia.org/resource/Max_von_Sydow
 41	Antonius Block	PER	184	NIL
 41	Ingmar Bergman's The Seventh Seal	WORK	202	http://dbpedia.org/resource/Ingmar_Bergman
 41	Death	PER	302	NIL
@@ -150,7 +149,7 @@ doc	surface	type	start	link
 70	Jimenez	PER	0	NIL
 70	CNN	ORG	54	http://dbpedia.org/resource/CNN
 71	Atlanta	LOC	0	http://dbpedia.org/resource/Atlanta
-71	Atlanta Mayor Keisha Lance Bottoms	PER	0	http://dbpedia.org/resource/Keisha_Lance_Bottoms
+71	Keisha Lance Bottoms	PER	14	http://dbpedia.org/resource/Keisha_Lance_Bottoms
 72	Protests of Floyd's death	EVENT	0	NIL
 73	Jimenez	PER	5	NIL
 73	Rust	PER	14	NIL
@@ -177,26 +176,26 @@ doc	surface	type	start	link
 82	Elvis	PER	137	http://dbpedia.org/resource/Elvis_Presley
 83	Broadway	LOC	25	http://dbpedia.org/resource/Broadway_theatre
 83	New York	LOC	96	http://dbpedia.org/resource/New_York_City
-83	Governor Andrew Cuomo	PER	105	http://dbpedia.org/resource/Andrew_Cuomo
+83	Andrew Cuomo	PER	96	http://dbpedia.org/resource/Andrew_Cuomo
 84	New York City	LOC	80	http://dbpedia.org/resource/New_York_City
 85	Idris Elba	PER	7	http://dbpedia.org/resource/Idris_Elba
 85	Kristofer Hivju	PER	22	http://dbpedia.org/resource/Kristofer_Hivju
 85	COVID-19	OTHER	80	http://dbpedia.org/resource/Coronavirus_disease_2019
 86	Daniel Dae Kim	PER	6	http://dbpedia.org/resource/Daniel_Dae_Kim
 86	COVID-19	OTHER	40	http://dbpedia.org/resource/Coronavirus_disease_2019
-87	California Governor Gavin Newsom	PER	0	http://dbpedia.org/resource/Gavin_Newsom
+87	Gavin Newsom	PER	20	http://dbpedia.org/resource/Gavin_Newsom
 88	Los Angeles	LOC	52	http://dbpedia.org/resource/Los_Angeles
 89	Olympics	EVENT	17	NIL
 89	Tokyo	LOC	44	http://dbpedia.org/resource/Tokyo
 89	Olympic	EVENT	17	NIL
 89	Games	EVENT	124	NIL
-90	Canadian Prime Minister Justin Trudeau	PER	0	http://dbpedia.org/resource/Justin_Trudeau
+90	Justin Trudeau	PER	24	http://dbpedia.org/resource/Justin_Trudeau
 90	COVID-19	OTHER	115	http://dbpedia.org/resource/Coronavirus_disease_2019
-92	Prime Minister Boris Johnson	PER	0	http://dbpedia.org/resource/Boris_Johnson
+92	Boris Johnson	PER	15	http://dbpedia.org/resource/Boris_Johnson
 92	COVID-19	OTHER	89	http://dbpedia.org/resource/Coronavirus_disease_2019
 93	YouTube	ORG	0	http://dbpedia.org/resource/YouTube
 94	UK	LOC	129	http://dbpedia.org/resource/United_Kingdom
-95	New York Governor Andrew Cuomo	PER	0	http://dbpedia.org/resource/Andrew_Cuomo
+95	Andrew Cuomo	PER	19	http://dbpedia.org/resource/Andrew_Cuomo
 96	Final Fantasy VII Remake	WORK	0	http://dbpedia.org/resource/Final_Fantasy_VII_Remake
 97	Paul McCartney's	PER	0	http://dbpedia.org/resource/Paul_McCartney
 97	The Beatles	ORG	38	http://dbpedia.org/resource/The_Beatles

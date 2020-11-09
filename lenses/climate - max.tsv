@@ -16,7 +16,8 @@ doc	surface	type	start	link
 6	An Inconvenient Truth	WORK	0	http://dbpedia.org/resource/An_Inconvenient_Truth
 6	Davis Guggenheim	PER	79	http://dbpedia.org/resource/Davis_Guggenheim
 6	United States	LOC	116	http://dbpedia.org/resource/United_States
-6	Vice President Al Gore's	PER	130	http://dbpedia.org/resource/Al_Gore
+6	Vice President	PER	130	http://dbpedia.org/resource/Al_Gore
+6	Al Gore's	PER	145	http://dbpedia.org/resource/Al_Gore
 7	Leonardo DiCaprio	PER	56	http://dbpedia.org/resource/Leonardo_DiCaprio
 8	The Age of Stupid	WORK	0	NIL
 8	Pete Postlethwaite	PER	70	http://dbpedia.org/resource/Pete_Postlethwaite
@@ -60,20 +61,23 @@ doc	surface	type	start	link
 38	Nature	WORK	81	http://dbpedia.org/resource/Nature
 39	Michael Parenti	PER	10	http://dbpedia.org/resource/Michael_Parenti
 40	Copenhagen	LOC	167	http://dbpedia.org/resource/Copenhagen
-41	Jules Verne's	WORK	0	http://dbpedia.org/resource/Jules_Verne
+41	Jules Verne's 	PER	0	http://dbpedia.org/resource/Jules_Verne
 41	The Purchase	WORK	25	NIL
 41	North Pole	LOC	45	http://dbpedia.org/resource/North_Pole
 41	Earth's	LOC	98	http://dbpedia.org/resource/Earth
 42	J. G. Ballard	PER	53	http://dbpedia.org/resource/J._G._Ballard
 42	In The Wind from Nowhere	WORK	112	NIL
 42	The Drowned World	WORK	115	http://dbpedia.org/resource/The_Drowned_World
-43	Michael Chrichton's State of Fear	WORK	0	http://dbpedia.org/resource/Michael_Crichton
+43	Michael Chrichton's	PER	0	http://dbpedia.org/resource/Michael_Crichton
+43	State of Fear	WORK	19	http://dbpedia.org/resource/Michael_Crichton
 44	Oryx and Cake	WORK	3	http://dbpedia.org/resource/Oryx_and_Cake
 44	Atwood	PER	18	http://dbpedia.org/resource/Margaret_Atwood
 45	Robinson's	PER	0	http://dbpedia.org/resource/Kim_Stanley_Robinson
 45	New York 2140	WORK	40	http://dbpedia.org/resource/New_York_2140
-46	Ian McEwan's Solar	WORK	0	http://dbpedia.org/resource/Ian_McEwan
-47	Barbara Kingsolver's Flight Behaviour	WORK	0	http://dbpedia.org/resource/Barbara_Kingsolver
+46	Ian McEwan's	PER	0	http://dbpedia.org/resource/Ian_McEwan
+46	Solar	WORK	13	http://dbpedia.org/page/Solar_(novel)
+47	Barbara Kingsolver's	PER	0	http://dbpedia.org/resource/Barbara_Kingsolver
+47	Flight Behaviour	WORK	28	NIL
 48	Devolution of a Species	WORK	0	NIL
 48	M.E. Ellington	PER	27	NIL
 48	Gaia	WORK	57	http://dbpedia.org/resource/Gaia

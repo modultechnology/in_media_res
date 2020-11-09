@@ -85,6 +85,7 @@ doc	surface	type	start	link
 41	Sydow	PER	127	http://dbpedia.org/resource/Max_von_Sydow
 41	Antonius Block	PER	184	NIL
 41	Ingmar Bergman's The Seventh Seal	WORK	202	http://dbpedia.org/resource/Ingmar_Bergman
+41	The Seventh Seal	WORK	219	http://dbpedia.org/resource/Ingmar_Bergman
 41	Death	PER	302	NIL
 42	Von Sydow	PER	0	http://dbpedia.org/resource/Max_von_Sydow
 42	Provence	LOC	56	http://dbpedia.org/resource/Provence
@@ -151,6 +152,7 @@ doc	surface	type	start	link
 70	CNN	ORG	54	http://dbpedia.org/resource/CNN
 71	Atlanta	LOC	0	http://dbpedia.org/resource/Atlanta
 71	Atlanta Mayor Keisha Lance Bottoms	PER	0	http://dbpedia.org/resource/Keisha_Lance_Bottoms
+71	Lance Bottoms	PER	15	http://dbpedia.org/resource/Keisha_Lance_Bottoms
 72	Protests of Floyd's death	EVENT	0	NIL
 73	Jimenez	PER	5	NIL
 73	Rust	PER	14	NIL
@@ -178,6 +180,7 @@ doc	surface	type	start	link
 83	Broadway	LOC	25	http://dbpedia.org/resource/Broadway_theatre
 83	New York	LOC	96	http://dbpedia.org/resource/New_York_City
 83	Governor Andrew Cuomo	PER	105	http://dbpedia.org/resource/Andrew_Cuomo
+83	Andrew Cuomo	PER	114	http://dbpedia.org/resource/Andrew_Cuomo
 84	New York City	LOC	80	http://dbpedia.org/resource/New_York_City
 85	Idris Elba	PER	7	http://dbpedia.org/resource/Idris_Elba
 85	Kristofer Hivju	PER	22	http://dbpedia.org/resource/Kristofer_Hivju
@@ -185,6 +188,7 @@ doc	surface	type	start	link
 86	Daniel Dae Kim	PER	6	http://dbpedia.org/resource/Daniel_Dae_Kim
 86	COVID-19	OTHER	40	http://dbpedia.org/resource/Coronavirus_disease_2019
 87	California Governor Gavin Newsom	PER	0	http://dbpedia.org/resource/Gavin_Newsom
+87	Gavin Newsom	PER	20	http://dbpedia.org/resource/Gavin_Newsom
 88	Los Angeles	LOC	52	http://dbpedia.org/resource/Los_Angeles
 89	Olympics	EVENT	17	NIL
 89	Tokyo	LOC	44	http://dbpedia.org/resource/Tokyo
@@ -197,6 +201,7 @@ doc	surface	type	start	link
 93	YouTube	ORG	0	http://dbpedia.org/resource/YouTube
 94	UK	LOC	129	http://dbpedia.org/resource/United_Kingdom
 95	New York Governor Andrew Cuomo	PER	0	http://dbpedia.org/resource/Andrew_Cuomo
+95	New York Governor Andrew Cuomo	PER	18	http://dbpedia.org/resource/Andrew_Cuomo
 96	Final Fantasy VII Remake	WORK	0	http://dbpedia.org/resource/Final_Fantasy_VII_Remake
 97	Paul McCartney's	PER	0	http://dbpedia.org/resource/Paul_McCartney
 97	The Beatles	ORG	38	http://dbpedia.org/resource/The_Beatles

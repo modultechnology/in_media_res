@@ -1,0 +1,246 @@
+doc	surface	type	start	link
+1	Eliud Kipchoge	PER		http://dbpedia.org/resource/Eliud_Kipchoge
+1	Kenya	LOC		http://dbpedia.org/resource/Kenya
+2	Combined Joint Task Force Operation Inherent Resolve 	ORG		http://dbpedia.org/resource/Operation_Inherent_Resolve
+2	U.S. 	LOC		http://dbpedia.org/resource/United_States
+2	Mosul	LOC		http://dbpedia.org/resource/Mosul
+3	Beijing	LOC		http://dbpedia.org/resource/Beijing
+4	United Kingdom	LOC		http://dbpedia.org/resource/United_Kingdom
+4	New Zealand	LOC		http://dbpedia.org/resource/New_Zealand
+4	Professor David Livermore	PER		NIL
+4	University of East Anglia's medical school	ORG		http://dbpedia.org/resource/University_of_East_Anglia
+6	Jong Woo Son	PER		NIL
+6	South Korea	LOC		http://dbpedia.org/resource/South_Korea
+6	United States Department of Justice	ORG		http://dbpedia.org/resource/United_States
+7	University of Cambridge	ORG		http://dbpedia.org/resource/University_of_Cambridge
+7	Fishmonger's Hall	LOC		http://dbpedia.org/resource/Fishmongers%27_Hall
+7	Learning Together	OTHER		NIL
+8	Environmental Science and Technology	WORK		NIL
+8	United States	LOC		http://dbpedia.org/resource/United_States
+9	Roscosmos	ORG		http://dbpedia.org/resource/Roscosmos_State_Corporation
+9	Alexei Leonov 	PER		http://dbpedia.org/resource/Alexey_Leonov
+10	Royal Swedish Academy of Sciences	ORG		http://dbpedia.org/resource/Swedish_Academy
+10	2019 Nobel Prize in Physics	EVENT		http://dbpedia.org/resource/Nobel_Prize
+10	Stockholm, Sweden	LOC		http://dbpedia.org/resource/Stockholm
+11	Brigid Kosgei	PER		http://dbpedia.org/resource/Brigid_Kosgei
+11	Kenya	LOC		http://dbpedia.org/resource/Kenya
+11	2019 Chicago Marathon	EVENT		http://dbpedia.org/resource/Chicago_Marathon
+12	Robert Mugabe	PER		http://dbpedia.org/resource/Robert_Mugabe
+12	Zimbabwe	LOC		http://dbpedia.org/resource/Zimbabwe
+12	Emmerson Mnangagwa	PER		http://dbpedia.org/resource/Emmerson_Mnangagwa
+13	Mahala View Lion Lodge	ORG		NIL
+14	International Monetary Fund 	ORG		http://dbpedia.org/resource/International_Monetary_Fund
+14	AfCFTA	ORG		http://dbpedia.org/resource/African_Continental_Free_Trade_Agreement
+15	Yussef Chahed	PER		NIL
+15	Prime Minister	ROLE		NIL
+15	Tunisia	LOC		http://dbpedia.org/resource/Tunisia
+16	Nickey Iyambo	PER		http://dbpedia.org/resource/Nickey_Iyambo
+16	vice-president	ROLE		NIL
+16	Namibia	LOC		http://dbpedia.org/resource/Namibia
+17	PLoS One	WORK		http://dbpedia.org/resource/PLOS_ONE
+17	University of Bristol	ORG		http://dbpedia.org/resource/University_of_Bristol
+17	UC Davis 	ORG		http://dbpedia.org/resource/University_of_California,_Davis
+18	Dr. Alison Kock	PER		http://dbpedia.org/resource/Alison_DiLaurentis
+18	University of Cape Town	ORG		http://dbpedia.org/resource/University_of_Cape_Town
+18	False Bay	LOC		http://dbpedia.org/resource/False_Bay
+19	Science Advances	WORK		http://dbpedia.org/resource/Science_Advances
+19	University of Colorado at Boulder (CU Boulder)	ORG		http://dbpedia.org/resource/University_of_Colorado_Boulder
+19	Colorado	LOC		http://dbpedia.org/resource/Colorado
+19	College of Wooster	ORG		http://dbpedia.org/resource/College_of_Wooster
+19	Ohio	LOC		http://dbpedia.org/resource/Ohio
+19	Antarctica	LOC		http://dbpedia.org/resource/Antarctica
+20	Australia	LOC		http://dbpedia.org/resource/Australia
+20	Denmark	LOC		http://dbpedia.org/resource/Denmark
+20	Germany	LOC		http://dbpedia.org/resource/Germany
+20	Norway	LOC		http://dbpedia.org/resource/Norway
+20	United Kingdom	LOC		http://dbpedia.org/resource/United_Kingdom
+20	United States	LOC		http://dbpedia.org/resource/United_States
+21	UK Chancellor George Osborne	PER		http://dbpedia.org/resource/George_Osborne
+22	NASA	ORG		http://dbpedia.org/resource/NASA
+22	Europa	LOC		http://dbpedia.org/resource/Europa_(moon)
+22	Jupiter	LOC		http://dbpedia.org/resource/Jupiter
+23	Sir Ranulph Fiennes	PER		http://dbpedia.org/resource/Ranulph_Fiennes
+23	The Coldest Journey	EVENT		NIL
+23	Antarctica	LOC		http://dbpedia.org/resource/Antarctica
+24	Kapitsa	PER		NIL
+24	Physics Nobel Prize	EVENT		http://dbpedia.org/resource/Nobel_Prize
+24	Pyotr Leonidovich Kapitsa	PER		http://dbpedia.org/resource/Pyotr_Kapitsa
+24	Cambridge, England	LOC		http://dbpedia.org/resource/Cambridge
+25	Australia	LOC		http://dbpedia.org/resource/Australia
+25	Antartic	LOC		NIL
+26	European Space Agency 	ORG		http://dbpedia.org/resource/European_Space_Agency
+26	ESA	ORG		http://dbpedia.org/resource/European_Space_Agency
+26	Wilkins Shelf	LOC		http://dbpedia.org/resource/Hubert_Wilkins
+26	Scotland	LOC		http://dbpedia.org/resource/Scotland
+27	Tor	OTHER		http://dbpedia.org/resource/Tor_Books
+28	The Lost 52 Project	OTHER		NIL
+28	U.S. Navy	ORG		http://dbpedia.org/resource/United_States
+28	World War II	EVENT		http://dbpedia.org/resource/World_War_II
+28	U.S. Navy	ORG		http://dbpedia.org/resource/United_States
+29	southern Philippines	LOC		http://dbpedia.org/resource/Philippines
+30	Germany	LOC		http://dbpedia.org/resource/Germany
+30	South Korea	LOC		http://dbpedia.org/resource/South_Korea
+30	United Kingdom	LOC		http://dbpedia.org/resource/United_Kingdom
+30	United States	LOC		http://dbpedia.org/resource/United_States
+31	Chief Executive of Hong Kong	ROLE		http://dbpedia.org/resource/Chief_Executive_of_Hong_Kong
+31	Carrie Lam	PER		http://dbpedia.org/resource/Carrie_Lam
+32	Wiranto	PER		http://dbpedia.org/resource/Wiranto
+32	Pandeglang	LOC		http://dbpedia.org/resource/Pandeglang_Regency
+32	Banten	LOC		http://dbpedia.org/resource/Banten
+33	Hong Kong	LOC		http://dbpedia.org/resource/Hong_Kong
+34	Communist Party	ORG		http://dbpedia.org/resource/Communist_Party_of_China
+34	China	LOC		http://dbpedia.org/resource/China
+35	Pakistan	LOC		http://dbpedia.org/resource/Pakistan
+35	Mohammed Waseem	PER		http://dbpedia.org/resource/Wasim
+35	Qandeel Baloch	PER		http://dbpedia.org/resource/Qandeel_Baloch
+35	Multan	LOC		http://dbpedia.org/resource/Multan
+36	Hamza bin Laden	PER		http://dbpedia.org/resource/Hamza_bin_Laden
+36	United States Department of Defense	ORG		http://dbpedia.org/resource/United_States
+37	Osama bin Laden	PER		http://dbpedia.org/resource/Osama_bin_Laden
+37	Al-Qaeda 	ORG		http://dbpedia.org/resource/Al-Qaeda
+37	9/11 attacks	EVENT		http://dbpedia.org/resource/September_11_attacks
+37	US	LOC		http://dbpedia.org/resource/United_States
+38	Osama	PER		http://dbpedia.org/resource/Osama_bin_Laden
+38	US	LOC		http://dbpedia.org/resource/United_States
+38	Pakistan	LOC		http://dbpedia.org/resource/Pakistan
+39	Deutsche Bank	ORG		http://dbpedia.org/resource/Deutsche_Bank
+39	Frankfurt, Germany	LOC		http://dbpedia.org/resource/Frankfurt
+39	Panama Papers	EVENT		http://dbpedia.org/resource/Panama_Papers
+40	Deutsche Bank	ORG		http://dbpedia.org/resource/Deutsche_Bank
+41	The Guardian	ORG		http://dbpedia.org/resource/The_Guardian
+41	Deutsche Bank	ORG		http://dbpedia.org/resource/Deutsche_Bank
+42	Daphne Caruana Galizia	PER		http://dbpedia.org/resource/Daphne_Caruana_Galizia
+42	Panama Papers	EVENT		http://dbpedia.org/resource/Panama_Papers
+43	Trump	PER		http://dbpedia.org/resource/Donald_Trump
+43	DACA	ORG		http://dbpedia.org/resource/Deferred_Action_for_Childhood_Arrivals
+44	DACA	PER		http://dbpedia.org/resource/Deferred_Action_for_Childhood_Arrivals
+44	Harvard University	ORG		http://dbpedia.org/resource/Harvard_University
+44	U.S.	LOC		http://dbpedia.org/resource/United_States
+45	DACA	ORG		http://dbpedia.org/resource/Deferred_Action_for_Childhood_Arrivals
+45	Trump	PER		http://dbpedia.org/resource/Donald_Trump
+45	Obama 	PER		http://dbpedia.org/resource/Barack_Obama
+46	California	LOC		http://dbpedia.org/resource/California
+46	DACA	ORG		http://dbpedia.org/resource/Deferred_Action_for_Childhood_Arrivals
+47	Honduras	LOC		http://dbpedia.org/resource/Honduras
+47	BBC	ORG		http://dbpedia.org/resource/BBC
+47	Global Witness	ORG		http://dbpedia.org/resource/Global_Witness
+48	Guatemala	LOC		http://dbpedia.org/resource/Guatemala
+48	Supreme Court	ORG		http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+48	President Otto Pérez Molina	PER		http://dbpedia.org/resource/President_of_the_United_States
+49	Congress	ORG		http://dbpedia.org/resource/United_States_Congress
+49	Molina	PER		http://dbpedia.org/resource/Juan_Ignacio_Molina
+50	Molina	PER		http://dbpedia.org/resource/Juan_Ignacio_Molina
+51	US goverment	ORG		http://dbpedia.org/resource/United_States
+52	Texas	LOC		http://dbpedia.org/resource/Texas
+53	Rick Perry 	PER		http://dbpedia.org/resource/Rick_Perry
+53	US	LOC		http://dbpedia.org/resource/United_States
+53	Texas	LOC		http://dbpedia.org/resource/Texas
+53	US	LOC		http://dbpedia.org/resource/United_States
+53	US-Mexico border	LOC		http://dbpedia.org/resource/Mexico–United_States_border
+54	Wikinews	WORK		http://dbpedia.org/resource/Wikinews
+54	Paúl M. Velazco	PER		NIL
+54	American Museum of National History	ORG		http://dbpedia.org/resource/National_Museum_of_American_History
+55	Sturnira	OTHER		http://dbpedia.org/resource/Sturnira
+55	Gray	PER		http://dbpedia.org/resource/John_Edward_Gray
+56	Dr. Bruce Patterson 	PER		NIL
+56	Field Museum of Natural History	ORG		http://dbpedia.org/resource/Field_Museum_of_Natural_History
+57	World Bank	ORG		http://dbpedia.org/resource/World_Bank
+57	2012 World Development Report 	WORK		http://dbpedia.org/resource/World_Development_Report
+57	WDR	WORK		http://dbpedia.org/resource/Westdeutscher_Rundfunk
+58	Australia	LOC		http://dbpedia.org/resource/Australia
+59	Honduras	LOC		http://dbpedia.org/resource/Honduras
+61	Australia's Parliament	ORG		http://dbpedia.org/resource/Australia
+62	Tabasco, Mexico	LOC		http://dbpedia.org/resource/Tabasco
+62	Tabasco	LOC		http://dbpedia.org/resource/Tabasco
+63	Honduras	LOC		http://dbpedia.org/resource/Honduras
+64	US	LOC		http://dbpedia.org/resource/United_States
+65	PTWC	ORG		http://dbpedia.org/resource/Pacific_Tsunami_Warning_Center
+65	Puerto Sandino	LOC		http://dbpedia.org/resource/Puerto_Sandino
+65	Nicaragua	LOC		http://dbpedia.org/resource/Nicaragua
+66	Red Cross	ORG		http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+67	Albert Pujols	PER		http://dbpedia.org/resource/Albert_Pujols
+67	Los Angeles Angels of Anaheim	ORG		http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim
+68	Pujols	PER		NIL
+69	Combined Joint Task Force Operation Inherent Resolve 	ORG		http://dbpedia.org/resource/Operation_Inherent_Resolve
+70	U.S.	LOC		http://dbpedia.org/resource/United_States
+70	Islamic State	LOC		http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant
+71	AFP	ORG		http://dbpedia.org/resource/Agence_France-Presse
+72	Iraq	LOC		http://dbpedia.org/resource/Iraq
+72	U.S.	LOC		http://dbpedia.org/resource/United_States
+72	Saddam Hussein	PER		http://dbpedia.org/resource/Saddam_Hussein
+73	Syrian Democratic Forces	ORG		http://dbpedia.org/resource/Syrian_Democratic_Forces
+73	SDF	ORG		http://dbpedia.org/resource/Syrian_Democratic_Forces
+73	Syria	LOC		http://dbpedia.org/resource/Syria
+73	Turkey	LOC		http://dbpedia.org/resource/Turkey
+73	nort-eastern Syria	LOC		http://dbpedia.org/resource/Syria
+74	US President Donald Trump	PER		http://dbpedia.org/resource/President_of_the_United_States
+74	Turkish President	ROLE		http://dbpedia.org/resource/President_of_Turkey
+74	Recep Tayyip Erdoğan	PER		http://dbpedia.org/resource/Recep_Tayyip_Erdoğan
+75	Turkey	LOC		http://dbpedia.org/resource/Turkey
+76	European Union	LOC		http://dbpedia.org/resource/European_Union
+77	Rai Benjamin	PER		http://dbpedia.org/resource/Benjamin
+77	United States	LOC		http://dbpedia.org/resource/United_States
+78	Hatice Cengiz	PER		NIL
+78	Jamal Khashoggi	PER		http://dbpedia.org/resource/Jamal_Khashoggi
+78	New York, New York	LOC		http://dbpedia.org/resource/New_York_City
+78	Kashoggi	PER		http://dbpedia.org/resource/Adnan_Khashoggi
+79	CIA	ORG		http://dbpedia.org/resource/Central_Intelligence_Agency
+79	Kashoggi	PER		http://dbpedia.org/resource/Adnan_Khashoggi
+80	President Hassan Rouhani 	PER		http://dbpedia.org/resource/President_of_the_United_States
+80	Iran	LOC		http://dbpedia.org/resource/Iran
+81	Saudi Arabia	LOC		http://dbpedia.org/resource/Saudi_Arabia
+82	United Nations General Assembly	ORG		http://dbpedia.org/resource/United_Nations_General_Assembly
+83	Saudi Arabia	LOC		http://dbpedia.org/resource/Saudi_Arabia
+83	Saudi Aramco	ORG		http://dbpedia.org/resource/Saudi_Aramco
+84	US Secretary of State Mike Pompeo	PER		http://dbpedia.org/resource/United_States
+84	Twitter	ORG		http://dbpedia.org/resource/Twitter
+84	Iran	LOC		http://dbpedia.org/resource/Iran
+84	Yemen	LOC		http://dbpedia.org/resource/Yemen
+85	Turkish President	ROLE		http://dbpedia.org/resource/President_of_Turkey
+85	Recep Tayyip Erdoğan	PER		http://dbpedia.org/resource/Recep_Tayyip_Erdoğan
+85	Hagia Sophia	LOC		http://dbpedia.org/resource/Hagia_Sophia
+86	Beto O'Rourke	PER		http://dbpedia.org/resource/Beto_O'Rourke
+86	Democratic primary	EVENT		http://dbpedia.org/resource/Democratic_Party_(United_States)
+86	2020 United States presidential election	EVENT		http://dbpedia.org/resource/United_States_presidential_election,_2020
+87	Nancy Pelosi	PER		http://dbpedia.org/resource/Nancy_Pelosi
+87	Democratic Speaker of the House	ROLE		http://dbpedia.org/resource/Democratic_Party_(United_States)
+87	House	ORG		http://dbpedia.org/resource/United_States_House_of_Representatives
+88	The House	ORG		http://dbpedia.org/resource/United_States_House_of_Representatives
+88	Bill Clinton	PER		http://dbpedia.org/resource/Bill_Clinton
+88	Andrew Johnson	PER		http://dbpedia.org/resource/Andrew_Johnson
+89	United States Department of Transportation	ORG		http://dbpedia.org/resource/United_States
+89	Cuba	LOC		http://dbpedia.org/resource/Cuba
+90	Trudeau	PER		http://dbpedia.org/resource/Pierre_Trudeau
+90	Liberal Party	ORG		http://dbpedia.org/resource/Liberal_Party_of_Australia
+90	House of Commons	ORG		http://dbpedia.org/resource/United_States_House_of_Representatives
+90	2015 election	EVENT		http://dbpedia.org/resource/Canadian_federal_election,_2015
+91	French President			http://dbpedia.org/resource/President_of_France
+91	Emmanuel Macron	PER		http://dbpedia.org/resource/Emmanuel_Macron
+91	G7	ORG		http://dbpedia.org/resource/Group_of_Eight
+91	Amazon	LOC		http://dbpedia.org/resource/Amazon.com
+91	Brazil	LOC		http://dbpedia.org/resource/Brazil
+92	German Chancellor	ROLE		http://dbpedia.org/resource/Chancellor_of_Germany
+92	Angela Merkel	PER		http://dbpedia.org/resource/Angela_Merkel
+92	British Prime Minister	ROLE		http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+92	Boris Johnson	PER		http://dbpedia.org/resource/Boris_Johnson
+93	Baracoa	LOC		http://dbpedia.org/resource/Baracoa
+93	Havana	LOC		http://dbpedia.org/resource/Havana
+94	France	LOC		http://dbpedia.org/resource/France
+94	Mexico	LOC		http://dbpedia.org/resource/Mexico
+94	the Netherlands	LOC		http://dbpedia.org/resource/Netherlands
+94	Canada	LOC		http://dbpedia.org/resource/Canada
+94	United Kingdom	LOC		http://dbpedia.org/resource/United_Kingdom
+95	FC Bayern Munich	ORG		http://dbpedia.org/resource/FC_Bayern_Munich
+95	FC Barcelona	ORG		http://dbpedia.org/resource/FC_Barcelona
+95	Arturo Vidal	PER		http://dbpedia.org/resource/Arturo_Vidal
+96	Carnegie Institution for Science	ORG		http://dbpedia.org/resource/Andrew_Carnegie
+96	Washington, DC, United States	LOC		http://dbpedia.org/resource/Washington,_D.C.
+96	Jupiter	LOC		http://dbpedia.org/resource/Jupiter
+97	NSW 	LOC		http://dbpedia.org/resource/New_South_Wales
+97	Sydney	LOC		http://dbpedia.org/resource/Sydney
+98	Brenton Tarrant	PER		NIL
+98	ABC	ORG		http://dbpedia.org/resource/American_Broadcasting_Company
+99	The Guardian	ORG		http://dbpedia.org/resource/The_Guardian
+100	Port Moresby	LOC		http://dbpedia.org/resource/Port_Moresby
+100	Papua New Guinea	LOC		http://dbpedia.org/resource/Papua_New_Guinea
+100	Chuuk	LOC		http://dbpedia.org/resource/Chuuk_State

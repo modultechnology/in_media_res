@@ -1,0 +1,480 @@
+doc	surface	type	start	link
+1	The Big Bang Theory	TV	0	https://en.wikipedia.org/wiki/The_Big_Bang_Theory
+1	Chuck Lorre	PER	64	https://en.wikipedia.org/wiki/Chuck_Lorre
+1	Bill Prady	PER	80	https://en.wikipedia.org/wiki/Bill_Prady
+1	Steven Molaro	PER	161	https://en.wikipedia.org/wiki/Steven_Molaro
+1	CBS	ORG	237	https://en.wikipedia.org/wiki/CBS
+2	Dracula	WORK	0	https://en.wikipedia.org/wiki/Dracula
+2	Bram Stoker	PER	55	https://en.wikipedia.org/wiki/Bram_Stoker
+2	Count Dracula	PER	99	https://en.wikipedia.org/wiki/Count_Dracula
+3	Harry Potter	WORK	0	https://en.wikipedia.org/wiki/Harry_Potter
+3	J. K. Rowling	PER	69	https://en.wikipedia.org/wiki/J._K._Rowling
+3	Harry Potter	PER	134	https://en.wikipedia.org/wiki/Harry_Potter_(character)
+3	Hermione Granger	PER	164	https://en.wikipedia.org/wiki/Hermione_Granger
+3	Ron Weasley	PER	185	https://en.wikipedia.org/wiki/Ron_Weasley
+3	Hogwarts School of Witchcraft and Wizardry	ORG	226	https://en.wikipedia.org/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry
+3	Lord Voldemort	PER	323	https://en.wikipedia.org/wiki/Lord_Voldemort
+3	Ministry of Magic	ORG	434	https://en.wikipedia.org/wiki/Ministry_of_Magic
+4	Harry Potter and the Philosopher's Stone	WORK	0	https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone
+4	J. K. Rowling	PER	86	https://en.wikipedia.org/wiki/J._K._Rowling
+4	Harry Potter series	WORK	124	https://en.wikipedia.org/wiki/Harry_Potter
+4	Rowling's	PER	148	https://en.wikipedia.org/wiki/J._K._Rowling
+4	Harry Potter	PER	182	https://en.wikipedia.org/wiki/Harry_Potter_(character)
+4	Hogwarts School of Witchcraft and Wizardry	ORG	315	https://en.wikipedia.org/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry
+4	Harry	PER	359	https://en.wikipedia.org/wiki/Harry_Potter_(character)
+4	Harry	PER	474	https://en.wikipedia.org/wiki/Harry_Potter_(character)
+4	Lord Voldemort	PER	527	https://en.wikipedia.org/wiki/Lord_Voldemort
+4	Harry's	PER	554	https://en.wikipedia.org/wiki/Harry_Potter_(character)
+4	Harry	PER	591	https://en.wikipedia.org/wiki/Harry_Potter_(character)
+5	Young Sheldon	TV	0	https://en.wikipedia.org/wiki/Young_Sheldon
+5	young Sheldon	TV	27	https://en.wikipedia.org/wiki/Young_Sheldon
+5	CBS	ORG	85	https://en.wikipedia.org/wiki/CBS
+5	Chuck Lorre	PER	100	https://en.wikipedia.org/wiki/Chuck_Lorre
+5	Steven Molaro	PER	116	https://en.wikipedia.org/wiki/Steven_Molaro
+5	The Big Bang Theory	TV	167	https://en.wikipedia.org/wiki/The_Big_Bang_Theory
+5	Sheldon Cooper	WORK	217	https://en.wikipedia.org/wiki/Sheldon_Cooper
+5	East Texas	LOC	278	https://en.wikipedia.org/wiki/East_Texas
+6	Philip Kindred Dick	PER	0	https://en.wikipedia.org/wiki/Philip_K._Dick
+6	Dick	PER	535	https://en.wikipedia.org/wiki/Philip_K._Dick
+7	Tor Books	ORG	0	https://en.wikipedia.org/wiki/Tor_Books
+7	Tom Doherty Associates	ORG	36	https://en.wikipedia.org/wiki/Tom_Doherty
+7	New York City	LOC	90	https://en.wikipedia.org/wiki/New_York_City
+7	Tor.com	WORK	214	https://en.wikipedia.org/wiki/Tor.com
+8	Cormoran Strike	PER	0	https://en.wikipedia.org/wiki/Cormoran_Strike
+8	J.K. Rowling	PER	77	https://en.wikipedia.org/wiki/J._K._Rowling
+8	Robert Galbraith	PER	122	NIL
+8	Cormoran Strike	PER	192	https://en.wikipedia.org/wiki/Cormoran_Strike
+8	Robin Ellacott	PER	226	NIL
+8	Lethal White	WORK	308	https://en.wikipedia.org/wiki/Lethal_White
+8	Rowling	PER	357	https://en.wikipedia.org/wiki/J._K._Rowling
+9	Brandon Sanderson	PER	0	https://en.wikipedia.org/wiki/Brandon_Sanderson
+9	Cosmere universe	WORK	121	NIL
+9	Mistborn series	WORK	193	https://en.wikipedia.org/wiki/Mistborn_series
+9	The Stormlight Archive	WORK	213	https://en.wikipedia.org/wiki/The_Stormlight_Archive
+9	Robert Jordan's	PER	277	https://en.wikipedia.org/wiki/Robert_Jordan
+9	The Wheel of Time	PER	313	https://en.wikipedia.org/wiki/The_Wheel_of_Time
+9	Sanderson	PER	332	https://en.wikipedia.org/wiki/Brandon_Sanderson
+9	Lincoln, Nebraska	LOC	356	https://en.wikipedia.org/wiki/Lincoln,_Nebraska
+9	Brigham Young University	ORG	391	https://en.wikipedia.org/wiki/Brigham_Young_University
+10	Stephen Edwin King	PER	0	https://en.wikipedia.org/wiki/Stephen_King
+10	King	PER	297	https://en.wikipedia.org/wiki/Stephen_King
+10	Richard Bachman	PER	362	https://en.wikipedia.org/wiki/Richard_Bachman
+11	George Walton Lucas Jr.	PER	0	https://en.wikipedia.org/wiki/George_Lucas
+11	Lucas	PER	87	https://en.wikipedia.org/wiki/George_Lucas
+11	Star Wars	WORK	119	https://en.wikipedia.org/wiki/Star_Wars
+11	Indiana Jones	WORK	133	https://en.wikipedia.org/wiki/Indiana_Jones_(franchise)
+11	Lucasfilm	ORG	171	https://en.wikipedia.org/wiki/Lucasfilm
+11	LucasArts	ORG	182	https://en.wikipedia.org/wiki/LucasArts
+11	Industrial Light & Magic	ORG	196	https://en.wikipedia.org/wiki/Industrial_Light_%26_Magic
+11	Lucasfilm	ORG	247	https://en.wikipedia.org/wiki/Lucasfilm
+11	The Walt Disney Company	ORG	278	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+12	Jonathan "Jonah" Nolan	PER	0	https://en.wikipedia.org/wiki/Jonathan_Nolan
+12	CBS	ORG	146	https://en.wikipedia.org/wiki/CBS
+12	Person of Interest	TV	173	https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)
+12	HBO	ORG	226	https://en.wikipedia.org/wiki/HBO
+12	Westworld	TV	261	https://en.wikipedia.org/wiki/Westworld_(TV_series)
+13	Westworld	WORK	0	https://en.wikipedia.org/wiki/Westworld_(film)
+13	Westworld	WORK	115	https://en.wikipedia.org/wiki/Westworld_(film)
+13	Michael Chrichton	PER	150	https://en.wikipedia.org/wiki/Michael_Crichton
+13	Futureworld	WORK	355	https://en.wikipedia.org/wiki/Futureworld
+13	Beyond Westworld	TV	427	https://en.wikipedia.org/wiki/Beyond_Westworld
+13	Westworld	TV	472	https://en.wikipedia.org/wiki/Westworld_(TV_series)
+13	HBO	ORG	495	https://en.wikipedia.org/wiki/HBO
+14	Stephen Tyrone Colbert	PER	0	https://en.wikipedia.org/wiki/Stephen_Colbert
+14	Comedy Central	ORG	203	https://en.wikipedia.org/wiki/Comedy_Central
+14	The Colbert Report	TV	226	https://en.wikipedia.org/wiki/The_Colbert_Report
+14	CBS	ORG	271	https://en.wikipedia.org/wiki/CBS
+14	The Late Show with Stephen Colbert	TV	288	https://en.wikipedia.org/wiki/The_Late_Show_with_Stephen_Colbert
+15	David Michael Letterman	PER	0	https://en.wikipedia.org/wiki/David_Letterman
+15	Late Night with David Letterman	TV	242	https://en.wikipedia.org/wiki/Late_Night_with_David_Letterman
+15	NBC	ORG	277	https://en.wikipedia.org/wiki/NBC
+15	Late Show with David Letterman	TV	329	https://en.wikipedia.org/wiki/Late_Show_with_David_Letterman
+15	CBS	ORG	344	https://en.wikipedia.org/wiki/CBS
+16	Elizabeth Stamatina "Tina" Fey	PER	0	https://en.wikipedia.org/wiki/Tina_Fey
+16	NBC	ORG	164	https://en.wikipedia.org/wiki/NBC
+16	Saturday Night Live	TV	189	https://en.wikipedia.org/wiki/Saturday_Night_Live
+16	30 Rock	TV	266	https://en.wikipedia.org/wiki/30_Rock
+16	Unbreakable Kimmy Schmidt	TV	290	https://en.wikipedia.org/wiki/Unbreakable_Kimmy_Schmidt
+17	Sir Patrick Stewart OBE	PER	0	https://en.wikipedia.org/wiki/Patrick_Stewart
+17	Olivier	OTHER	192	https://en.wikipedia.org/wiki/Laurence_Olivier_Award
+17	Golden Globe	OTHER	201	https://en.wikipedia.org/wiki/Golden_Globe_Award
+17	Emmy	OTHER	215	https://en.wikipedia.org/wiki/Emmy_Award
+17	Screen Actors Guild	OTHER	221	https://en.wikipedia.org/wiki/Screen_Actors_Guild_Award
+17	Saturn Awards	OTHER	246	https://en.wikipedia.org/wiki/Saturn_Award
+18	Kevin Feige	PER	0	https://en.wikipedia.org/wiki/Kevin_Feige
+18	Marvel Studios	ORG	109	https://en.wikipedia.org/wiki/Marvel_Studios
+18	Feige 	PER	228	https://en.wikipedia.org/wiki/Kevin_Feige
+18	Producers Guild of America	ORG	253	https://en.wikipedia.org/wiki/Producers_Guild_of_America
+19	Lucasfilm Ltd. LLC	ORG	0	https://en.wikipedia.org/wiki/Lucasfilm
+19	The Walt Disney Studios	ORG	97	https://en.wikipedia.org/wiki/Walt_Disney_Studios_(division)
+19	The Walt Disney Company	ORG	136	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+19	Star Wars	WORK	217	https://en.wikipedia.org/wiki/Star_Wars
+19	Indiana Jones	WORK	231	https://en.wikipedia.org/wiki/Indiana_Jones_(franchise)
+20	Game of Thrones	TV	0	https://en.wikipedia.org/wiki/Game_of_Thrones
+20	David Benioff	PER	74	https://en.wikipedia.org/wiki/David_Benioff
+20	D. B. Weiss	PER	92	https://en.wikipedia.org/wiki/D._B._Weiss
+20	HBO	ORG	108	https://en.wikipedia.org/wiki/HBO
+20	A Song of Ice and Fire	WORK	136	https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire
+20	George R. R. Martin's 	PER	160	https://en.wikipedia.org/wiki/George_R._R._Martin
+20	A Game of Thrones	WORK	230	https://en.wikipedia.org/wiki/A_Game_of_Thrones
+21	The Masked Singer	TV	0	https://en.wikipedia.org/wiki/The_Masked_Singer_(American_TV_series)
+21	King of Mask Singer	TV	116	https://en.wikipedia.org/wiki/King_of_Mask_Singer
+21	Fox	ORG	153	https://en.wikipedia.org/wiki/Fox_Broadcasting_Company
+21	Nick Cannon	PER	194	https://en.wikipedia.org/wiki/Nick_Cannon
+22	The Bachelor	TV	0	https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)
+22	ABC	ORG	112	https://en.wikipedia.org/wiki/American_Broadcasting_Company
+22	Chris Harrison	PER	139	https://en.wikipedia.org/wiki/Chris_Harrison
+22	The Bachelorette	TV	218	https://en.wikipedia.org/wiki/The_Bachelorette
+22	Bachelor Pad	TV	236	https://en.wikipedia.org/wiki/Bachelor_Pad
+22	Bachelor in Paradise	TV	250	https://en.wikipedia.org/wiki/Bachelor_in_Paradise_(TV_series)
+22	Bachelor in Paradise: After Paradise	TV	272	https://en.wikipedia.org/wiki/Bachelor_in_Paradise:_After_Paradise
+22	The Bachelor Winter Games	TV	314	https://en.wikipedia.org/wiki/The_Bachelor_Winter_Games
+23	American Idol	TV	0	https://en.wikipedia.org/wiki/American_Idol
+23	Simon Fuller	PER	78	https://en.wikipedia.org/wiki/Simon_Fuller
+23	Fremantle USA	ORG	104	https://en.wikipedia.org/wiki/Fremantle_(company)
+23	19 Entertainment	ORG	122	https://en.wikipedia.org/wiki/19_Entertainment
+23	Fremantle North America	ORG	159	https://en.wikipedia.org/wiki/Fremantle_(company)
+23	Fox	ORG	206	https://en.wikipedia.org/wiki/Fox_Broadcasting_Company
+23	ABC	ORG	323	https://en.wikipedia.org/wiki/American_Broadcasting_Company
+24	The Voice	TV	0	https://en.wikipedia.org/wiki/The_Voice_UK
+24	The Voice of Holland	TV	143	https://en.wikipedia.org/wiki/The_Voice_of_Holland
+24	John de Mol	PER	223	https://en.wikipedia.org/wiki/John_de_Mol
+25	The Grand Tour	TV	0	https://en.wikipedia.org/wiki/The_Grand_Tour
+25	Jeremy Clarkson	PER	69	https://en.wikipedia.org/wiki/Jeremy_Clarkson
+25	Richard Hammond	PER	86	https://en.wikipedia.org/wiki/Richard_Hammond
+25	James May	PER	103	https://en.wikipedia.org/wiki/James_May
+25	Andy Wilman	PER	118	https://en.wikipedia.org/wiki/Andy_Wilman
+25	Amazon Prime Video	ORG	198	https://en.wikipedia.org/wiki/Prime_Video
+25	BBC	ORG	267	https://en.wikipedia.org/wiki/BBC
+25	Top Gear	TV	278	https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)
+25	Clarkson	PER	314	https://en.wikipedia.org/wiki/Jeremy_Clarkson
+25	Hammond	PER	325	https://en.wikipedia.org/wiki/Richard_Hammond
+25	May	PER	338	https://en.wikipedia.org/wiki/James_May
+26	Salt Fat Acid Heat	TV	0	https://en.wikipedia.org/wiki/Salt,_Fat,_Acid,_Heat_(TV_series)
+26	Samin Nosrat	PER	81	https://en.wikipedia.org/wiki/Samin_Nosrat
+26	Netflix	ORG	170	https://en.wikipedia.org/wiki/Netflix
+27	Chef's Table	TV	0	https://en.wikipedia.org/wiki/Chef%27s_Table
+27	Netflix	ORG	36	https://en.wikipedia.org/wiki/Netflix
+27	David Gelb	PER	129	https://en.wikipedia.org/wiki/David_Gelb
+27	Jiro Dreams of Sushi	TV	184	https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi
+28	Anthony Bourdain: Parts Unknown	TV	0	https://en.wikipedia.org/wiki/Anthony_Bourdain:_Parts_Unknown
+28	CNN	ORG	71	https://en.wikipedia.org/wiki/CNN
+28	Anthony Bourdain	PER	123	https://en.wikipedia.org/wiki/Anthony_Bourdain
+29	Netflix	ORG	0	https://en.wikipedia.org/wiki/Netflix
+29	Los Gatos, California	LOC	106	https://en.wikipedia.org/wiki/Los_Gatos,_California
+29	Reed Hastings	PER	148	https://en.wikipedia.org/wiki/Reed_Hastings
+29	Marc Randolph	PER	166	https://en.wikipedia.org/wiki/Marc_Randolph
+29	Scotts Valley, California	LOC	183	https://en.wikipedia.org/wiki/Scotts_Valley,_California
+30	The Walt Disney Company	ORG	0	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+30	Disney	ORG	43	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+30	Walt Disney Studios	ORG	166	https://en.wikipedia.org/wiki/Walt_Disney_Studios_(Burbank)
+30	Burbank, California	LOC	197	https://en.wikipedia.org/wiki/Burbank,_California
+31	Warner Bros. Entertainment Inc.	ORG	0	https://en.wikipedia.org/wiki/Warner_Bros.
+31	Warner Bros.	ORG	39	https://en.wikipedia.org/wiki/Warner_Bros.
+31	WB	ORG	53	https://en.wikipedia.org/wiki/Warner_Bros.
+31	Burbank, California	LOC	112	https://en.wikipedia.org/wiki/Burbank,_California
+31	AT&T's	ORG	152	https://en.wikipedia.org/wiki/AT%26T
+31	WarnerMedia	ORG	159	https://en.wikipedia.org/wiki/WarnerMedia
+31	Motion Picture Association of America	ORG	328	https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America
+31	MPAA	ORG	367	https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America
+32	HBO	ORG	0	https://en.wikipedia.org/wiki/HBO
+32	Home Box Office	ORG	5	https://en.wikipedia.org/wiki/HBO
+32	WarnerMedia Entertainment	ORG	93	https://en.wikipedia.org/wiki/WarnerMedia
+32	AT&T's	ORG	134	https://en.wikipedia.org/wiki/AT%26T
+32	WarnerMedia	ORG	141	https://en.wikipedia.org/wiki/WarnerMedia
+33	Hulu	ORG	0	https://en.wikipedia.org/wiki/Hulu
+33	U.S.	LOC	22	https://en.wikipedia.org/wiki/United_States
+33	Walt Disney Direct-to-Consumer & International	ORG	109	https://en.wikipedia.org/wiki/Walt_Disney_Direct-to-Consumer_%26_International
+33	The Walt Disney Company	ORG	179	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+33	Comcast's	ORG	209	https://en.wikipedia.org/wiki/Comcast
+33	NBCUniversal	ORG	219	https://en.wikipedia.org/wiki/NBCUniversal
+34	The British Broadcasting Corporation 	ORG	0	https://en.wikipedia.org/wiki/BBC
+34	BBC	ORG	38	https://en.wikipedia.org/wiki/BBC
+34	Broadcasting House	LOC	108	https://en.wikipedia.org/wiki/Broadcasting_House
+34	Westminster, London	LOC	130	https://en.wikipedia.org/wiki/Westminster
+35	Euronews	ORG	0	https://en.wikipedia.org/wiki/Euronews
+35	Lyon, France	LOC	69	https://en.wikipedia.org/wiki/Lyon
+36	AT&T Inc.	ORG	0	https://en.wikipedia.org/wiki/AT%26T
+36	Whitacre Tower	LOC	85	https://en.wikipedia.org/wiki/AT%26T
+36	Downtown Dallas, Texas	LOC	103	https://en.wikipedia.org/wiki/Downtown_Dallas
+37	CBS	ORG	0	https://en.wikipedia.org/wiki/CBS
+37	Columbia Broadcasting System	ORG	53	https://en.wikipedia.org/wiki/CBS
+37	CBS Corporation	ORG	196	https://en.wikipedia.org/wiki/CBS_Corporation
+37	CBS Building	LOC	249	https://en.wikipedia.org/wiki/CBS_Building
+37	New York City	LOC	265	https://en.wikipedia.org/wiki/New_York_City
+37	New York City	LOC	330	https://en.wikipedia.org/wiki/New_York_City
+37	CBS Broadcast Center	LOC	352	https://en.wikipedia.org/wiki/CBS_Broadcast_Center
+37	Los Angeles	LOC	378	https://en.wikipedia.org/wiki/Los_Angeles
+37	CBS Television City	LOC	394	https://en.wikipedia.org/wiki/CBS_Television_City
+37	CBS Studio Center	LOC	422	https://en.wikipedia.org/wiki/CBS_Studio_Center
+38	Cable News Network	ORG	0	https://en.wikipedia.org/wiki/CNN
+38	CNN	ORG	20	https://en.wikipedia.org/wiki/CNN
+38	AT&T's	ORG	83	https://en.wikipedia.org/wiki/AT%26T
+38	WarnerMedia	ORG	90	https://en.wikipedia.org/wiki/WarnerMedia
+38	CNN	ORG	103	https://en.wikipedia.org/wiki/CNN
+38	Ted Turner	PER	156	https://en.wikipedia.org/wiki/Ted_Turner
+38	CNN	ORG	217	https://en.wikipedia.org/wiki/CNN
+38	United States	LOC	341	https://en.wikipedia.org/wiki/United_States
+39	HBO Max	ORG	0	https://en.wikipedia.org/wiki/HBO_Max
+39	WarnerMedia Entertainment	ORG	77	https://en.wikipedia.org/wiki/WarnerMedia_Entertainment
+40	ESPN	ORG	0	https://en.wikipedia.org/wiki/ESPN
+40	Entertainment and Sports Programming Network	ORG	35	https://en.wikipedia.org/wiki/ESPN
+40	U.S.	LOC	86	https://en.wikipedia.org/wiki/United_States
+40	ESPN Inc.	ORG	136	https://en.wikipedia.org/wiki/ESPN_Inc.
+40	The Walt Disney Company	ORG	164	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+40	Hearst Communications	ORG	198	https://en.wikipedia.org/wiki/Hearst_Communications
+41	Disney+	ORG	0	https://en.wikipedia.org/wiki/Disney%2B
+41	Walt Disney Direct-to-Consumer & International	ORG	135	https://en.wikipedia.org/wiki/Walt_Disney_Direct-to-Consumer_%26_International
+41	The Walt Disney Company	ORG	194	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+41	Walt Disney Studios	ORG	337	https://en.wikipedia.org/wiki/Walt_Disney_Studios_(division)
+41	Walt Disney Television	ORG	361	https://en.wikipedia.org/wiki/Walt_Disney_Television
+41	Disney	ORG	500	https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+41	Pixar	ORG	508	https://en.wikipedia.org/wiki/Pixar
+41	Marvel	ORG	515	https://en.wikipedia.org/wiki/Marvel_Entertainment
+41	Lucasfilm	ORG	523	https://en.wikipedia.org/wiki/Lucasfilm
+41	National Geographic	ORG	534	https://en.wikipedia.org/wiki/National_Geographic_Partners
+41	20th Century Fox	ORG	559	https://en.wikipedia.org/wiki/20th_Century_Fox
+42	MLB Advanced Media	ORG	0	https://en.wikipedia.org/wiki/MLB_Advanced_Media
+42	MLBAM	ORG	20	https://en.wikipedia.org/wiki/MLB_Advanced_Media
+42	Major League Baseball	ORG	74	https://en.wikipedia.org/wiki/Major_League_Baseball
+42	MLB	ORG	97	https://en.wikipedia.org/wiki/Major_League_Baseball
+42	New York City	LOC	111	https://en.wikipedia.org/wiki/New_York_City
+42	Internet	OTHER	136	https://en.wikipedia.org/wiki/Internet
+43	Apple Inc.	ORG	0	https://en.wikipedia.org/wiki/Apple_Inc.
+43	Cupertino, California	LOC	76	https://en.wikipedia.org/wiki/Cupertino,_California
+44	Amazon.com Inc.	ORG	0	https://en.wikipedia.org/wiki/Amazon_(company)
+44	Seattle, Washington	LOC	87	https://en.wikipedia.org/wiki/Seattle
+45	Google LLC	ORG	0	https://en.wikipedia.org/wiki/Google
+45	Internet	OTHER	79	https://en.wikipedia.org/wiki/Internet
+46	Facebook, Inc.	ORG	0	https://en.wikipedia.org/wiki/Facebook
+46	Menlo Park, California	LOC	97	https://en.wikipedia.org/wiki/Menlo_Park,_California
+46	Mark Zuckerberg	PER	139	https://en.wikipedia.org/wiki/Mark_Zuckerberg
+46	Harvard College	ORG	174	https://en.wikipedia.org/wiki/Harvard_College
+46	Eduardo Saverin	PER	213	https://en.wikipedia.org/wiki/Eduardo_Saverin
+46	Andrew McCollum	PER	230	https://en.wikipedia.org/wiki/Andrew_McCollum
+46	Dustin Moskovitz	PER	247	https://en.wikipedia.org/wiki/Dustin_Moskovitz
+46	Chris Hughes	PER	268	https://en.wikipedia.org/wiki/Chris_Hughes
+47	Microsoft Corporation	ORG	0	https://en.wikipedia.org/wiki/Microsoft
+47	Redmond, Washington	LOC	91	https://en.wikipedia.org/wiki/Redmond,_Washington
+48	DeepMind Technologies	ORG	0	https://en.wikipedia.org/wiki/DeepMind
+48	UK	LOC	27	https://en.wikipedia.org/wiki/United_Kingdom
+48	Alphabet Inc.	ORG	84	https://en.wikipedia.org/wiki/Alphabet_Inc.
+49	Samsung Electronics Co., Ltd.	ORG	0	https://en.wikipedia.org/wiki/Samsung_Electronics
+49	Suwon, South Korea	LOC	185	https://en.wikipedia.org/wiki/Samsung_Electronics
+50	Huawei Technologies Co. Ltd.	ORG	0	https://en.wikipedia.org/wiki/Huawei
+50	Shenzen, Guangdong province	LOC	291	https://en.wikipedia.org/wiki/Shenzhen
+51	Tencent Games	ORG	0	https://en.wikipedia.org/wiki/Tencent
+51	Tencent Interactive Entertainment	ORG	94	https://en.wikipedia.org/wiki/Tencent
+51	Tencent	ORG	150	https://en.wikipedia.org/wiki/Tencent
+52	Sony Interactive Entertainment	ORG	0	https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment
+52	SIE	ORG	32	https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment
+52	Sony Corporation	ORG	160	https://en.wikipedia.org/wiki/Sony_Corporation
+53	Xbox Game Studios	ORG	0	https://en.wikipedia.org/wiki/Xbox_Game_Studios
+53	Microsoft Studios	ORG	39	https://en.wikipedia.org/wiki/Xbox_Game_Studios
+53	Microsoft Game Studios	ORG	58	https://en.wikipedia.org/wiki/Xbox_Game_Studios
+53	Microsoft Games	ORG	86	https://en.wikipedia.org/wiki/Xbox_Game_Studios
+53	Microsoft	ORG	120	https://en.wikipedia.org/wiki/Microsoft
+53	Redmond, Washington	LOC	139	https://en.wikipedia.org/wiki/Redmond,_Washington
+54	Electronic Arts Inc.	ORG	0	https://en.wikipedia.org/wiki/Electronic_Arts
+54	EA	ORG	22	https://en.wikipedia.org/wiki/Electronic_Arts
+54	Redwood City, California	LOC	77	https://en.wikipedia.org/wiki/Redwood_City,_California
+55	Activision Blizzard, Inc.	ORG	0	https://en.wikipedia.org/wiki/Activision_Blizzard
+55	Santa Monica, California	LOC	86	https://en.wikipedia.org/wiki/Santa_Monica,_California
+56	Binance	ORG	0	https://en.wikipedia.org/wiki/Binance
+56	Binance	ORG	131	https://en.wikipedia.org/wiki/Binance
+58	BitMEX	ORG	0	https://en.wikipedia.org/wiki/BitMEX
+58	HDR Global Trading Limited	ORG	97	NIL
+58	Seychelles	LOC	152	https://en.wikipedia.org/wiki/Seychelles
+57	Bittrex	ORG	0	https://en.wikipedia.org/wiki/Bittrex
+57	Seattle, Washington	LOC	63	https://en.wikipedia.org/wiki/Seattle
+59	The New York Stock Exchange	ORG	0	https://en.wikipedia.org/wiki/New_York_Stock_Exchange
+59	NYSE	ORG	29	https://en.wikipedia.org/wiki/New_York_Stock_Exchange
+59	The Big Board	ORG	46	https://en.wikipedia.org/wiki/New_York_Stock_Exchange
+59	11 Wall Street, Lower Manhattan, New York City, New York	LOC	103	https://en.wikipedia.org/wiki/Wall_Street
+60	The Nasdaq Stock Market	ORG	0	https://en.wikipedia.org/wiki/Nasdaq
+60	Nasdaq	ORG	76	https://en.wikipedia.org/wiki/Nasdaq
+60	New York Stock Exchange	ORG	210	https://en.wikipedia.org/wiki/New_York_Stock_Exchange
+61	Billions	TV	0	https://en.wikipedia.org/wiki/Billions_(TV_series)
+61	Brian Koppelman	PER	59	https://en.wikipedia.org/wiki/Brian_Koppelman
+61	David Levien	PER	76	https://en.wikipedia.org/wiki/David_Levien
+61	Andrew Ross Sorkin	PER	94	https://en.wikipedia.org/wiki/Andrew_Ross_Sorkin
+61	Paul Giamatti	PER	123	https://en.wikipedia.org/wiki/Paul_Giamatti
+61	Damian Lewis	PER	141	https://en.wikipedia.org/wiki/Damian_Lewis
+61	Showtime	ORG	173	https://en.wikipedia.org/wiki/Showtime_(TV_network)
+61	Preet Bharara	PER	252	https://en.wikipedia.org/wiki/Preet_Bharara
+61	U.S. Attorney for the Southern District of New York	ROLE	278	https://en.wikipedia.org/wiki/U.S._Attorney_for_the_Southern_District_of_New_York
+61	Steve Cohen	PER	377	https://en.wikipedia.org/wiki/Steven_A._Cohen
+61	S.A.C. Capital Advisors	ORG	392	https://en.wikipedia.org/wiki/S.A.C._Capital_Advisors
+62	Succesion	TV	0	https://en.wikipedia.org/wiki/Succession_(TV_series)
+62	Jesse Armstrong	PER	79	https://en.wikipedia.org/wiki/Jesse_Armstrong
+62	HBO	ORG	131	https://en.wikipedia.org/wiki/HBO
+62	Roy	PER	172	NIL
+62	Logan Roy	PER	341	NIL
+63	Yellowstone	TV	0	https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)
+63	Taylor Sheridan	PER	62	https://en.wikipedia.org/wiki/Taylor_Sheridan
+63	John Linson	PER	82	https://en.wikipedia.org/wiki/John_Linson
+63	Paramount Network	ORG	129	https://en.wikipedia.org/wiki/Paramount_Network
+64	The Newsroom	TV	0	https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)
+64	Aaron Sorkin	PER	97	https://en.wikipedia.org/wiki/Aaron_Sorkin
+64	HBO	ORG	128	https://en.wikipedia.org/wiki/HBO
+65	The West Wing	TV	0	https://en.wikipedia.org/wiki/The_West_Wing
+65	Aaron Sorkin	PER	81	https://en.wikipedia.org/wiki/Aaron_Sorkin
+65	NBC	ORG	127	https://en.wikipedia.org/wiki/NBC
+66	Mad Men	TV	0	https://en.wikipedia.org/wiki/Mad_Men
+66	Matthew Weiner	PER	65	https://en.wikipedia.org/wiki/Matthew_Weiner
+66	Lionsgate Television	ORG	96	https://en.wikipedia.org/wiki/Lionsgate_Television
+66	AMC	ORG	178	https://en.wikipedia.org/wiki/AMC_(TV_channel)
+67	Narcos	TV	0	https://en.wikipedia.org/wiki/Narcos
+67	Chris Brancato	PER	80	https://en.wikipedia.org/wiki/Chris_Brancato
+67	Carlo Bernard	PER	96	NIL
+67	Doug Miro	PER	116	https://en.wikipedia.org/wiki/Doug_Miro
+68	Star Trek: Discovery	TV	0	https://en.wikipedia.org/wiki/Star_Trek:_Discovery
+68	CBS All Access	ORG	70	https://en.wikipedia.org/wiki/CBS_All_Access
+68	Bryan Fuller	PER	88	https://en.wikipedia.org/wiki/Bryan_Fuller
+68	Alex Kurtzman	PER	105	https://en.wikipedia.org/wiki/Alex_Kurtzman
+69	The Americans	TV	0	https://en.wikipedia.org/wiki/The_Americans
+69	Joe Weisberg	PER	78	https://en.wikipedia.org/wiki/Joe_Weisberg
+69	FX	ORG	99	https://en.wikipedia.org/wiki/FX_(TV_channel)
+70	Black Mirror	TV	0	https://en.wikipedia.org/wiki/Black_Mirror
+70	Charlie Brooker	PER	81	https://en.wikipedia.org/wiki/Charlie_Brooker
+70	Brooker	PER	103	https://en.wikipedia.org/wiki/Charlie_Brooker
+70	Annabel Jones	PER	115	https://en.wikipedia.org/wiki/Annabel_Jones
+71	How Democracies Die	WORK	0	https://en.wikipedia.org/wiki/How_Democracies_Die
+71	Harvard University	ORG	38	https://en.wikipedia.org/wiki/Harvard_University
+71	Steven Levitsky	PER	78	https://en.wikipedia.org/wiki/Steven_Levitsky
+71	Daniel Ziblatt	PER	98	https://en.wikipedia.org/wiki/Daniel_Ziblatt
+72	These Truths: A History of the United States	WORK	0	https://en.wikipedia.org/wiki/These_Truths
+72	Jill Lepore	PER	88	https://en.wikipedia.org/wiki/Jill_Lepore
+72	W.W. Norton	ORG	253	https://en.wikipedia.org/wiki/W._W._Norton
+73	21 Lessons for the 21st Century	WORK	0	https://en.wikipedia.org/wiki/21_Lessons_for_the_21st_Century
+73	Yuval Noah Harari	PER	79	https://en.wikipedia.org/wiki/Yuval_Noah_Harari
+73	Spiegel & Grau	ORG	129	https://en.wikipedia.org/wiki/Spiegel_%26_Grau
+73	US	LOC	151	https://en.wikipedia.org/wiki/United_States
+73	Jonathan Cape	ORG	161	https://en.wikipedia.org/wiki/Jonathan_Cape
+73	UK	LOC	182	https://en.wikipedia.org/wiki/United_Kingdom
+74	The Order of Time	WORK	0	https://en.wikipedia.org/wiki/The_Order_of_Time_(book)
+74	Carlo Rovelli	PER	79	https://en.wikipedia.org/wiki/Carlo_Rovelli
+75	12 Rules for Life: An Antidote to Chaos	WORK	0	https://en.wikipedia.org/wiki/12_Rules_for_Life
+75	Jordan Peterson	PER	124	https://en.wikipedia.org/wiki/Jordan_Peterson
+76	Bad Blood: Secrets and Lies in a Silicon Valley Startup	WORK	0	https://en.wikipedia.org/wiki/Bad_Blood:_Secrets_and_Lies_in_a_Silicon_Valley_Startup
+76	John Carreyrou	PER	91	https://en.wikipedia.org/wiki/John_Carreyrou
+76	Theranos	ORG	170	https://en.wikipedia.org/wiki/Theranos
+76	Elizabeth Holmes	PER	230	https://en.wikipedia.org/wiki/Elizabeth_Holmes
+77	Mindhunter: Inside the FBI's Elite Serial Crime Unit	WORK	0	https://en.wikipedia.org/wiki/Mindhunter:_Inside_the_FBI%27s_Elite_Serial_Crime_Unit
+77	FBI	ORG	105	https://en.wikipedia.org/wiki/FBI
+77	John E. Douglas	PER	115	https://en.wikipedia.org/wiki/John_E._Douglas
+77	Mark Olshaker	PER	148	https://en.wikipedia.org/wiki/Mark_Olshaker
+78	Strange Angel	TV	0	https://en.wikipedia.org/wiki/Strange_Angel
+78	CBS All Access	ORG	110	https://en.wikipedia.org/wiki/CBS_All_Access
+79	The Gene: An Intimate History	WORK	0	https://en.wikipedia.org/wiki/The_Gene:_An_Intimate_History
+79	Siddhartha Mukherjee	PER	51	https://en.wikipedia.org/wiki/Siddhartha_Mukherjee
+79	Scribner	ORG	158	https://en.wikipedia.org/wiki/Charles_Scribner%27s_Sons
+80	Curb Your Enthusiasm	TV	0	https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm
+80	HBO	ORG	87	https://en.wikipedia.org/wiki/HBO
+80	Larry David	PER	153	https://en.wikipedia.org/wiki/Larry_David
+81	Felix Arvid Ulf Kjellberg	PER	0	https://en.wikipedia.org/wiki/PewDiePie
+81	PewDieDie	PER	160	https://en.wikipedia.org/wiki/PewDiePie
+81	YouTube	ORG	270	https://en.wikipedia.org/wiki/YouTube
+82	T-Series	ORG	0	https://en.wikipedia.org/wiki/T-Series_(company)
+82	YouTube	ORG	16	https://en.wikipedia.org/wiki/YouTube
+82	T-Series	ORG	110	https://en.wikipedia.org/wiki/T-Series_(company)
+83	Ryan ToysReview	TV	0	https://en.wikipedia.org/wiki/Ryan_ToysReview
+83	YouTube	ORG	32	https://en.wikipedia.org/wiki/YouTube
+83	Ryan Kaji	PER	70	NIL
+83	Loann Kaji	PER	139	NIL
+83	Shion Kaji	PER	160	NIL
+83	Emma	PER	191	NIL
+83	Kate	PER	200	NIL
+84	Dua Lipa	PER	0	https://en.wikipedia.org/wiki/Dua_Lipa
+84	Warner Music Group	ORG	125	https://en.wikipedia.org/wiki/Warner_Music_Group
+84	New Love	WORK	186	NIL
+85	Ingrid Nilsen	PER	0	https://en.wikipedia.org/wiki/Ingrid_Nilsen
+85	YouTube	ORG	53	https://en.wikipedia.org/wiki/YouTube
+85	Rowland Heights, California	LOC	78	https://en.wikipedia.org/wiki/Rowland_Heights,_California
+85	Nilsen	PER	107	https://en.wikipedia.org/wiki/Ingrid_Nilsen
+85	YouTube	ORG	122	https://en.wikipedia.org/wiki/YouTube
+85	Missglamorazzi	TV	152	NIL
+86	Louis John Cole	PER	0	https://en.wikipedia.org/wiki/Louis_Cole
+86	FunForLouis	TV	71	NIL
+86	YouTube	ORG	118	https://en.wikipedia.org/wiki/YouTube
+86	Venice Beach, Los Angeles, California	LOC	147	https://en.wikipedia.org/wiki/Venice_beach
+86	YouTube	ORG	226	https://en.wikipedia.org/wiki/YouTube
+86	FunForLouis	TV	298	NIL
+87	The King of Random	TV	0	https://en.wikipedia.org/wiki/The_King_of_Random
+87	TKOR	TV	20	https://en.wikipedia.org/wiki/The_King_of_Random
+87	YouTube	ORG	31	https://en.wikipedia.org/wiki/YouTube
+87	Grant Thompson	PER	58	NIL
+87	Thompson	PER	216	NIL
+87	Nate Bonham	PER	247	NIL
+87	Calli Gade	PER	263	NIL
+88	AsapScience	TV	0	https://en.wikipedia.org/wiki/AsapScience
+88	AsapSCIENCE	TV	25	https://en.wikipedia.org/wiki/AsapScience
+88	YouTube	ORG	43	https://en.wikipedia.org/wiki/YouTube
+88	Mitchell Moffit	PER	89	NIL
+88	Gregory Brown	PER	109	NIL
+89	Smosh	TV	0	https://en.wikipedia.org/wiki/Smosh
+89	YouTube	ORG	35	https://en.wikipedia.org/wiki/YouTube
+89	Anthony Padilla	PER	62	NIL
+89	Ian Hecox	PER	82	NIL
+90	Kurzgesagt	TV	0	https://en.wikipedia.org/wiki/Kurzgesagt
+90	Munich	LOC	36	https://en.wikipedia.org/wiki/Munich
+90	Philipp Dettmer	PER	77	NIL
+90	YouTube	ORG	115	https://en.wikipedia.org/wiki/YouTube
+91	ARD	ORG	0	https://en.wikipedia.org/wiki/ARD_(broadcaster)
+91	Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland	ORG	56	https://en.wikipedia.org/wiki/ARD_(broadcaster)
+91	Working group of public broadcasters of the Federal Republic of Germany	ORG	198	https://en.wikipedia.org/wiki/ARD_(broadcaster)
+91	Germany's	LOC	254	https://en.wikipedia.org/wiki/Germany
+91	West Germany	LOC	328	https://en.wikipedia.org/wiki/West_Germany
+92	Zweites Deutsches Fernsehen	ORG	0	https://en.wikipedia.org/wiki/ZDF
+92	Second German Television	ORG	98	https://en.wikipedia.org/wiki/ZDF
+92	ZDF	ORG	146	https://en.wikipedia.org/wiki/ZDF
+92	2DF	ORG	180	https://en.wikipedia.org/wiki/ZDF
+92	Main, Rhineland-Palatinate	LOC	245	https://en.wikipedia.org/wiki/Mainz
+92	Germany's	LOC	368	https://en.wikipedia.org/wiki/Germany
+92	ZDF	ORG	392	https://en.wikipedia.org/wiki/ZDF
+93	Rundfunk Berlin-Brandenburg	ORG	0	https://en.wikipedia.org/wiki/Rundfunk_Berlin-Brandenburg
+93	RBB	ORG	29	https://en.wikipedia.org/wiki/Rundfunk_Berlin-Brandenburg
+93	Berlin-Brandenburg Broadcasting	ORG	35	https://en.wikipedia.org/wiki/Rundfunk_Berlin-Brandenburg
+93	Berlin	LOC	151	https://en.wikipedia.org/wiki/Berlin
+93	Brandenburg	LOC	162	https://en.wikipedia.org/wiki/Brandenburg
+93	Berlin	LOC	187	https://en.wikipedia.org/wiki/Berlin
+93	Postdam	LOC	198	https://en.wikipedia.org/wiki/Potsdam
+94	Österreichischer Rundfunk	ORG	0	https://en.wikipedia.org/wiki/ORF_(broadcaster)
+94	Austrian Broadcasting Corporation	ORG	36	https://en.wikipedia.org/wiki/ORF_(broadcaster)
+94	ORF	ORG	71	https://en.wikipedia.org/wiki/ORF_(broadcaster)
+94	ORF	ORG	220	https://en.wikipedia.org/wiki/ORF_(broadcaster)
+95	TF1	ORG	0	https://en.wikipedia.org/wiki/TF1
+95	TF1 Group	ORG	97	https://en.wikipedia.org/wiki/TF1_Group
+95	Bouygues	LOC	136	https://en.wikipedia.org/wiki/Bouygues
+96	Deutsche Welle	ORG	0	https://en.wikipedia.org/wiki/Deutsche_Welle
+96	DW	ORG	83	https://en.wikipedia.org/wiki/Deutsche_Welle
+96	Germany's	LOC	89	https://en.wikipedia.org/wiki/Germany
+97	RTL Group	ORG	0	https://en.wikipedia.org/wiki/RTL_Group
+97	Luxembourg	LOC	15	https://en.wikipedia.org/wiki/Luxembourg
+97	Germany	LOC	176	https://en.wikipedia.org/wiki/Germany
+97	France	LOC	185	https://en.wikipedia.org/wiki/France
+97	Belgium	LOC	193	https://en.wikipedia.org/wiki/Belgium
+97	the Netherlands	LOC	202	https://en.wikipedia.org/wiki/Netherlands
+97	Luxembourg	LOC	219	https://en.wikipedia.org/wiki/Luxembourg
+97	Switzerland	LOC	231	https://en.wikipedia.org/wiki/Switzerland
+97	Spain	LOC	244	https://en.wikipedia.org/wiki/Spain
+97	Hungary	LOC	252	https://en.wikipedia.org/wiki/Hungary
+97	Croatia	LOC	264	https://en.wikipedia.org/wiki/Croatia
+97	Bertelsmann	ORG	376	https://en.wikipedia.org/wiki/Bertelsmann
+97	MDAX stock exchange	ORG	418	https://en.wikipedia.org/wiki/Xetra_(trading_system)
+97	Germany	LOC	441	https://en.wikipedia.org/wiki/Germany
+98	ProSieben	ORG	0	https://en.wikipedia.org/wiki/ProSieben
+98	Germany's	LOC	161	https://en.wikipedia.org/wiki/Germany
+98	ProSieben	ORG	231	https://en.wikipedia.org/wiki/ProSieben
+98	ProSieben Fun	ORG	378	NIL
+98	ProSieben Maxx	ORG	416	NIL
+99	Puls 4	ORG	0	https://en.wikipedia.org/wiki/Puls_4
+99	Austria	LOC	46	https://en.wikipedia.org/wiki/Austria
+99	ORF eins	ORG	147	https://en.wikipedia.org/wiki/ORF_eins
+99	ORF 2	ORG	157	https://en.wikipedia.org/wiki/ORF_2
+99	ATV	ORG	168	https://en.wikipedia.org/wiki/ATV_(Austria)
+100	RAI - Radiotelevisione italiana	ORG	0	https://en.wikipedia.org/wiki/RAI
+100	Rai	ORG	118	https://en.wikipedia.org/wiki/RAI
+100	Radio Audizioni Italiane	ORG	154	https://en.wikipedia.org/wiki/RAI
+100	Italy	LOC	227	https://en.wikipedia.org/wiki/Italy
+100	Ministry of Economy and Finance	ORG	247	https://en.wikipedia.org/wiki/Ministry_of_Economy_and_Finance_(Italy)

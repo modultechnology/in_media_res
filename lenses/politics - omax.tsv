@@ -1,0 +1,221 @@
+Donet	surface	type	start	link
+1	NATO (North Atlantic Treaty Organisation)	ORG		http://dbpedia.org/resource/NATO
+1	North Atlantic Treaty Organisation	ORG		http://dbpedia.org/resource/NATO
+1	Wales	LOC		http://dbpedia.org/resource/Wales
+1	Afghanistan	LOC		http://dbpedia.org/resource/Afghanistan
+1	Russia	LOC		http://dbpedia.org/resource/Russia
+1	Islamic State	LOC		http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant
+2	Australian Foreign Minister Julie Bishop	ROLE		http://dbpedia.org/resource/Minister_for_Foreign_Affairs_(Australia)
+2	Julie Bishop	PER		http://dbpedia.org/resource/Julie_Bishop
+2	Australia 	LOC		http://dbpedia.org/resource/Australia
+2	NATO	ORG		http://dbpedia.org/resource/NATO
+2	NATO conference	EVENT		http://dbpedia.org/resource/NATO
+3	Australia	LOC		http://dbpedia.org/resource/Australia
+3	Iraq	LOC		http://dbpedia.org/resource/Iraq
+4	Sea of Azov	LOC		http://dbpedia.org/resource/Azov
+5	Bank of England	ORG		http://dbpedia.org/resource/England
+6	Australia	LOC		http://dbpedia.org/resource/Australia
+7	Spain	LOC		http://dbpedia.org/resource/Spain
+7	Italy	LOC		http://dbpedia.org/resource/Italy
+8	Donetsk	LOC		http://dbpedia.org/resource/Donetsk
+8	Luhansk	LOC		http://dbpedia.org/resource/Luhansk
+8	Russia	LOC		http://dbpedia.org/resource/Russia
+8	Russia	LOC		http://dbpedia.org/resource/Russia
+9	Russia	LOC		http://dbpedia.org/resource/Russia
+9	Ukraine	LOC		http://dbpedia.org/resource/Ukraine
+10	Mayor of Kiev	ROLE		http://dbpedia.org/resource/Mayor
+10	Vitali Klitschko	PER		http://dbpedia.org/resource/Vitali_Klitschko
+11	Ukrainian President Petro Poroshenko	ROLE		http://dbpedia.org/resource/President_of_Ukraine
+11	Petro Poroshenko	PER		http://dbpedia.org/resource/Petro_Poroshenko
+11	Russia	LOC		http://dbpedia.org/resource/Russia
+12	European Union	ORG		http://dbpedia.org/resource/European_Union
+12	EU	ORG		http://dbpedia.org/resource/European_Union
+12	Russia	LOC		http://dbpedia.org/resource/Russia
+12	Ukraine	LOC		http://dbpedia.org/resource/Ukraine
+13	Ukraine	LOC		http://dbpedia.org/resource/Ukraine
+14	Airlines Flight 17	OTHER		NIL
+15	United States	LOC		http://dbpedia.org/resource/United_States
+16	Security Service of Ukraine	ORG		http://dbpedia.org/resource/Security_Service_of_Ukraine
+16	SBU	ORG		http://dbpedia.org/resource/Security_Service_of_Ukraine
+16	YouTube	ORG		http://dbpedia.org/resource/YouTube
+17	Hong Kong	LOC		http://dbpedia.org/resource/Hong_Kong
+17	World Trade Organization	ORG		http://dbpedia.org/resource/World_Trade_Organization
+17	WTO	ORG		http://dbpedia.org/resource/World_Trade_Organization
+18	China	LOC		http://dbpedia.org/resource/China
+18	U.S. Commerce Department	ORG		http://dbpedia.org/resource/United_States
+19	Chinese Yuan 	OTHER		http://dbpedia.org/resource/Renminbi
+19	U.S. Dollar	OTHER		http://dbpedia.org/resource/United_States
+20	IMF	ORG		http://dbpedia.org/resource/International_Monetary_Fund
+20	Africa in the Doha Round	WORK		http://dbpedia.org/resource/Africa
+21	Group of Eight	ORG		NIL
+21	G8	ORG		http://dbpedia.org/resource/Group_of_Eight
+22	EU	ORG		http://dbpedia.org/resource/European_Union
+22	APEC	ORG		http://dbpedia.org/resource/Asia-Pacific_Economic_Cooperation
+23	US	LOC		http://dbpedia.org/resource/United_States
+23	Israel	LOC		http://dbpedia.org/resource/Israel
+24	U.S.	LOC		http://dbpedia.org/resource/United_States
+24	Iraq	LOC		http://dbpedia.org/resource/Iraq
+25	Baghdad	LOC		http://dbpedia.org/resource/Baghdad
+25	Iraq	LOC		http://dbpedia.org/resource/Iraq
+26	NATO	ORG		http://dbpedia.org/resource/NATO
+26	Hungary	LOC		http://dbpedia.org/resource/Hungary
+26	GDP	OTHER		http://dbpedia.org/resource/Gross_domestic_product
+26	NATO	ORG		http://dbpedia.org/resource/NATO
+27	Hungarian Development Bank	ORG		http://dbpedia.org/resource/Hungary
+28	United States House of Representatives	ORG		http://dbpedia.org/resource/United_States
+28	President Donald Trump	PER		http://dbpedia.org/resource/President_of_the_United_States
+28	Donald Trump	PER		http://dbpedia.org/resource/Donald_Trump
+29	Nancy Pelosi	PER		http://dbpedia.org/resource/Nancy_Pelosi
+29	Democratic Speaker of the House	ROLE		http://dbpedia.org/resource/Democratic_Party_(United_States)
+30	Mitch McConnell	PER		http://dbpedia.org/resource/Mitch_McConnell
+30	Republican Senate Majority Leader	ROLE		http://dbpedia.org/resource/Republican_Party_(United_States)
+31	United States Senator Kay Hagan	PER		http://dbpedia.org/resource/United_States_Senate
+32	John James Conyers Jr.	PER		http://dbpedia.org/resource/John_James_(architect)
+32	Congress	ORG		http://dbpedia.org/resource/United_States_Congress
+32	Detroit, Michigan	LOC		http://dbpedia.org/resource/Detroit
+32	Michigan	LOC		http://dbpedia.org/resource/Detroit
+33	Conyers	PER		NIL
+33	Congressional Black Caucus 	ORG		http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+34	NPR	ORG		http://dbpedia.org/resource/NPR
+34	Congress	ORG		http://dbpedia.org/resource/United_States_Congress
+35	David Milliband 	PER		NIL
+35	Labour leader	ROLE		http://dbpedia.org/resource/New_Zealand_Labour_Party
+35	Cameron	PER		http://dbpedia.org/resource/David_Cameron
+36	Cameron	PER		http://dbpedia.org/resource/David_Cameron
+37	Birmingham, England	LOC		http://dbpedia.org/resource/Birmingham
+37	England	LOC		http://dbpedia.org/resource/England
+38	West Midlands	LOC		http://dbpedia.org/resource/West_Midlands_conurbation
+39	Facebok	ORG		NIL
+39	Twitter	ORG		http://dbpedia.org/resource/Twitter
+40	Birmingham	LOC		http://dbpedia.org/resource/Birmingham
+40	Liverpool	LOC		http://dbpedia.org/resource/Liverpool
+40	Nottingham 	LOC		http://dbpedia.org/resource/Nottingham
+40	Birmingham 	LOC		http://dbpedia.org/resource/Birmingham
+41	England	LOC		http://dbpedia.org/resource/England
+42	Sirte	LOC		http://dbpedia.org/resource/Sirte
+43	ISIL	LOC		http://dbpedia.org/resource/Islamic_State_of_Iraq_and_the_Levant
+44	US	LOC		http://dbpedia.org/resource/United_States
+44	Egypt	LOC		http://dbpedia.org/resource/Egypt
+44	UAE	LOC		http://dbpedia.org/resource/United_Arab_Emirates
+44	Tripoli	LOC		http://dbpedia.org/resource/Tripoli
+45	Qatar	LOC		http://dbpedia.org/resource/Qatar
+45	Muslim Brotherhood	ORG		http://dbpedia.org/resource/Muslim_Brotherhood
+45	Tripoli	LOC		http://dbpedia.org/resource/Tripoli
+48	Algeria	LOC		http://dbpedia.org/resource/Algeria
+48	Tunisia	LOC		http://dbpedia.org/resource/Tunisia
+48	Libya	LOC		http://dbpedia.org/resource/Libya
+50	Libya	LOC		http://dbpedia.org/resource/Libya
+50	Mohamed Abdel Aziz	PER		NIL
+50	The Guardian	ORG		http://dbpedia.org/resource/The_Guardian
+51	UK Foreign and Commonwealth Office	ORG		http://dbpedia.org/resource/United_Kingdom
+51	FCO	ORG		http://dbpedia.org/resource/Foreign_and_Commonwealth_Office
+51	UK	LOC		http://dbpedia.org/resource/United_Kingdom
+51	Tripoli	LOC		http://dbpedia.org/resource/Tripoli
+52	FCO	ORG		http://dbpedia.org/resource/Foreign_and_Commonwealth_Office
+52	HMS Enterprise	OTHER		http://dbpedia.org/resource/HMS_Enterprise_(D52)
+53	Donald Trump administration	ORG		http://dbpedia.org/resource/Donald_Trump
+53	Iraq	LOC		http://dbpedia.org/resource/Iraq
+53	Siria	LOC		http://dbpedia.org/resource/Siria
+54	Islam	OTHER		NIL
+54	Tunisia	LOC		http://dbpedia.org/resource/Tunisia
+54	Syria	LOC		http://dbpedia.org/resource/Syria
+54	Etihad	ORG		NIL
+56	Cairo, Egypt	LOC		http://dbpedia.org/resource/Cairo
+56	Egypt	LOC		http://dbpedia.org/resource/Egypt
+56	Mohamed Morsi	PER		http://dbpedia.org/resource/Mohamed_Morsi
+57	Egypt's parliament	ORG		http://dbpedia.org/resource/Egypt
+58	Morsi	PER		http://dbpedia.org/resource/Mohamed_Morsi
+59	Muslim Brotherhood	ORG		http://dbpedia.org/resource/Muslim_Brotherhood
+59	Nour Party	ORG		http://dbpedia.org/resource/Al-Nour_Party
+60	Arab Spring	EVENT		http://dbpedia.org/resource/Arab_Spring
+60	Iran	LOC		http://dbpedia.org/resource/Iran
+60	Mali	LOC		http://dbpedia.org/resource/Mali
+61	Mr. Romney	PER		http://dbpedia.org/resource/Mitt_Romney
+61	Mr. Obama	PER		http://dbpedia.org/resource/Barack_Obama
+62	Damascus	LOC		http://dbpedia.org/resource/Damascus
+63	Syrian Observatory for Human Rights	ORG		http://dbpedia.org/resource/Syrians
+63	Daraa	LOC		http://dbpedia.org/resource/Daraa
+64	Gaddafi	PER		http://dbpedia.org/resource/Muammar_Gaddafi
+65	Tripoli's Court Complex	ORG		http://dbpedia.org/resource/Tripoli
+66	Mubarak	PER		http://dbpedia.org/resource/Hosni_Mubarak
+67	Cairo's Tahrir Square	LOC		http://dbpedia.org/resource/Cairo
+67	Suez	LOC		http://dbpedia.org/resource/Suez
+67	Mansoura	LOC		http://dbpedia.org/resource/El_Mansoura_SC
+68	De Blasio	PER		NIL
+69	Warren	PER		http://dbpedia.org/resource/Earl_Warren
+69	Sanders	PER		http://dbpedia.org/resource/Bernie_Sanders
+70	Adam Kokesh	PER		http://dbpedia.org/resource/Adam_Kokesh
+70	Iraq War	EVENT		http://dbpedia.org/resource/Iraq_War
+70	US Libertarian Party	ORG		http://dbpedia.org/resource/Libertarian_Party_(United_States)
+70	Wikinews	ORG		http://dbpedia.org/resource/Wikinews
+70	President of the United States	ROLE		http://dbpedia.org/resource/President_of_the_United_States
+71	Thai Raksa Chart Party	ORG		http://dbpedia.org/resource/Thailand
+72	Nevada	LOC		http://dbpedia.org/resource/Nevada
+72	United States	LOC		http://dbpedia.org/resource/United_States
+73	Colorado	LOC		http://dbpedia.org/resource/Colorado
+74	United States	LOC		http://dbpedia.org/resource/United_States
+74	Senate	ORG		http://dbpedia.org/resource/United_States_Senate
+74	House of Representatives	ORG		http://dbpedia.org/resource/United_States_House_of_Representatives
+75	President Donald Trump	PER		http://dbpedia.org/resource/President_of_the_United_States
+75	Donald Trump	PER		http://dbpedia.org/resource/Donald_Trump
+75	Pelosi	PER		NIL
+76	House	ORG		http://dbpedia.org/resource/United_States_House_of_Representatives
+77	Stacey Abrams	PER		NIL
+77	United States Democratic Party	ORG		http://dbpedia.org/resource/Democratic_Party_(United_States)
+78	Republican Party	ORG		http://dbpedia.org/resource/Republican_Party_(United_States)
+79	Central Election Commission	ORG		NIL
+79	CEC	ORG		http://dbpedia.org/resource/Canadian_Electroacoustic_Community
+79	Russia	LOC		http://dbpedia.org/resource/Russia
+79	President Vladimir Putin	PER		http://dbpedia.org/resource/President_of_Russia
+79	Vladimir Putin	PER		http://dbpedia.org/resource/Vladimir_Putin
+80	Russia	LOC		http://dbpedia.org/resource/Russia
+81	Dmitry Medvedev	PER		http://dbpedia.org/resource/Dmitry_Medvedev
+82	John McCain	PER		http://dbpedia.org/resource/John_McCain
+82	Bob Corker	PER		http://dbpedia.org/resource/Bob_Corker
+82	President Trump	PER		http://dbpedia.org/resource/Donald_Trump
+82	Flake	PER		NIL
+83	United States	LOC		http://dbpedia.org/resource/United_States
+84	Kirsten Gillibrand	PER		http://dbpedia.org/resource/Kirsten_Gillibrand
+84	Democratic primary	EVENT		http://dbpedia.org/resource/Democratic_Party_(United_States)
+84	2020 United States presidential election	EVENT		http://dbpedia.org/resource/United_States_presidential_election,_2020
+85	United States Senator Elizabeth Warren	PER		http://dbpedia.org/resource/United_States_Senate
+85	The Boston Globe	ORG		http://dbpedia.org/resource/The_Boston_Globe
+85	DNA	OTHER		http://dbpedia.org/resource/DNA
+86	Steve Elmendorf	PER		NIL
+87	Warren	LOC		http://dbpedia.org/resource/Earl_Warren
+87	Mexico	LOC		http://dbpedia.org/resource/Mexico
+87	South America	LOC		http://dbpedia.org/resource/South_America
+87	United States	LOC		http://dbpedia.org/resource/United_States
+88	Sanders	PER		http://dbpedia.org/resource/Bernie_Sanders
+88	Brooklyn	LOC		http://dbpedia.org/resource/Brooklyn
+88	Vermont	LOC		http://dbpedia.org/resource/Vermont
+89	Congressman John Delaney	PER		http://dbpedia.org/resource/United_States_House_of_Representatives
+89	Maryland	LOC		http://dbpedia.org/resource/Maryland
+89	President	ROLE		http://dbpedia.org/resource/President_of_the_United_States
+90	Sarah Huckabee Sanders	PER		http://dbpedia.org/resource/Sarah_Huckabee_Sanders
+90	White House Press Secretary	ROLE		http://dbpedia.org/resource/White_House_Press_Secretary
+90	Scaramucci	PER		NIL
+91	Trump	PER		http://dbpedia.org/resource/Donald_Trump
+91	GOP primary	EVENT		http://dbpedia.org/resource/Republican_Party_(United_States)
+91	Scott Walker	PER		NIL
+91	Jeb Bush	PER		http://dbpedia.org/resource/Jeb_Bush
+92	U.S. Attorney General Jeff Sessions	PER		http://dbpedia.org/resource/United_States
+92	Russia	LOC		http://dbpedia.org/resource/Russia
+92	2016 U.S. presidential race 	EVENT		http://dbpedia.org/resource/United_States
+93	National Security Advisor Michael Flynn	PER		http://dbpedia.org/resource/National_Security_Advisor_(United_States)
+94	James Raskin	PER		http://dbpedia.org/resource/LeBron_James
+94	Politico	ORG		http://dbpedia.org/resource/Politico
+95	U.S.	LOC		http://dbpedia.org/resource/United_States
+95	Congress	ORG		http://dbpedia.org/resource/United_States_Congress
+96	Donald Trump	PER		http://dbpedia.org/resource/Donald_Trump
+96	2016 United States presidential election	EVENT		http://dbpedia.org/resource/United_States_presidential_election,_2016
+96	Congress	ORG		http://dbpedia.org/resource/United_States_Congress
+97	Donald Trump	PER		http://dbpedia.org/resource/Donald_Trump
+97	US	LOC		http://dbpedia.org/resource/United_States
+98	The Civil Human Rights Front	ORG		http://dbpedia.org/resource/Civil_Human_Rights_Front
+98	Victoria Park	LOC		http://dbpedia.org/resource/Victoria_(Australia)
+99	Planned Parenthood	ORG		http://dbpedia.org/resource/Planned_Parenthood
+99	American Civil Liberties Union	ORG		http://dbpedia.org/resource/American_Civil_Liberties_Union
+100	Israeli Suprem Court	ORG		http://dbpedia.org/resource/Israelis
+100	Lara Alqasem	PER		http://dbpedia.org/resource/Lara_de_los_Infantes
+100	Florida	LOC		http://dbpedia.org/resource/Florida

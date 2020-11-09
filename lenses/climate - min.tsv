@@ -61,7 +61,7 @@ doc	surface	type	start	link
 39	Michael Parenti	PER	10	http://dbpedia.org/resource/Michael_Parenti
 40	Copenhagen	LOC	167	http://dbpedia.org/resource/Copenhagen
 41	Jules Verne's	WORK	0	http://dbpedia.org/resource/Jules_Verne
-41	The Purchase	WORK	25	NIL
+41	The Purchase	WORK	0	NIL
 41	North Pole	LOC	45	http://dbpedia.org/resource/North_Pole
 41	Earth's	LOC	98	http://dbpedia.org/resource/Earth
 42	J. G. Ballard	PER	53	http://dbpedia.org/resource/J._G._Ballard
