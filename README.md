@@ -16,6 +16,9 @@ This project is dedicated to the corpora described in the paper:
   url = {https://www.aclweb.org/anthology/2020.conll-1.28}
 }
 ```
+
+A video of the slides presented at EMNLP / CoNLL 2020 is available [here](https://slideslive.com/38939490/in-media-res-a-corpus-for-evaluating-named-entity-linking-with-creative-works)
+
 ## ANNOTATION GUIDELINES
 
 The guidelines offered to the annotators are available in PDF format.
