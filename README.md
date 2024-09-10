@@ -47,6 +47,11 @@ link - DBpedia link for the entity
 
 The 3 lenses described in the paper are available for each partition.
 
+## DATA FORMATS
+
+- TSV
+- JSON (upon request)
+
 ## LICENSE 
 
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
